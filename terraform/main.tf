@@ -87,3 +87,28 @@ resource "dbtcloud_job" "daily_production_build" {
     timeout_seconds = 3600
   }
 }
+
+resource "dbtcloud_job" "demo_source_data_state_build" {
+  environment_id = dbtcloud_environment.production.environment_id
+  execute_steps = [
+    "dbt run-operation load_demo_source_data --args '{\"demo_case\": \"engagement\"}'"
+  ]
+  generate_docs        = false
+  is_active            = true
+  name                 = "Demo Source Data State Build"
+  num_threads          = var.snowflake_threads
+  project_id           = dbtcloud_project.publishing_media_demo.id
+  run_generate_sources = false
+  target_name          = "prod"
+
+  triggers = {
+    github_webhook       = false
+    git_provider_webhook = false
+    schedule             = false
+    on_merge             = false
+  }
+
+  execution = {
+    timeout_seconds = 3600
+  }
+}

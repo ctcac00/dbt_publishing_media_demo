@@ -30,3 +30,13 @@ macros:
       - name: node
         type: any
         description: dbt node passed by dbt when resolving schemas.
+
+  - name: load_demo_source_data
+    description: Loads deterministic demo source rows for state-aware build demos.
+    arguments:
+      - name: demo_case
+        type: string
+        description: Demo scenario to load. Currently supports engagement.
+      - name: demo_batch_id
+        type: string
+        description: Optional stable batch identifier for idempotent reruns.

@@ -27,3 +27,8 @@ output "daily_production_build_job_id" {
   description = "Daily Production dbt build job ID."
   value       = dbtcloud_job.daily_production_build.id
 }
+
+output "demo_source_data_state_build_job_id" {
+  description = "Demo Source Data State Build job ID."
+  value       = dbtcloud_job.demo_source_data_state_build.id
+}
