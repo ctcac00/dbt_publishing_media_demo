@@ -7,3 +7,1003 @@ paywall_event_id,article_id,reader_id,event_at,event_type,offer_name,conversion_
 7006,1005,2003,2026-06-05 11:45:00,paywall_view,Digital Plus,viewed,0
 7007,1001,2004,2026-06-01 12:10:00,meter_limit,Digital,dismissed,0
 7008,1006,2007,2026-06-06 13:25:00,meter_limit,Digital,trial_started,0
+70000001,100583,200933,2026-06-02 09:17:00,meter_limit,Digital Plus,dismissed,0
+70000002,100474,200698,2026-06-03 10:34:00,paywall_view,Intro Offer,trial_started,0
+70000003,100228,200075,2026-06-04 11:51:00,meter_limit,Annual Saver,converted,1299
+70000004,100949,200443,2026-06-05 12:08:00,paywall_view,Digital,viewed,0
+70000005,100955,200565,2026-06-06 13:25:00,meter_limit,Digital Plus,dismissed,0
+70000006,100886,200793,2026-06-07 14:42:00,paywall_view,Intro Offer,trial_started,0
+70000007,100859,200560,2026-06-08 15:59:00,meter_limit,Annual Saver,converted,1299
+70000008,100349,200776,2026-06-09 16:16:00,paywall_view,Digital,viewed,0
+70000009,100721,200053,2026-06-10 17:33:00,meter_limit,Digital Plus,dismissed,0
+70000010,100101,200136,2026-06-11 18:50:00,paywall_view,Intro Offer,trial_started,0
+70000011,100573,200585,2026-06-12 19:07:00,meter_limit,Annual Saver,converted,899
+70000012,100382,200168,2026-06-13 20:24:00,paywall_view,Digital,viewed,0
+70000013,100981,200250,2026-06-14 21:41:00,meter_limit,Digital Plus,dismissed,0
+70000014,100433,200711,2026-06-15 08:58:00,paywall_view,Intro Offer,trial_started,0
+70000015,100788,200477,2026-06-16 09:15:00,meter_limit,Annual Saver,converted,1299
+70000016,100272,200897,2026-06-17 10:32:00,paywall_view,Digital,viewed,0
+70000017,100601,200652,2026-06-18 11:49:00,meter_limit,Digital Plus,dismissed,0
+70000018,100397,200259,2026-06-19 12:06:00,paywall_view,Intro Offer,trial_started,0
+70000019,100249,200613,2026-06-20 13:23:00,meter_limit,Annual Saver,converted,1299
+70000020,100849,200308,2026-06-21 14:40:00,paywall_view,Digital,viewed,0
+70000021,100365,200005,2026-06-22 15:57:00,meter_limit,Digital Plus,dismissed,0
+70000022,100648,200445,2026-06-23 16:14:00,paywall_view,Intro Offer,trial_started,0
+70000023,100667,200079,2026-06-24 17:31:00,meter_limit,Annual Saver,converted,2499
+70000024,100893,200856,2026-06-25 18:48:00,paywall_view,Digital,viewed,0
+70000025,100464,200172,2026-06-26 19:05:00,meter_limit,Digital Plus,dismissed,0
+70000026,100152,200746,2026-06-27 20:22:00,paywall_view,Intro Offer,trial_started,0
+70000027,100088,200564,2026-06-28 21:39:00,meter_limit,Annual Saver,converted,1299
+70000028,100459,200102,2026-06-29 08:56:00,paywall_view,Digital,viewed,0
+70000029,100325,200575,2026-06-30 09:13:00,meter_limit,Digital Plus,dismissed,0
+70000030,100382,200290,2026-07-01 10:30:00,paywall_view,Intro Offer,trial_started,0
+70000031,100138,200221,2026-07-02 11:47:00,meter_limit,Annual Saver,converted,1299
+70000032,1004,200095,2026-07-03 12:04:00,paywall_view,Digital,viewed,0
+70000033,100733,200096,2026-07-04 13:21:00,meter_limit,Digital Plus,dismissed,0
+70000034,100334,200526,2026-07-05 14:38:00,paywall_view,Intro Offer,trial_started,0
+70000035,100352,200208,2026-07-06 15:55:00,meter_limit,Annual Saver,converted,2499
+70000036,100427,200783,2026-07-07 16:12:00,paywall_view,Digital,viewed,0
+70000037,100663,200066,2026-07-08 17:29:00,meter_limit,Digital Plus,dismissed,0
+70000038,100670,200334,2026-07-09 18:46:00,paywall_view,Intro Offer,trial_started,0
+70000039,100814,200448,2026-07-10 19:03:00,meter_limit,Annual Saver,converted,2499
+70000040,100422,200934,2026-07-11 20:20:00,paywall_view,Digital,viewed,0
+70000041,100577,200635,2026-07-12 21:37:00,meter_limit,Digital Plus,dismissed,0
+70000042,100843,200875,2026-07-13 08:54:00,paywall_view,Intro Offer,trial_started,0
+70000043,100574,200668,2026-07-14 09:11:00,meter_limit,Annual Saver,converted,1299
+70000044,100865,200886,2026-07-15 10:28:00,paywall_view,Digital,viewed,0
+70000045,100208,200492,2026-07-16 11:45:00,meter_limit,Digital Plus,dismissed,0
+70000046,100498,200930,2026-07-17 12:02:00,paywall_view,Intro Offer,trial_started,0
+70000047,100893,200756,2026-07-18 13:19:00,meter_limit,Annual Saver,converted,1299
+70000048,100362,200181,2026-07-19 14:36:00,paywall_view,Digital,viewed,0
+70000049,100695,200114,2026-07-20 15:53:00,meter_limit,Digital Plus,dismissed,0
+70000050,100509,200563,2026-06-01 16:10:00,paywall_view,Intro Offer,trial_started,0
+70000051,100879,200294,2026-06-02 17:27:00,meter_limit,Annual Saver,converted,2499
+70000052,100730,200661,2026-06-03 18:44:00,paywall_view,Digital,viewed,0
+70000053,100758,200913,2026-06-04 19:01:00,meter_limit,Digital Plus,dismissed,0
+70000054,100231,200930,2026-06-05 20:18:00,paywall_view,Intro Offer,trial_started,0
+70000055,100097,200957,2026-06-06 21:35:00,meter_limit,Annual Saver,converted,2499
+70000056,100541,200788,2026-06-07 08:52:00,paywall_view,Digital,viewed,0
+70000057,100924,200443,2026-06-08 09:09:00,meter_limit,Digital Plus,dismissed,0
+70000058,100503,200101,2026-06-09 10:26:00,paywall_view,Intro Offer,trial_started,0
+70000059,100404,200532,2026-06-10 11:43:00,meter_limit,Annual Saver,converted,2499
+70000060,100866,200808,2026-06-11 12:00:00,paywall_view,Digital,viewed,0
+70000061,100711,200206,2026-06-12 13:17:00,meter_limit,Digital Plus,dismissed,0
+70000062,100109,200360,2026-06-13 14:34:00,paywall_view,Intro Offer,trial_started,0
+70000063,100211,200928,2026-06-14 15:51:00,meter_limit,Annual Saver,converted,2499
+70000064,100350,200286,2026-06-15 16:08:00,paywall_view,Digital,viewed,0
+70000065,100270,200674,2026-06-16 17:25:00,meter_limit,Digital Plus,dismissed,0
+70000066,100156,200521,2026-06-17 18:42:00,paywall_view,Intro Offer,trial_started,0
+70000067,100331,200963,2026-06-18 19:59:00,meter_limit,Annual Saver,converted,2499
+70000068,100662,200696,2026-06-19 20:16:00,paywall_view,Digital,viewed,0
+70000069,100339,200946,2026-06-20 21:33:00,meter_limit,Digital Plus,dismissed,0
+70000070,100943,200169,2026-06-21 08:50:00,paywall_view,Intro Offer,trial_started,0
+70000071,100514,200614,2026-06-22 09:07:00,meter_limit,Annual Saver,converted,899
+70000072,100787,200712,2026-06-23 10:24:00,paywall_view,Digital,viewed,0
+70000073,100350,200721,2026-06-24 11:41:00,meter_limit,Digital Plus,dismissed,0
+70000074,100724,200972,2026-06-25 12:58:00,paywall_view,Intro Offer,trial_started,0
+70000075,100352,200989,2026-06-26 13:15:00,meter_limit,Annual Saver,converted,2499
+70000076,100227,200903,2026-06-27 14:32:00,paywall_view,Digital,viewed,0
+70000077,100388,200567,2026-06-28 15:49:00,meter_limit,Digital Plus,dismissed,0
+70000078,100249,200559,2026-06-29 16:06:00,paywall_view,Intro Offer,trial_started,0
+70000079,100073,200574,2026-06-30 17:23:00,meter_limit,Annual Saver,converted,899
+70000080,100539,200830,2026-07-01 18:40:00,paywall_view,Digital,viewed,0
+70000081,100971,200157,2026-07-02 19:57:00,meter_limit,Digital Plus,dismissed,0
+70000082,100365,200563,2026-07-03 20:14:00,paywall_view,Intro Offer,trial_started,0
+70000083,100201,200572,2026-07-04 21:31:00,meter_limit,Annual Saver,converted,899
+70000084,100639,200226,2026-07-05 08:48:00,paywall_view,Digital,viewed,0
+70000085,100817,200063,2026-07-06 09:05:00,meter_limit,Digital Plus,dismissed,0
+70000086,100534,200509,2026-07-07 10:22:00,paywall_view,Intro Offer,trial_started,0
+70000087,100427,200890,2026-07-08 11:39:00,meter_limit,Annual Saver,converted,2499
+70000088,100800,200506,2026-07-09 12:56:00,paywall_view,Digital,viewed,0
+70000089,100193,200325,2026-07-10 13:13:00,meter_limit,Digital Plus,dismissed,0
+70000090,100478,200610,2026-07-11 14:30:00,paywall_view,Intro Offer,trial_started,0
+70000091,100295,200479,2026-07-12 15:47:00,meter_limit,Annual Saver,converted,899
+70000092,100302,200868,2026-07-13 16:04:00,paywall_view,Digital,viewed,0
+70000093,100887,200806,2026-07-14 17:21:00,meter_limit,Digital Plus,dismissed,0
+70000094,100975,200485,2026-07-15 18:38:00,paywall_view,Intro Offer,trial_started,0
+70000095,100786,200067,2026-07-16 19:55:00,meter_limit,Annual Saver,converted,1299
+70000096,100764,200379,2026-07-17 20:12:00,paywall_view,Digital,viewed,0
+70000097,100961,200243,2026-07-18 21:29:00,meter_limit,Digital Plus,dismissed,0
+70000098,100886,200694,2026-07-19 08:46:00,paywall_view,Intro Offer,trial_started,0
+70000099,100951,200762,2026-07-20 09:03:00,meter_limit,Annual Saver,converted,899
+70000100,100893,200058,2026-06-01 10:20:00,paywall_view,Digital,viewed,0
+70000101,100702,200198,2026-06-02 11:37:00,meter_limit,Digital Plus,dismissed,0
+70000102,100988,200629,2026-06-03 12:54:00,paywall_view,Intro Offer,trial_started,0
+70000103,100004,200028,2026-06-04 13:11:00,meter_limit,Annual Saver,converted,1299
+70000104,100252,200316,2026-06-05 14:28:00,paywall_view,Digital,viewed,0
+70000105,100360,200344,2026-06-06 15:45:00,meter_limit,Digital Plus,dismissed,0
+70000106,100142,200781,2026-06-07 16:02:00,paywall_view,Intro Offer,trial_started,0
+70000107,100337,200470,2026-06-08 17:19:00,meter_limit,Annual Saver,converted,2499
+70000108,100668,200675,2026-06-09 18:36:00,paywall_view,Digital,viewed,0
+70000109,100539,200899,2026-06-10 19:53:00,meter_limit,Digital Plus,dismissed,0
+70000110,100027,200104,2026-06-11 20:10:00,paywall_view,Intro Offer,trial_started,0
+70000111,100264,200245,2026-06-12 21:27:00,meter_limit,Annual Saver,converted,2499
+70000112,100437,200687,2026-06-13 08:44:00,paywall_view,Digital,viewed,0
+70000113,100119,200843,2026-06-14 09:01:00,meter_limit,Digital Plus,dismissed,0
+70000114,100365,200498,2026-06-15 10:18:00,paywall_view,Intro Offer,trial_started,0
+70000115,100768,200860,2026-06-16 11:35:00,meter_limit,Annual Saver,converted,2499
+70000116,100770,200476,2026-06-17 12:52:00,paywall_view,Digital,viewed,0
+70000117,100184,200550,2026-06-18 13:09:00,meter_limit,Digital Plus,dismissed,0
+70000118,100705,200202,2026-06-19 14:26:00,paywall_view,Intro Offer,trial_started,0
+70000119,100570,200079,2026-06-20 15:43:00,meter_limit,Annual Saver,converted,2499
+70000120,100783,200062,2026-06-21 16:00:00,paywall_view,Digital,viewed,0
+70000121,100315,200368,2026-06-22 17:17:00,meter_limit,Digital Plus,dismissed,0
+70000122,100582,200078,2026-06-23 18:34:00,paywall_view,Intro Offer,trial_started,0
+70000123,100338,200537,2026-06-24 19:51:00,meter_limit,Annual Saver,converted,899
+70000124,100569,200600,2026-06-25 20:08:00,paywall_view,Digital,viewed,0
+70000125,100140,200288,2026-06-26 21:25:00,meter_limit,Digital Plus,dismissed,0
+70000126,100243,200900,2026-06-27 08:42:00,paywall_view,Intro Offer,trial_started,0
+70000127,100788,200580,2026-06-28 09:59:00,meter_limit,Annual Saver,converted,2499
+70000128,100645,200552,2026-06-29 10:16:00,paywall_view,Digital,viewed,0
+70000129,100654,200020,2026-06-30 11:33:00,meter_limit,Digital Plus,dismissed,0
+70000130,100523,200828,2026-07-01 12:50:00,paywall_view,Intro Offer,trial_started,0
+70000131,100596,200132,2026-07-02 13:07:00,meter_limit,Annual Saver,converted,2499
+70000132,100829,200399,2026-07-03 14:24:00,paywall_view,Digital,viewed,0
+70000133,100278,200834,2026-07-04 15:41:00,meter_limit,Digital Plus,dismissed,0
+70000134,100979,200630,2026-07-05 16:58:00,paywall_view,Intro Offer,trial_started,0
+70000135,100645,200424,2026-07-06 17:15:00,meter_limit,Annual Saver,converted,2499
+70000136,100211,200569,2026-07-07 18:32:00,paywall_view,Digital,viewed,0
+70000137,100474,200003,2026-07-08 19:49:00,meter_limit,Digital Plus,dismissed,0
+70000138,100815,200941,2026-07-09 20:06:00,paywall_view,Intro Offer,trial_started,0
+70000139,100003,200534,2026-07-10 21:23:00,meter_limit,Annual Saver,converted,1299
+70000140,100465,200828,2026-07-11 08:40:00,paywall_view,Digital,viewed,0
+70000141,100309,200014,2026-07-12 09:57:00,meter_limit,Digital Plus,dismissed,0
+70000142,100710,200841,2026-07-13 10:14:00,paywall_view,Intro Offer,trial_started,0
+70000143,100973,200884,2026-07-14 11:31:00,meter_limit,Annual Saver,converted,1299
+70000144,100195,200735,2026-07-15 12:48:00,paywall_view,Digital,viewed,0
+70000145,100897,200552,2026-07-16 13:05:00,meter_limit,Digital Plus,dismissed,0
+70000146,100090,200210,2026-07-17 14:22:00,paywall_view,Intro Offer,trial_started,0
+70000147,100065,200473,2026-07-18 15:39:00,meter_limit,Annual Saver,converted,2499
+70000148,100944,200529,2026-07-19 16:56:00,paywall_view,Digital,viewed,0
+70000149,100924,200284,2026-07-20 17:13:00,meter_limit,Digital Plus,dismissed,0
+70000150,100381,200068,2026-06-01 18:30:00,paywall_view,Intro Offer,trial_started,0
+70000151,100284,200220,2026-06-02 19:47:00,meter_limit,Annual Saver,converted,1299
+70000152,100176,200202,2026-06-03 20:04:00,paywall_view,Digital,viewed,0
+70000153,100072,200570,2026-06-04 21:21:00,meter_limit,Digital Plus,dismissed,0
+70000154,100005,200202,2026-06-05 08:38:00,paywall_view,Intro Offer,trial_started,0
+70000155,100606,200865,2026-06-06 09:55:00,meter_limit,Annual Saver,converted,899
+70000156,100527,200172,2026-06-07 10:12:00,paywall_view,Digital,viewed,0
+70000157,100427,200909,2026-06-08 11:29:00,meter_limit,Digital Plus,dismissed,0
+70000158,100585,200920,2026-06-09 12:46:00,paywall_view,Intro Offer,trial_started,0
+70000159,100796,200421,2026-06-10 13:03:00,meter_limit,Annual Saver,converted,2499
+70000160,100133,200801,2026-06-11 14:20:00,paywall_view,Digital,viewed,0
+70000161,100995,2004,2026-06-12 15:37:00,meter_limit,Digital Plus,dismissed,0
+70000162,100322,200457,2026-06-13 16:54:00,paywall_view,Intro Offer,trial_started,0
+70000163,100783,200233,2026-06-14 17:11:00,meter_limit,Annual Saver,converted,2499
+70000164,100289,200255,2026-06-15 18:28:00,paywall_view,Digital,viewed,0
+70000165,100726,200411,2026-06-16 19:45:00,meter_limit,Digital Plus,dismissed,0
+70000166,100706,200734,2026-06-17 20:02:00,paywall_view,Intro Offer,trial_started,0
+70000167,100781,200678,2026-06-18 21:19:00,meter_limit,Annual Saver,converted,2499
+70000168,100036,200127,2026-06-19 08:36:00,paywall_view,Digital,viewed,0
+70000169,100845,200761,2026-06-20 09:53:00,meter_limit,Digital Plus,dismissed,0
+70000170,100636,200341,2026-06-21 10:10:00,paywall_view,Intro Offer,trial_started,0
+70000171,100563,200559,2026-06-22 11:27:00,meter_limit,Annual Saver,converted,899
+70000172,100708,200211,2026-06-23 12:44:00,paywall_view,Digital,viewed,0
+70000173,100979,200241,2026-06-24 13:01:00,meter_limit,Digital Plus,dismissed,0
+70000174,100027,200591,2026-06-25 14:18:00,paywall_view,Intro Offer,trial_started,0
+70000175,100772,200648,2026-06-26 15:35:00,meter_limit,Annual Saver,converted,899
+70000176,100438,200718,2026-06-27 16:52:00,paywall_view,Digital,viewed,0
+70000177,100155,200803,2026-06-28 17:09:00,meter_limit,Digital Plus,dismissed,0
+70000178,100003,200017,2026-06-29 18:26:00,paywall_view,Intro Offer,trial_started,0
+70000179,100225,200266,2026-06-30 19:43:00,meter_limit,Annual Saver,converted,899
+70000180,100213,200697,2026-07-01 20:00:00,paywall_view,Digital,viewed,0
+70000181,100368,200490,2026-07-02 21:17:00,meter_limit,Digital Plus,dismissed,0
+70000182,100260,200668,2026-07-03 08:34:00,paywall_view,Intro Offer,trial_started,0
+70000183,100535,200538,2026-07-04 09:51:00,meter_limit,Annual Saver,converted,899
+70000184,100846,200715,2026-07-05 10:08:00,paywall_view,Digital,viewed,0
+70000185,100279,200177,2026-07-06 11:25:00,meter_limit,Digital Plus,dismissed,0
+70000186,100707,200360,2026-07-07 12:42:00,paywall_view,Intro Offer,trial_started,0
+70000187,100161,200002,2026-07-08 13:59:00,meter_limit,Annual Saver,converted,1299
+70000188,100336,200893,2026-07-09 14:16:00,paywall_view,Digital,viewed,0
+70000189,100292,200034,2026-07-10 15:33:00,meter_limit,Digital Plus,dismissed,0
+70000190,100770,200274,2026-07-11 16:50:00,paywall_view,Intro Offer,trial_started,0
+70000191,100939,200815,2026-07-12 17:07:00,meter_limit,Annual Saver,converted,1299
+70000192,100169,200092,2026-07-13 18:24:00,paywall_view,Digital,viewed,0
+70000193,100942,200013,2026-07-14 19:41:00,meter_limit,Digital Plus,dismissed,0
+70000194,100120,200121,2026-07-15 20:58:00,paywall_view,Intro Offer,trial_started,0
+70000195,100540,200447,2026-07-16 21:15:00,meter_limit,Annual Saver,converted,2499
+70000196,100241,200791,2026-07-17 08:32:00,paywall_view,Digital,viewed,0
+70000197,100722,200843,2026-07-18 09:49:00,meter_limit,Digital Plus,dismissed,0
+70000198,100668,200504,2026-07-19 10:06:00,paywall_view,Intro Offer,trial_started,0
+70000199,100769,200533,2026-07-20 11:23:00,meter_limit,Annual Saver,converted,899
+70000200,100711,200680,2026-06-01 12:40:00,paywall_view,Digital,viewed,0
+70000201,100683,200619,2026-06-02 13:57:00,meter_limit,Digital Plus,dismissed,0
+70000202,100095,200546,2026-06-03 14:14:00,paywall_view,Intro Offer,trial_started,0
+70000203,100033,200221,2026-06-04 15:31:00,meter_limit,Annual Saver,converted,1299
+70000204,100991,200918,2026-06-05 16:48:00,paywall_view,Digital,viewed,0
+70000205,100817,200356,2026-06-06 17:05:00,meter_limit,Digital Plus,dismissed,0
+70000206,100158,200633,2026-06-07 18:22:00,paywall_view,Intro Offer,trial_started,0
+70000207,100523,200121,2026-06-08 19:39:00,meter_limit,Annual Saver,converted,2499
+70000208,100413,200536,2026-06-09 20:56:00,paywall_view,Digital,viewed,0
+70000209,100712,200718,2026-06-10 21:13:00,meter_limit,Digital Plus,dismissed,0
+70000210,100787,200328,2026-06-11 08:30:00,paywall_view,Intro Offer,trial_started,0
+70000211,100912,200483,2026-06-12 09:47:00,meter_limit,Annual Saver,converted,1299
+70000212,100417,200998,2026-06-13 10:04:00,paywall_view,Digital,viewed,0
+70000213,100217,200621,2026-06-14 11:21:00,meter_limit,Digital Plus,dismissed,0
+70000214,100378,200434,2026-06-15 12:38:00,paywall_view,Intro Offer,trial_started,0
+70000215,100287,200281,2026-06-16 13:55:00,meter_limit,Annual Saver,converted,899
+70000216,100790,200576,2026-06-17 14:12:00,paywall_view,Digital,viewed,0
+70000217,100858,200129,2026-06-18 15:29:00,meter_limit,Digital Plus,dismissed,0
+70000218,100899,200412,2026-06-19 16:46:00,paywall_view,Intro Offer,trial_started,0
+70000219,100795,200469,2026-06-20 17:03:00,meter_limit,Annual Saver,converted,1299
+70000220,100104,200810,2026-06-21 18:20:00,paywall_view,Digital,viewed,0
+70000221,100918,200595,2026-06-22 19:37:00,meter_limit,Digital Plus,dismissed,0
+70000222,100905,200470,2026-06-23 20:54:00,paywall_view,Intro Offer,trial_started,0
+70000223,100158,200889,2026-06-24 21:11:00,meter_limit,Annual Saver,converted,1299
+70000224,100619,200709,2026-06-25 08:28:00,paywall_view,Digital,viewed,0
+70000225,100837,200503,2026-06-26 09:45:00,meter_limit,Digital Plus,dismissed,0
+70000226,100794,200224,2026-06-27 10:02:00,paywall_view,Intro Offer,trial_started,0
+70000227,100013,200441,2026-06-28 11:19:00,meter_limit,Annual Saver,converted,1299
+70000228,100254,200991,2026-06-29 12:36:00,paywall_view,Digital,viewed,0
+70000229,100393,200158,2026-06-30 13:53:00,meter_limit,Digital Plus,dismissed,0
+70000230,100995,200807,2026-07-01 14:10:00,paywall_view,Intro Offer,trial_started,0
+70000231,100252,200044,2026-07-02 15:27:00,meter_limit,Annual Saver,converted,899
+70000232,100665,200472,2026-07-03 16:44:00,paywall_view,Digital,viewed,0
+70000233,100603,200263,2026-07-04 17:01:00,meter_limit,Digital Plus,dismissed,0
+70000234,100363,200221,2026-07-05 18:18:00,paywall_view,Intro Offer,trial_started,0
+70000235,100130,200752,2026-07-06 19:35:00,meter_limit,Annual Saver,converted,899
+70000236,100114,200025,2026-07-07 20:52:00,paywall_view,Digital,viewed,0
+70000237,100519,200857,2026-07-08 21:09:00,meter_limit,Digital Plus,dismissed,0
+70000238,100719,200948,2026-07-09 08:26:00,paywall_view,Intro Offer,trial_started,0
+70000239,100531,200163,2026-07-10 09:43:00,meter_limit,Annual Saver,converted,899
+70000240,100027,200199,2026-07-11 10:00:00,paywall_view,Digital,viewed,0
+70000241,100479,200972,2026-07-12 11:17:00,meter_limit,Digital Plus,dismissed,0
+70000242,100874,200614,2026-07-13 12:34:00,paywall_view,Intro Offer,trial_started,0
+70000243,100537,200842,2026-07-14 13:51:00,meter_limit,Annual Saver,converted,1299
+70000244,100878,200238,2026-07-15 14:08:00,paywall_view,Digital,viewed,0
+70000245,100254,200226,2026-07-16 15:25:00,meter_limit,Digital Plus,dismissed,0
+70000246,100979,200448,2026-07-17 16:42:00,paywall_view,Intro Offer,trial_started,0
+70000247,100684,200027,2026-07-18 17:59:00,meter_limit,Annual Saver,converted,1299
+70000248,100986,200149,2026-07-19 18:16:00,paywall_view,Digital,viewed,0
+70000249,100933,200027,2026-07-20 19:33:00,meter_limit,Digital Plus,dismissed,0
+70000250,100079,200250,2026-06-01 20:50:00,paywall_view,Intro Offer,trial_started,0
+70000251,100352,200526,2026-06-02 21:07:00,meter_limit,Annual Saver,converted,1299
+70000252,100438,200745,2026-06-03 08:24:00,paywall_view,Digital,viewed,0
+70000253,100706,200304,2026-06-04 09:41:00,meter_limit,Digital Plus,dismissed,0
+70000254,100060,200171,2026-06-05 10:58:00,paywall_view,Intro Offer,trial_started,0
+70000255,100387,200959,2026-06-06 11:15:00,meter_limit,Annual Saver,converted,2499
+70000256,100330,200162,2026-06-07 12:32:00,paywall_view,Digital,viewed,0
+70000257,100304,200792,2026-06-08 13:49:00,meter_limit,Digital Plus,dismissed,0
+70000258,100075,200459,2026-06-09 14:06:00,paywall_view,Intro Offer,trial_started,0
+70000259,100576,200401,2026-06-10 15:23:00,meter_limit,Annual Saver,converted,1299
+70000260,100217,200522,2026-06-11 16:40:00,paywall_view,Digital,viewed,0
+70000261,100147,200805,2026-06-12 17:57:00,meter_limit,Digital Plus,dismissed,0
+70000262,100890,200376,2026-06-13 18:14:00,paywall_view,Intro Offer,trial_started,0
+70000263,100917,200238,2026-06-14 19:31:00,meter_limit,Annual Saver,converted,899
+70000264,100499,200093,2026-06-15 20:48:00,paywall_view,Digital,viewed,0
+70000265,100358,200489,2026-06-16 21:05:00,meter_limit,Digital Plus,dismissed,0
+70000266,100964,200382,2026-06-17 08:22:00,paywall_view,Intro Offer,trial_started,0
+70000267,100414,200639,2026-06-18 09:39:00,meter_limit,Annual Saver,converted,899
+70000268,100223,200423,2026-06-19 10:56:00,paywall_view,Digital,viewed,0
+70000269,100802,200499,2026-06-20 11:13:00,meter_limit,Digital Plus,dismissed,0
+70000270,100906,200774,2026-06-21 12:30:00,paywall_view,Intro Offer,trial_started,0
+70000271,100357,200940,2026-06-22 13:47:00,meter_limit,Annual Saver,converted,1299
+70000272,100619,200676,2026-06-23 14:04:00,paywall_view,Digital,viewed,0
+70000273,100885,200323,2026-06-24 15:21:00,meter_limit,Digital Plus,dismissed,0
+70000274,100929,200524,2026-06-25 16:38:00,paywall_view,Intro Offer,trial_started,0
+70000275,100663,200635,2026-06-26 17:55:00,meter_limit,Annual Saver,converted,1299
+70000276,100995,200501,2026-06-27 18:12:00,paywall_view,Digital,viewed,0
+70000277,100325,200252,2026-06-28 19:29:00,meter_limit,Digital Plus,dismissed,0
+70000278,100301,200349,2026-06-29 20:46:00,paywall_view,Intro Offer,trial_started,0
+70000279,100457,200291,2026-06-30 21:03:00,meter_limit,Annual Saver,converted,1299
+70000280,100269,200021,2026-07-01 08:20:00,paywall_view,Digital,viewed,0
+70000281,100147,200546,2026-07-02 09:37:00,meter_limit,Digital Plus,dismissed,0
+70000282,100944,200397,2026-07-03 10:54:00,paywall_view,Intro Offer,trial_started,0
+70000283,100878,200459,2026-07-04 11:11:00,meter_limit,Annual Saver,converted,2499
+70000284,100537,200497,2026-07-05 12:28:00,paywall_view,Digital,viewed,0
+70000285,100458,200873,2026-07-06 13:45:00,meter_limit,Digital Plus,dismissed,0
+70000286,100268,200293,2026-07-07 14:02:00,paywall_view,Intro Offer,trial_started,0
+70000287,100197,200393,2026-07-08 15:19:00,meter_limit,Annual Saver,converted,1299
+70000288,100330,200122,2026-07-09 16:36:00,paywall_view,Digital,viewed,0
+70000289,100510,200693,2026-07-10 17:53:00,meter_limit,Digital Plus,dismissed,0
+70000290,100835,200300,2026-07-11 18:10:00,paywall_view,Intro Offer,trial_started,0
+70000291,100752,200010,2026-07-12 19:27:00,meter_limit,Annual Saver,converted,2499
+70000292,100511,200970,2026-07-13 20:44:00,paywall_view,Digital,viewed,0
+70000293,100993,200598,2026-07-14 21:01:00,meter_limit,Digital Plus,dismissed,0
+70000294,100297,200920,2026-07-15 08:18:00,paywall_view,Intro Offer,trial_started,0
+70000295,100130,200173,2026-07-16 09:35:00,meter_limit,Annual Saver,converted,899
+70000296,100997,200310,2026-07-17 10:52:00,paywall_view,Digital,viewed,0
+70000297,100667,200419,2026-07-18 11:09:00,meter_limit,Digital Plus,dismissed,0
+70000298,100934,200718,2026-07-19 12:26:00,paywall_view,Intro Offer,trial_started,0
+70000299,100572,200629,2026-07-20 13:43:00,meter_limit,Annual Saver,converted,1299
+70000300,100807,200733,2026-06-01 14:00:00,paywall_view,Digital,viewed,0
+70000301,100427,200613,2026-06-02 15:17:00,meter_limit,Digital Plus,dismissed,0
+70000302,100751,200450,2026-06-03 16:34:00,paywall_view,Intro Offer,trial_started,0
+70000303,100548,200112,2026-06-04 17:51:00,meter_limit,Annual Saver,converted,1299
+70000304,100155,200917,2026-06-05 18:08:00,paywall_view,Digital,viewed,0
+70000305,100117,200504,2026-06-06 19:25:00,meter_limit,Digital Plus,dismissed,0
+70000306,100430,200497,2026-06-07 20:42:00,paywall_view,Intro Offer,trial_started,0
+70000307,100944,200682,2026-06-08 21:59:00,meter_limit,Annual Saver,converted,2499
+70000308,100282,200653,2026-06-09 08:16:00,paywall_view,Digital,viewed,0
+70000309,100146,200259,2026-06-10 09:33:00,meter_limit,Digital Plus,dismissed,0
+70000310,100217,200962,2026-06-11 10:50:00,paywall_view,Intro Offer,trial_started,0
+70000311,100836,200121,2026-06-12 11:07:00,meter_limit,Annual Saver,converted,899
+70000312,100579,200503,2026-06-13 12:24:00,paywall_view,Digital,viewed,0
+70000313,100812,200444,2026-06-14 13:41:00,meter_limit,Digital Plus,dismissed,0
+70000314,100171,200723,2026-06-15 14:58:00,paywall_view,Intro Offer,trial_started,0
+70000315,100024,200748,2026-06-16 15:15:00,meter_limit,Annual Saver,converted,899
+70000316,100387,200332,2026-06-17 16:32:00,paywall_view,Digital,viewed,0
+70000317,100941,200452,2026-06-18 17:49:00,meter_limit,Digital Plus,dismissed,0
+70000318,100591,200765,2026-06-19 18:06:00,paywall_view,Intro Offer,trial_started,0
+70000319,100669,200770,2026-06-20 19:23:00,meter_limit,Annual Saver,converted,1299
+70000320,100104,200821,2026-06-21 20:40:00,paywall_view,Digital,viewed,0
+70000321,100612,200327,2026-06-22 21:57:00,meter_limit,Digital Plus,dismissed,0
+70000322,100952,200750,2026-06-23 08:14:00,paywall_view,Intro Offer,trial_started,0
+70000323,100069,200490,2026-06-24 09:31:00,meter_limit,Annual Saver,converted,899
+70000324,100398,200286,2026-06-25 10:48:00,paywall_view,Digital,viewed,0
+70000325,100178,200411,2026-06-26 11:05:00,meter_limit,Digital Plus,dismissed,0
+70000326,100786,200144,2026-06-27 12:22:00,paywall_view,Intro Offer,trial_started,0
+70000327,100736,200177,2026-06-28 13:39:00,meter_limit,Annual Saver,converted,1299
+70000328,100335,200601,2026-06-29 14:56:00,paywall_view,Digital,viewed,0
+70000329,100224,200328,2026-06-30 15:13:00,meter_limit,Digital Plus,dismissed,0
+70000330,100856,200488,2026-07-01 16:30:00,paywall_view,Intro Offer,trial_started,0
+70000331,100199,200035,2026-07-02 17:47:00,meter_limit,Annual Saver,converted,1299
+70000332,100602,200903,2026-07-03 18:04:00,paywall_view,Digital,viewed,0
+70000333,100951,200371,2026-07-04 19:21:00,meter_limit,Digital Plus,dismissed,0
+70000334,100869,200521,2026-07-05 20:38:00,paywall_view,Intro Offer,trial_started,0
+70000335,100380,200642,2026-07-06 21:55:00,meter_limit,Annual Saver,converted,899
+70000336,100903,200394,2026-07-07 08:12:00,paywall_view,Digital,viewed,0
+70000337,100314,200642,2026-07-08 09:29:00,meter_limit,Digital Plus,dismissed,0
+70000338,100450,200088,2026-07-09 10:46:00,paywall_view,Intro Offer,trial_started,0
+70000339,100568,200857,2026-07-10 11:03:00,meter_limit,Annual Saver,converted,2499
+70000340,100341,200835,2026-07-11 12:20:00,paywall_view,Digital,viewed,0
+70000341,100406,200025,2026-07-12 13:37:00,meter_limit,Digital Plus,dismissed,0
+70000342,100109,200997,2026-07-13 14:54:00,paywall_view,Intro Offer,trial_started,0
+70000343,100277,200406,2026-07-14 15:11:00,meter_limit,Annual Saver,converted,1299
+70000344,100378,200493,2026-07-15 16:28:00,paywall_view,Digital,viewed,0
+70000345,100175,200848,2026-07-16 17:45:00,meter_limit,Digital Plus,dismissed,0
+70000346,100168,200873,2026-07-17 18:02:00,paywall_view,Intro Offer,trial_started,0
+70000347,100013,200003,2026-07-18 19:19:00,meter_limit,Annual Saver,converted,1299
+70000348,100749,200309,2026-07-19 20:36:00,paywall_view,Digital,viewed,0
+70000349,100402,200791,2026-07-20 21:53:00,meter_limit,Digital Plus,dismissed,0
+70000350,100454,200301,2026-06-01 08:10:00,paywall_view,Intro Offer,trial_started,0
+70000351,100615,200005,2026-06-02 09:27:00,meter_limit,Annual Saver,converted,899
+70000352,100204,200037,2026-06-03 10:44:00,paywall_view,Digital,viewed,0
+70000353,100999,200320,2026-06-04 11:01:00,meter_limit,Digital Plus,dismissed,0
+70000354,100849,200248,2026-06-05 12:18:00,paywall_view,Intro Offer,trial_started,0
+70000355,100640,200180,2026-06-06 13:35:00,meter_limit,Annual Saver,converted,899
+70000356,100585,200054,2026-06-07 14:52:00,paywall_view,Digital,viewed,0
+70000357,100113,200940,2026-06-08 15:09:00,meter_limit,Digital Plus,dismissed,0
+70000358,100810,200281,2026-06-09 16:26:00,paywall_view,Intro Offer,trial_started,0
+70000359,100373,200056,2026-06-10 17:43:00,meter_limit,Annual Saver,converted,1299
+70000360,100847,200099,2026-06-11 18:00:00,paywall_view,Digital,viewed,0
+70000361,100558,200486,2026-06-12 19:17:00,meter_limit,Digital Plus,dismissed,0
+70000362,100591,200853,2026-06-13 20:34:00,paywall_view,Intro Offer,trial_started,0
+70000363,100769,200432,2026-06-14 21:51:00,meter_limit,Annual Saver,converted,899
+70000364,100317,200492,2026-06-15 08:08:00,paywall_view,Digital,viewed,0
+70000365,100524,200450,2026-06-16 09:25:00,meter_limit,Digital Plus,dismissed,0
+70000366,100622,200316,2026-06-17 10:42:00,paywall_view,Intro Offer,trial_started,0
+70000367,100967,200906,2026-06-18 11:59:00,meter_limit,Annual Saver,converted,899
+70000368,100505,200498,2026-06-19 12:16:00,paywall_view,Digital,viewed,0
+70000369,100993,200450,2026-06-20 13:33:00,meter_limit,Digital Plus,dismissed,0
+70000370,100489,200351,2026-06-21 14:50:00,paywall_view,Intro Offer,trial_started,0
+70000371,100400,200373,2026-06-22 15:07:00,meter_limit,Annual Saver,converted,2499
+70000372,100904,200976,2026-06-23 16:24:00,paywall_view,Digital,viewed,0
+70000373,100164,200150,2026-06-24 17:41:00,meter_limit,Digital Plus,dismissed,0
+70000374,100416,200448,2026-06-25 18:58:00,paywall_view,Intro Offer,trial_started,0
+70000375,100550,200175,2026-06-26 19:15:00,meter_limit,Annual Saver,converted,899
+70000376,100935,200377,2026-06-27 20:32:00,paywall_view,Digital,viewed,0
+70000377,100550,200985,2026-06-28 21:49:00,meter_limit,Digital Plus,dismissed,0
+70000378,100547,200904,2026-06-29 08:06:00,paywall_view,Intro Offer,trial_started,0
+70000379,100398,200548,2026-06-30 09:23:00,meter_limit,Annual Saver,converted,2499
+70000380,100982,200575,2026-07-01 10:40:00,paywall_view,Digital,viewed,0
+70000381,100796,200945,2026-07-02 11:57:00,meter_limit,Digital Plus,dismissed,0
+70000382,100675,200623,2026-07-03 12:14:00,paywall_view,Intro Offer,trial_started,0
+70000383,100755,200541,2026-07-04 13:31:00,meter_limit,Annual Saver,converted,2499
+70000384,100269,200604,2026-07-05 14:48:00,paywall_view,Digital,viewed,0
+70000385,100143,200360,2026-07-06 15:05:00,meter_limit,Digital Plus,dismissed,0
+70000386,100195,200168,2026-07-07 16:22:00,paywall_view,Intro Offer,trial_started,0
+70000387,100515,200938,2026-07-08 17:39:00,meter_limit,Annual Saver,converted,2499
+70000388,100329,200960,2026-07-09 18:56:00,paywall_view,Digital,viewed,0
+70000389,100897,200842,2026-07-10 19:13:00,meter_limit,Digital Plus,dismissed,0
+70000390,100131,200892,2026-07-11 20:30:00,paywall_view,Intro Offer,trial_started,0
+70000391,100836,200237,2026-07-12 21:47:00,meter_limit,Annual Saver,converted,1299
+70000392,100030,200891,2026-07-13 08:04:00,paywall_view,Digital,viewed,0
+70000393,100408,200879,2026-07-14 09:21:00,meter_limit,Digital Plus,dismissed,0
+70000394,100950,200260,2026-07-15 10:38:00,paywall_view,Intro Offer,trial_started,0
+70000395,100834,200380,2026-07-16 11:55:00,meter_limit,Annual Saver,converted,1299
+70000396,100579,200642,2026-07-17 12:12:00,paywall_view,Digital,viewed,0
+70000397,100111,200775,2026-07-18 13:29:00,meter_limit,Digital Plus,dismissed,0
+70000398,100728,200036,2026-07-19 14:46:00,paywall_view,Intro Offer,trial_started,0
+70000399,100517,200993,2026-07-20 15:03:00,meter_limit,Annual Saver,converted,1299
+70000400,100424,200713,2026-06-01 16:20:00,paywall_view,Digital,viewed,0
+70000401,100469,200477,2026-06-02 17:37:00,meter_limit,Digital Plus,dismissed,0
+70000402,100893,200967,2026-06-03 18:54:00,paywall_view,Intro Offer,trial_started,0
+70000403,100472,200014,2026-06-04 19:11:00,meter_limit,Annual Saver,converted,2499
+70000404,100818,200033,2026-06-05 20:28:00,paywall_view,Digital,viewed,0
+70000405,100258,200825,2026-06-06 21:45:00,meter_limit,Digital Plus,dismissed,0
+70000406,100506,200680,2026-06-07 08:02:00,paywall_view,Intro Offer,trial_started,0
+70000407,100101,200811,2026-06-08 09:19:00,meter_limit,Annual Saver,converted,2499
+70000408,100513,200315,2026-06-09 10:36:00,paywall_view,Digital,viewed,0
+70000409,100421,200790,2026-06-10 11:53:00,meter_limit,Digital Plus,dismissed,0
+70000410,100536,200303,2026-06-11 12:10:00,paywall_view,Intro Offer,trial_started,0
+70000411,100358,200706,2026-06-12 13:27:00,meter_limit,Annual Saver,converted,2499
+70000412,100986,200089,2026-06-13 14:44:00,paywall_view,Digital,viewed,0
+70000413,100598,200031,2026-06-14 15:01:00,meter_limit,Digital Plus,dismissed,0
+70000414,100161,200377,2026-06-15 16:18:00,paywall_view,Intro Offer,trial_started,0
+70000415,100491,200514,2026-06-16 17:35:00,meter_limit,Annual Saver,converted,2499
+70000416,100118,200807,2026-06-17 18:52:00,paywall_view,Digital,viewed,0
+70000417,100421,200883,2026-06-18 19:09:00,meter_limit,Digital Plus,dismissed,0
+70000418,100819,200486,2026-06-19 20:26:00,paywall_view,Intro Offer,trial_started,0
+70000419,100474,200455,2026-06-20 21:43:00,meter_limit,Annual Saver,converted,2499
+70000420,100616,200793,2026-06-21 08:00:00,paywall_view,Digital,viewed,0
+70000421,100307,200798,2026-06-22 09:17:00,meter_limit,Digital Plus,dismissed,0
+70000422,100056,200112,2026-06-23 10:34:00,paywall_view,Intro Offer,trial_started,0
+70000423,100521,200706,2026-06-24 11:51:00,meter_limit,Annual Saver,converted,1299
+70000424,100050,200230,2026-06-25 12:08:00,paywall_view,Digital,viewed,0
+70000425,100357,200487,2026-06-26 13:25:00,meter_limit,Digital Plus,dismissed,0
+70000426,100148,200752,2026-06-27 14:42:00,paywall_view,Intro Offer,trial_started,0
+70000427,100542,200177,2026-06-28 15:59:00,meter_limit,Annual Saver,converted,899
+70000428,100529,200127,2026-06-29 16:16:00,paywall_view,Digital,viewed,0
+70000429,100155,200111,2026-06-30 17:33:00,meter_limit,Digital Plus,dismissed,0
+70000430,100474,200690,2026-07-01 18:50:00,paywall_view,Intro Offer,trial_started,0
+70000431,100750,200368,2026-07-02 19:07:00,meter_limit,Annual Saver,converted,1299
+70000432,100997,200754,2026-07-03 20:24:00,paywall_view,Digital,viewed,0
+70000433,100768,200403,2026-07-04 21:41:00,meter_limit,Digital Plus,dismissed,0
+70000434,100140,200356,2026-07-05 08:58:00,paywall_view,Intro Offer,trial_started,0
+70000435,100860,200850,2026-07-06 09:15:00,meter_limit,Annual Saver,converted,1299
+70000436,100478,200027,2026-07-07 10:32:00,paywall_view,Digital,viewed,0
+70000437,101000,200081,2026-07-08 11:49:00,meter_limit,Digital Plus,dismissed,0
+70000438,100738,200136,2026-07-09 12:06:00,paywall_view,Intro Offer,trial_started,0
+70000439,100666,200743,2026-07-10 13:23:00,meter_limit,Annual Saver,converted,899
+70000440,100166,200266,2026-07-11 14:40:00,paywall_view,Digital,viewed,0
+70000441,100521,200315,2026-07-12 15:57:00,meter_limit,Digital Plus,dismissed,0
+70000442,100227,200360,2026-07-13 16:14:00,paywall_view,Intro Offer,trial_started,0
+70000443,100171,200762,2026-07-14 17:31:00,meter_limit,Annual Saver,converted,2499
+70000444,100382,200897,2026-07-15 18:48:00,paywall_view,Digital,viewed,0
+70000445,100999,200258,2026-07-16 19:05:00,meter_limit,Digital Plus,dismissed,0
+70000446,100929,200475,2026-07-17 20:22:00,paywall_view,Intro Offer,trial_started,0
+70000447,100526,200688,2026-07-18 21:39:00,meter_limit,Annual Saver,converted,1299
+70000448,100467,200166,2026-07-19 08:56:00,paywall_view,Digital,viewed,0
+70000449,100130,200583,2026-07-20 09:13:00,meter_limit,Digital Plus,dismissed,0
+70000450,100329,200266,2026-06-01 10:30:00,paywall_view,Intro Offer,trial_started,0
+70000451,100276,200036,2026-06-02 11:47:00,meter_limit,Annual Saver,converted,2499
+70000452,100362,200541,2026-06-03 12:04:00,paywall_view,Digital,viewed,0
+70000453,100097,200020,2026-06-04 13:21:00,meter_limit,Digital Plus,dismissed,0
+70000454,100512,200290,2026-06-05 14:38:00,paywall_view,Intro Offer,trial_started,0
+70000455,100987,200397,2026-06-06 15:55:00,meter_limit,Annual Saver,converted,899
+70000456,100106,200433,2026-06-07 16:12:00,paywall_view,Digital,viewed,0
+70000457,100558,200346,2026-06-08 17:29:00,meter_limit,Digital Plus,dismissed,0
+70000458,100520,200671,2026-06-09 18:46:00,paywall_view,Intro Offer,trial_started,0
+70000459,100159,200375,2026-06-10 19:03:00,meter_limit,Annual Saver,converted,1299
+70000460,100716,200184,2026-06-11 20:20:00,paywall_view,Digital,viewed,0
+70000461,100428,200345,2026-06-12 21:37:00,meter_limit,Digital Plus,dismissed,0
+70000462,100251,200137,2026-06-13 08:54:00,paywall_view,Intro Offer,trial_started,0
+70000463,100930,200875,2026-06-14 09:11:00,meter_limit,Annual Saver,converted,899
+70000464,100702,200005,2026-06-15 10:28:00,paywall_view,Digital,viewed,0
+70000465,100628,200601,2026-06-16 11:45:00,meter_limit,Digital Plus,dismissed,0
+70000466,100462,200546,2026-06-17 12:02:00,paywall_view,Intro Offer,trial_started,0
+70000467,100625,200975,2026-06-18 13:19:00,meter_limit,Annual Saver,converted,899
+70000468,100278,200235,2026-06-19 14:36:00,paywall_view,Digital,viewed,0
+70000469,100592,200179,2026-06-20 15:53:00,meter_limit,Digital Plus,dismissed,0
+70000470,100082,200785,2026-06-21 16:10:00,paywall_view,Intro Offer,trial_started,0
+70000471,100768,200364,2026-06-22 17:27:00,meter_limit,Annual Saver,converted,899
+70000472,100186,200159,2026-06-23 18:44:00,paywall_view,Digital,viewed,0
+70000473,100087,200245,2026-06-24 19:01:00,meter_limit,Digital Plus,dismissed,0
+70000474,100662,200637,2026-06-25 20:18:00,paywall_view,Intro Offer,trial_started,0
+70000475,100491,200866,2026-06-26 21:35:00,meter_limit,Annual Saver,converted,899
+70000476,100765,200468,2026-06-27 08:52:00,paywall_view,Digital,viewed,0
+70000477,100826,200234,2026-06-28 09:09:00,meter_limit,Digital Plus,dismissed,0
+70000478,100848,200269,2026-06-29 10:26:00,paywall_view,Intro Offer,trial_started,0
+70000479,100392,200727,2026-06-30 11:43:00,meter_limit,Annual Saver,converted,1299
+70000480,100562,200379,2026-07-01 12:00:00,paywall_view,Digital,viewed,0
+70000481,100930,200521,2026-07-02 13:17:00,meter_limit,Digital Plus,dismissed,0
+70000482,100857,200343,2026-07-03 14:34:00,paywall_view,Intro Offer,trial_started,0
+70000483,100439,200706,2026-07-04 15:51:00,meter_limit,Annual Saver,converted,2499
+70000484,100211,200896,2026-07-05 16:08:00,paywall_view,Digital,viewed,0
+70000485,100335,200287,2026-07-06 17:25:00,meter_limit,Digital Plus,dismissed,0
+70000486,100743,200450,2026-07-07 18:42:00,paywall_view,Intro Offer,trial_started,0
+70000487,100452,200067,2026-07-08 19:59:00,meter_limit,Annual Saver,converted,899
+70000488,100622,200770,2026-07-09 20:16:00,paywall_view,Digital,viewed,0
+70000489,100631,200942,2026-07-10 21:33:00,meter_limit,Digital Plus,dismissed,0
+70000490,100575,200545,2026-07-11 08:50:00,paywall_view,Intro Offer,trial_started,0
+70000491,100456,200831,2026-07-12 09:07:00,meter_limit,Annual Saver,converted,2499
+70000492,100960,200581,2026-07-13 10:24:00,paywall_view,Digital,viewed,0
+70000493,100814,200010,2026-07-14 11:41:00,meter_limit,Digital Plus,dismissed,0
+70000494,100795,200996,2026-07-15 12:58:00,paywall_view,Intro Offer,trial_started,0
+70000495,100520,200079,2026-07-16 13:15:00,meter_limit,Annual Saver,converted,1299
+70000496,100197,200048,2026-07-17 14:32:00,paywall_view,Digital,viewed,0
+70000497,100527,200514,2026-07-18 15:49:00,meter_limit,Digital Plus,dismissed,0
+70000498,100029,200682,2026-07-19 16:06:00,paywall_view,Intro Offer,trial_started,0
+70000499,100693,200046,2026-07-20 17:23:00,meter_limit,Annual Saver,converted,1299
+70000500,100680,200449,2026-06-01 18:40:00,paywall_view,Digital,viewed,0
+70000501,100329,200656,2026-06-02 19:57:00,meter_limit,Digital Plus,dismissed,0
+70000502,100072,200769,2026-06-03 20:14:00,paywall_view,Intro Offer,trial_started,0
+70000503,100090,200490,2026-06-04 21:31:00,meter_limit,Annual Saver,converted,899
+70000504,100780,200869,2026-06-05 08:48:00,paywall_view,Digital,viewed,0
+70000505,100264,200028,2026-06-06 09:05:00,meter_limit,Digital Plus,dismissed,0
+70000506,100306,200418,2026-06-07 10:22:00,paywall_view,Intro Offer,trial_started,0
+70000507,100981,200034,2026-06-08 11:39:00,meter_limit,Annual Saver,converted,2499
+70000508,100210,200486,2026-06-09 12:56:00,paywall_view,Digital,viewed,0
+70000509,100774,200579,2026-06-10 13:13:00,meter_limit,Digital Plus,dismissed,0
+70000510,100969,200262,2026-06-11 14:30:00,paywall_view,Intro Offer,trial_started,0
+70000511,100229,200495,2026-06-12 15:47:00,meter_limit,Annual Saver,converted,899
+70000512,100158,200970,2026-06-13 16:04:00,paywall_view,Digital,viewed,0
+70000513,100197,200043,2026-06-14 17:21:00,meter_limit,Digital Plus,dismissed,0
+70000514,100066,200565,2026-06-15 18:38:00,paywall_view,Intro Offer,trial_started,0
+70000515,100359,200879,2026-06-16 19:55:00,meter_limit,Annual Saver,converted,1299
+70000516,100604,200254,2026-06-17 20:12:00,paywall_view,Digital,viewed,0
+70000517,100223,200923,2026-06-18 21:29:00,meter_limit,Digital Plus,dismissed,0
+70000518,100242,200673,2026-06-19 08:46:00,paywall_view,Intro Offer,trial_started,0
+70000519,100784,200458,2026-06-20 09:03:00,meter_limit,Annual Saver,converted,1299
+70000520,100750,200867,2026-06-21 10:20:00,paywall_view,Digital,viewed,0
+70000521,100148,200042,2026-06-22 11:37:00,meter_limit,Digital Plus,dismissed,0
+70000522,100131,200042,2026-06-23 12:54:00,paywall_view,Intro Offer,trial_started,0
+70000523,100991,200134,2026-06-24 13:11:00,meter_limit,Annual Saver,converted,899
+70000524,100472,200665,2026-06-25 14:28:00,paywall_view,Digital,viewed,0
+70000525,100612,200696,2026-06-26 15:45:00,meter_limit,Digital Plus,dismissed,0
+70000526,100005,200572,2026-06-27 16:02:00,paywall_view,Intro Offer,trial_started,0
+70000527,100265,200436,2026-06-28 17:19:00,meter_limit,Annual Saver,converted,899
+70000528,100387,200528,2026-06-29 18:36:00,paywall_view,Digital,viewed,0
+70000529,100868,200617,2026-06-30 19:53:00,meter_limit,Digital Plus,dismissed,0
+70000530,100879,2003,2026-07-01 20:10:00,paywall_view,Intro Offer,trial_started,0
+70000531,100834,200840,2026-07-02 21:27:00,meter_limit,Annual Saver,converted,2499
+70000532,100786,200827,2026-07-03 08:44:00,paywall_view,Digital,viewed,0
+70000533,100538,200959,2026-07-04 09:01:00,meter_limit,Digital Plus,dismissed,0
+70000534,100252,200818,2026-07-05 10:18:00,paywall_view,Intro Offer,trial_started,0
+70000535,100408,200758,2026-07-06 11:35:00,meter_limit,Annual Saver,converted,899
+70000536,100086,200505,2026-07-07 12:52:00,paywall_view,Digital,viewed,0
+70000537,100711,200217,2026-07-08 13:09:00,meter_limit,Digital Plus,dismissed,0
+70000538,100055,200472,2026-07-09 14:26:00,paywall_view,Intro Offer,trial_started,0
+70000539,100172,200431,2026-07-10 15:43:00,meter_limit,Annual Saver,converted,2499
+70000540,100687,200149,2026-07-11 16:00:00,paywall_view,Digital,viewed,0
+70000541,100685,200050,2026-07-12 17:17:00,meter_limit,Digital Plus,dismissed,0
+70000542,100914,200761,2026-07-13 18:34:00,paywall_view,Intro Offer,trial_started,0
+70000543,100159,200039,2026-07-14 19:51:00,meter_limit,Annual Saver,converted,899
+70000544,100246,200706,2026-07-15 20:08:00,paywall_view,Digital,viewed,0
+70000545,100786,200803,2026-07-16 21:25:00,meter_limit,Digital Plus,dismissed,0
+70000546,100476,200537,2026-07-17 08:42:00,paywall_view,Intro Offer,trial_started,0
+70000547,100050,200055,2026-07-18 09:59:00,meter_limit,Annual Saver,converted,1299
+70000548,100444,200023,2026-07-19 10:16:00,paywall_view,Digital,viewed,0
+70000549,100226,200002,2026-07-20 11:33:00,meter_limit,Digital Plus,dismissed,0
+70000550,100163,200613,2026-06-01 12:50:00,paywall_view,Intro Offer,trial_started,0
+70000551,100008,200108,2026-06-02 13:07:00,meter_limit,Annual Saver,converted,899
+70000552,100792,200582,2026-06-03 14:24:00,paywall_view,Digital,viewed,0
+70000553,100383,200414,2026-06-04 15:41:00,meter_limit,Digital Plus,dismissed,0
+70000554,100982,200711,2026-06-05 16:58:00,paywall_view,Intro Offer,trial_started,0
+70000555,100660,200551,2026-06-06 17:15:00,meter_limit,Annual Saver,converted,2499
+70000556,100147,200671,2026-06-07 18:32:00,paywall_view,Digital,viewed,0
+70000557,100154,200338,2026-06-08 19:49:00,meter_limit,Digital Plus,dismissed,0
+70000558,100360,200580,2026-06-09 20:06:00,paywall_view,Intro Offer,trial_started,0
+70000559,100979,200844,2026-06-10 21:23:00,meter_limit,Annual Saver,converted,899
+70000560,100523,200765,2026-06-11 08:40:00,paywall_view,Digital,viewed,0
+70000561,100711,200821,2026-06-12 09:57:00,meter_limit,Digital Plus,dismissed,0
+70000562,100088,200362,2026-06-13 10:14:00,paywall_view,Intro Offer,trial_started,0
+70000563,101000,200077,2026-06-14 11:31:00,meter_limit,Annual Saver,converted,2499
+70000564,100629,200170,2026-06-15 12:48:00,paywall_view,Digital,viewed,0
+70000565,100442,200440,2026-06-16 13:05:00,meter_limit,Digital Plus,dismissed,0
+70000566,100615,200993,2026-06-17 14:22:00,paywall_view,Intro Offer,trial_started,0
+70000567,100654,200887,2026-06-18 15:39:00,meter_limit,Annual Saver,converted,2499
+70000568,100080,200824,2026-06-19 16:56:00,paywall_view,Digital,viewed,0
+70000569,100060,200809,2026-06-20 17:13:00,meter_limit,Digital Plus,dismissed,0
+70000570,100112,200945,2026-06-21 18:30:00,paywall_view,Intro Offer,trial_started,0
+70000571,100197,200357,2026-06-22 19:47:00,meter_limit,Annual Saver,converted,899
+70000572,100885,200385,2026-06-23 20:04:00,paywall_view,Digital,viewed,0
+70000573,100174,200099,2026-06-24 21:21:00,meter_limit,Digital Plus,dismissed,0
+70000574,100275,200828,2026-06-25 08:38:00,paywall_view,Intro Offer,trial_started,0
+70000575,100150,200711,2026-06-26 09:55:00,meter_limit,Annual Saver,converted,2499
+70000576,100653,200971,2026-06-27 10:12:00,paywall_view,Digital,viewed,0
+70000577,100481,200775,2026-06-28 11:29:00,meter_limit,Digital Plus,dismissed,0
+70000578,100214,200683,2026-06-29 12:46:00,paywall_view,Intro Offer,trial_started,0
+70000579,100983,200509,2026-06-30 13:03:00,meter_limit,Annual Saver,converted,2499
+70000580,100620,200575,2026-07-01 14:20:00,paywall_view,Digital,viewed,0
+70000581,100441,200717,2026-07-02 15:37:00,meter_limit,Digital Plus,dismissed,0
+70000582,100296,200971,2026-07-03 16:54:00,paywall_view,Intro Offer,trial_started,0
+70000583,100618,200398,2026-07-04 17:11:00,meter_limit,Annual Saver,converted,1299
+70000584,100478,200278,2026-07-05 18:28:00,paywall_view,Digital,viewed,0
+70000585,100384,200666,2026-07-06 19:45:00,meter_limit,Digital Plus,dismissed,0
+70000586,100077,200375,2026-07-07 20:02:00,paywall_view,Intro Offer,trial_started,0
+70000587,100408,200584,2026-07-08 21:19:00,meter_limit,Annual Saver,converted,2499
+70000588,100221,200043,2026-07-09 08:36:00,paywall_view,Digital,viewed,0
+70000589,100608,200402,2026-07-10 09:53:00,meter_limit,Digital Plus,dismissed,0
+70000590,100235,2003,2026-07-11 10:10:00,paywall_view,Intro Offer,trial_started,0
+70000591,100236,200483,2026-07-12 11:27:00,meter_limit,Annual Saver,converted,2499
+70000592,100280,200847,2026-07-13 12:44:00,paywall_view,Digital,viewed,0
+70000593,100590,200687,2026-07-14 13:01:00,meter_limit,Digital Plus,dismissed,0
+70000594,100349,200831,2026-07-15 14:18:00,paywall_view,Intro Offer,trial_started,0
+70000595,100164,200202,2026-07-16 15:35:00,meter_limit,Annual Saver,converted,1299
+70000596,100841,200189,2026-07-17 16:52:00,paywall_view,Digital,viewed,0
+70000597,100270,200747,2026-07-18 17:09:00,meter_limit,Digital Plus,dismissed,0
+70000598,100107,200593,2026-07-19 18:26:00,paywall_view,Intro Offer,trial_started,0
+70000599,100599,200793,2026-07-20 19:43:00,meter_limit,Annual Saver,converted,2499
+70000600,100302,200488,2026-06-01 20:00:00,paywall_view,Digital,viewed,0
+70000601,100219,200094,2026-06-02 21:17:00,meter_limit,Digital Plus,dismissed,0
+70000602,100611,200024,2026-06-03 08:34:00,paywall_view,Intro Offer,trial_started,0
+70000603,100282,200301,2026-06-04 09:51:00,meter_limit,Annual Saver,converted,1299
+70000604,100079,200834,2026-06-05 10:08:00,paywall_view,Digital,viewed,0
+70000605,100570,200045,2026-06-06 11:25:00,meter_limit,Digital Plus,dismissed,0
+70000606,100940,200970,2026-06-07 12:42:00,paywall_view,Intro Offer,trial_started,0
+70000607,100452,200227,2026-06-08 13:59:00,meter_limit,Annual Saver,converted,899
+70000608,100382,200230,2026-06-09 14:16:00,paywall_view,Digital,viewed,0
+70000609,100525,200694,2026-06-10 15:33:00,meter_limit,Digital Plus,dismissed,0
+70000610,100619,2008,2026-06-11 16:50:00,paywall_view,Intro Offer,trial_started,0
+70000611,100649,200290,2026-06-12 17:07:00,meter_limit,Annual Saver,converted,1299
+70000612,100882,200008,2026-06-13 18:24:00,paywall_view,Digital,viewed,0
+70000613,100461,200245,2026-06-14 19:41:00,meter_limit,Digital Plus,dismissed,0
+70000614,100680,200512,2026-06-15 20:58:00,paywall_view,Intro Offer,trial_started,0
+70000615,100605,200166,2026-06-16 21:15:00,meter_limit,Annual Saver,converted,2499
+70000616,100089,200767,2026-06-17 08:32:00,paywall_view,Digital,viewed,0
+70000617,100755,200788,2026-06-18 09:49:00,meter_limit,Digital Plus,dismissed,0
+70000618,100637,200423,2026-06-19 10:06:00,paywall_view,Intro Offer,trial_started,0
+70000619,100256,200841,2026-06-20 11:23:00,meter_limit,Annual Saver,converted,1299
+70000620,100341,200846,2026-06-21 12:40:00,paywall_view,Digital,viewed,0
+70000621,100110,200374,2026-06-22 13:57:00,meter_limit,Digital Plus,dismissed,0
+70000622,100669,200048,2026-06-23 14:14:00,paywall_view,Intro Offer,trial_started,0
+70000623,100524,200219,2026-06-24 15:31:00,meter_limit,Annual Saver,converted,2499
+70000624,100206,200362,2026-06-25 16:48:00,paywall_view,Digital,viewed,0
+70000625,100361,200198,2026-06-26 17:05:00,meter_limit,Digital Plus,dismissed,0
+70000626,100369,200534,2026-06-27 18:22:00,paywall_view,Intro Offer,trial_started,0
+70000627,100828,200765,2026-06-28 19:39:00,meter_limit,Annual Saver,converted,1299
+70000628,100880,200312,2026-06-29 20:56:00,paywall_view,Digital,viewed,0
+70000629,100578,200724,2026-06-30 21:13:00,meter_limit,Digital Plus,dismissed,0
+70000630,100493,200177,2026-07-01 08:30:00,paywall_view,Intro Offer,trial_started,0
+70000631,100810,200199,2026-07-02 09:47:00,meter_limit,Annual Saver,converted,1299
+70000632,100014,200649,2026-07-03 10:04:00,paywall_view,Digital,viewed,0
+70000633,100052,200773,2026-07-04 11:21:00,meter_limit,Digital Plus,dismissed,0
+70000634,100470,200265,2026-07-05 12:38:00,paywall_view,Intro Offer,trial_started,0
+70000635,100039,200397,2026-07-06 13:55:00,meter_limit,Annual Saver,converted,1299
+70000636,100317,200383,2026-07-07 14:12:00,paywall_view,Digital,viewed,0
+70000637,100538,200427,2026-07-08 15:29:00,meter_limit,Digital Plus,dismissed,0
+70000638,100786,200799,2026-07-09 16:46:00,paywall_view,Intro Offer,trial_started,0
+70000639,100854,200021,2026-07-10 17:03:00,meter_limit,Annual Saver,converted,1299
+70000640,100227,200419,2026-07-11 18:20:00,paywall_view,Digital,viewed,0
+70000641,100487,200900,2026-07-12 19:37:00,meter_limit,Digital Plus,dismissed,0
+70000642,100992,200085,2026-07-13 20:54:00,paywall_view,Intro Offer,trial_started,0
+70000643,100645,200394,2026-07-14 21:11:00,meter_limit,Annual Saver,converted,1299
+70000644,100902,200971,2026-07-15 08:28:00,paywall_view,Digital,viewed,0
+70000645,100615,200359,2026-07-16 09:45:00,meter_limit,Digital Plus,dismissed,0
+70000646,100124,200848,2026-07-17 10:02:00,paywall_view,Intro Offer,trial_started,0
+70000647,100190,200491,2026-07-18 11:19:00,meter_limit,Annual Saver,converted,2499
+70000648,100797,200591,2026-07-19 12:36:00,paywall_view,Digital,viewed,0
+70000649,100992,200557,2026-07-20 13:53:00,meter_limit,Digital Plus,dismissed,0
+70000650,100416,200048,2026-06-01 14:10:00,paywall_view,Intro Offer,trial_started,0
+70000651,100329,200837,2026-06-02 15:27:00,meter_limit,Annual Saver,converted,1299
+70000652,100586,200033,2026-06-03 16:44:00,paywall_view,Digital,viewed,0
+70000653,100234,200112,2026-06-04 17:01:00,meter_limit,Digital Plus,dismissed,0
+70000654,100267,200955,2026-06-05 18:18:00,paywall_view,Intro Offer,trial_started,0
+70000655,100514,200210,2026-06-06 19:35:00,meter_limit,Annual Saver,converted,2499
+70000656,100361,200470,2026-06-07 20:52:00,paywall_view,Digital,viewed,0
+70000657,100174,200628,2026-06-08 21:09:00,meter_limit,Digital Plus,dismissed,0
+70000658,100279,200732,2026-06-09 08:26:00,paywall_view,Intro Offer,trial_started,0
+70000659,100623,200374,2026-06-10 09:43:00,meter_limit,Annual Saver,converted,2499
+70000660,100887,200036,2026-06-11 10:00:00,paywall_view,Digital,viewed,0
+70000661,100647,200422,2026-06-12 11:17:00,meter_limit,Digital Plus,dismissed,0
+70000662,100171,200436,2026-06-13 12:34:00,paywall_view,Intro Offer,trial_started,0
+70000663,100999,200161,2026-06-14 13:51:00,meter_limit,Annual Saver,converted,899
+70000664,100616,200209,2026-06-15 14:08:00,paywall_view,Digital,viewed,0
+70000665,100210,200454,2026-06-16 15:25:00,meter_limit,Digital Plus,dismissed,0
+70000666,100974,200041,2026-06-17 16:42:00,paywall_view,Intro Offer,trial_started,0
+70000667,100554,200183,2026-06-18 17:59:00,meter_limit,Annual Saver,converted,899
+70000668,100885,200973,2026-06-19 18:16:00,paywall_view,Digital,viewed,0
+70000669,100362,200711,2026-06-20 19:33:00,meter_limit,Digital Plus,dismissed,0
+70000670,100376,200273,2026-06-21 20:50:00,paywall_view,Intro Offer,trial_started,0
+70000671,100618,200188,2026-06-22 21:07:00,meter_limit,Annual Saver,converted,1299
+70000672,100731,200105,2026-06-23 08:24:00,paywall_view,Digital,viewed,0
+70000673,100309,200975,2026-06-24 09:41:00,meter_limit,Digital Plus,dismissed,0
+70000674,100500,200178,2026-06-25 10:58:00,paywall_view,Intro Offer,trial_started,0
+70000675,100299,200481,2026-06-26 11:15:00,meter_limit,Annual Saver,converted,899
+70000676,100496,200065,2026-06-27 12:32:00,paywall_view,Digital,viewed,0
+70000677,100432,200545,2026-06-28 13:49:00,meter_limit,Digital Plus,dismissed,0
+70000678,100199,200194,2026-06-29 14:06:00,paywall_view,Intro Offer,trial_started,0
+70000679,100360,200952,2026-06-30 15:23:00,meter_limit,Annual Saver,converted,899
+70000680,100086,200115,2026-07-01 16:40:00,paywall_view,Digital,viewed,0
+70000681,100087,200032,2026-07-02 17:57:00,meter_limit,Digital Plus,dismissed,0
+70000682,100092,200945,2026-07-03 18:14:00,paywall_view,Intro Offer,trial_started,0
+70000683,100791,200201,2026-07-04 19:31:00,meter_limit,Annual Saver,converted,1299
+70000684,100137,200444,2026-07-05 20:48:00,paywall_view,Digital,viewed,0
+70000685,100349,200580,2026-07-06 21:05:00,meter_limit,Digital Plus,dismissed,0
+70000686,100857,200493,2026-07-07 08:22:00,paywall_view,Intro Offer,trial_started,0
+70000687,100438,200240,2026-07-08 09:39:00,meter_limit,Annual Saver,converted,2499
+70000688,100325,200991,2026-07-09 10:56:00,paywall_view,Digital,viewed,0
+70000689,100785,200770,2026-07-10 11:13:00,meter_limit,Digital Plus,dismissed,0
+70000690,100441,200068,2026-07-11 12:30:00,paywall_view,Intro Offer,trial_started,0
+70000691,100398,200774,2026-07-12 13:47:00,meter_limit,Annual Saver,converted,2499
+70000692,100008,200009,2026-07-13 14:04:00,paywall_view,Digital,viewed,0
+70000693,100577,200425,2026-07-14 15:21:00,meter_limit,Digital Plus,dismissed,0
+70000694,100647,200866,2026-07-15 16:38:00,paywall_view,Intro Offer,trial_started,0
+70000695,100503,200999,2026-07-16 17:55:00,meter_limit,Annual Saver,converted,1299
+70000696,100980,200301,2026-07-17 18:12:00,paywall_view,Digital,viewed,0
+70000697,100100,200611,2026-07-18 19:29:00,meter_limit,Digital Plus,dismissed,0
+70000698,100022,200622,2026-07-19 20:46:00,paywall_view,Intro Offer,trial_started,0
+70000699,100147,200373,2026-07-20 21:03:00,meter_limit,Annual Saver,converted,1299
+70000700,100516,200175,2026-06-01 08:20:00,paywall_view,Digital,viewed,0
+70000701,100560,200473,2026-06-02 09:37:00,meter_limit,Digital Plus,dismissed,0
+70000702,100118,200845,2026-06-03 10:54:00,paywall_view,Intro Offer,trial_started,0
+70000703,100829,200269,2026-06-04 11:11:00,meter_limit,Annual Saver,converted,2499
+70000704,100034,200387,2026-06-05 12:28:00,paywall_view,Digital,viewed,0
+70000705,100565,200704,2026-06-06 13:45:00,meter_limit,Digital Plus,dismissed,0
+70000706,100362,200708,2026-06-07 14:02:00,paywall_view,Intro Offer,trial_started,0
+70000707,100759,200371,2026-06-08 15:19:00,meter_limit,Annual Saver,converted,1299
+70000708,100810,200882,2026-06-09 16:36:00,paywall_view,Digital,viewed,0
+70000709,100037,200286,2026-06-10 17:53:00,meter_limit,Digital Plus,dismissed,0
+70000710,100517,200761,2026-06-11 18:10:00,paywall_view,Intro Offer,trial_started,0
+70000711,100589,200845,2026-06-12 19:27:00,meter_limit,Annual Saver,converted,899
+70000712,100059,200391,2026-06-13 20:44:00,paywall_view,Digital,viewed,0
+70000713,100560,200322,2026-06-14 21:01:00,meter_limit,Digital Plus,dismissed,0
+70000714,100878,200789,2026-06-15 08:18:00,paywall_view,Intro Offer,trial_started,0
+70000715,100581,200763,2026-06-16 09:35:00,meter_limit,Annual Saver,converted,2499
+70000716,100683,200834,2026-06-17 10:52:00,paywall_view,Digital,viewed,0
+70000717,100761,200580,2026-06-18 11:09:00,meter_limit,Digital Plus,dismissed,0
+70000718,100881,200608,2026-06-19 12:26:00,paywall_view,Intro Offer,trial_started,0
+70000719,100240,200539,2026-06-20 13:43:00,meter_limit,Annual Saver,converted,2499
+70000720,100734,200360,2026-06-21 14:00:00,paywall_view,Digital,viewed,0
+70000721,100295,200124,2026-06-22 15:17:00,meter_limit,Digital Plus,dismissed,0
+70000722,100359,200416,2026-06-23 16:34:00,paywall_view,Intro Offer,trial_started,0
+70000723,100074,200489,2026-06-24 17:51:00,meter_limit,Annual Saver,converted,2499
+70000724,100320,200224,2026-06-25 18:08:00,paywall_view,Digital,viewed,0
+70000725,100186,200135,2026-06-26 19:25:00,meter_limit,Digital Plus,dismissed,0
+70000726,100889,200340,2026-06-27 20:42:00,paywall_view,Intro Offer,trial_started,0
+70000727,100045,200776,2026-06-28 21:59:00,meter_limit,Annual Saver,converted,899
+70000728,100078,200413,2026-06-29 08:16:00,paywall_view,Digital,viewed,0
+70000729,100757,200569,2026-06-30 09:33:00,meter_limit,Digital Plus,dismissed,0
+70000730,100616,200227,2026-07-01 10:50:00,paywall_view,Intro Offer,trial_started,0
+70000731,100254,200671,2026-07-02 11:07:00,meter_limit,Annual Saver,converted,1299
+70000732,100117,200952,2026-07-03 12:24:00,paywall_view,Digital,viewed,0
+70000733,100044,200146,2026-07-04 13:41:00,meter_limit,Digital Plus,dismissed,0
+70000734,100475,200013,2026-07-05 14:58:00,paywall_view,Intro Offer,trial_started,0
+70000735,100001,200193,2026-07-06 15:15:00,meter_limit,Annual Saver,converted,2499
+70000736,100899,200405,2026-07-07 16:32:00,paywall_view,Digital,viewed,0
+70000737,100245,200593,2026-07-08 17:49:00,meter_limit,Digital Plus,dismissed,0
+70000738,100220,200742,2026-07-09 18:06:00,paywall_view,Intro Offer,trial_started,0
+70000739,100390,200951,2026-07-10 19:23:00,meter_limit,Annual Saver,converted,1299
+70000740,100914,200529,2026-07-11 20:40:00,paywall_view,Digital,viewed,0
+70000741,100820,200974,2026-07-12 21:57:00,meter_limit,Digital Plus,dismissed,0
+70000742,100169,200827,2026-07-13 08:14:00,paywall_view,Intro Offer,trial_started,0
+70000743,100573,200006,2026-07-14 09:31:00,meter_limit,Annual Saver,converted,1299
+70000744,100801,200347,2026-07-15 10:48:00,paywall_view,Digital,viewed,0
+70000745,100019,200190,2026-07-16 11:05:00,meter_limit,Digital Plus,dismissed,0
+70000746,100870,200931,2026-07-17 12:22:00,paywall_view,Intro Offer,trial_started,0
+70000747,100214,200764,2026-07-18 13:39:00,meter_limit,Annual Saver,converted,899
+70000748,100419,200427,2026-07-19 14:56:00,paywall_view,Digital,viewed,0
+70000749,100195,200580,2026-07-20 15:13:00,meter_limit,Digital Plus,dismissed,0
+70000750,100336,200812,2026-06-01 16:30:00,paywall_view,Intro Offer,trial_started,0
+70000751,100472,200991,2026-06-02 17:47:00,meter_limit,Annual Saver,converted,899
+70000752,100289,200108,2026-06-03 18:04:00,paywall_view,Digital,viewed,0
+70000753,100081,200094,2026-06-04 19:21:00,meter_limit,Digital Plus,dismissed,0
+70000754,100636,200939,2026-06-05 20:38:00,paywall_view,Intro Offer,trial_started,0
+70000755,100914,200419,2026-06-06 21:55:00,meter_limit,Annual Saver,converted,2499
+70000756,100560,200396,2026-06-07 08:12:00,paywall_view,Digital,viewed,0
+70000757,1003,200579,2026-06-08 09:29:00,meter_limit,Digital Plus,dismissed,0
+70000758,100994,200386,2026-06-09 10:46:00,paywall_view,Intro Offer,trial_started,0
+70000759,100366,200918,2026-06-10 11:03:00,meter_limit,Annual Saver,converted,899
+70000760,100804,200177,2026-06-11 12:20:00,paywall_view,Digital,viewed,0
+70000761,100900,200130,2026-06-12 13:37:00,meter_limit,Digital Plus,dismissed,0
+70000762,100001,200912,2026-06-13 14:54:00,paywall_view,Intro Offer,trial_started,0
+70000763,100865,200448,2026-06-14 15:11:00,meter_limit,Annual Saver,converted,1299
+70000764,100240,200280,2026-06-15 16:28:00,paywall_view,Digital,viewed,0
+70000765,100244,200358,2026-06-16 17:45:00,meter_limit,Digital Plus,dismissed,0
+70000766,100174,200100,2026-06-17 18:02:00,paywall_view,Intro Offer,trial_started,0
+70000767,100162,200764,2026-06-18 19:19:00,meter_limit,Annual Saver,converted,899
+70000768,100140,200907,2026-06-19 20:36:00,paywall_view,Digital,viewed,0
+70000769,100267,200730,2026-06-20 21:53:00,meter_limit,Digital Plus,dismissed,0
+70000770,100965,200444,2026-06-21 08:10:00,paywall_view,Intro Offer,trial_started,0
+70000771,100814,200893,2026-06-22 09:27:00,meter_limit,Annual Saver,converted,899
+70000772,100068,200689,2026-06-23 10:44:00,paywall_view,Digital,viewed,0
+70000773,100956,200480,2026-06-24 11:01:00,meter_limit,Digital Plus,dismissed,0
+70000774,100036,200029,2026-06-25 12:18:00,paywall_view,Intro Offer,trial_started,0
+70000775,100946,200568,2026-06-26 13:35:00,meter_limit,Annual Saver,converted,899
+70000776,100493,200651,2026-06-27 14:52:00,paywall_view,Digital,viewed,0
+70000777,100580,200524,2026-06-28 15:09:00,meter_limit,Digital Plus,dismissed,0
+70000778,100904,200529,2026-06-29 16:26:00,paywall_view,Intro Offer,trial_started,0
+70000779,100373,200063,2026-06-30 17:43:00,meter_limit,Annual Saver,converted,2499
+70000780,100227,200150,2026-07-01 18:00:00,paywall_view,Digital,viewed,0
+70000781,100643,200120,2026-07-02 19:17:00,meter_limit,Digital Plus,dismissed,0
+70000782,100414,200949,2026-07-03 20:34:00,paywall_view,Intro Offer,trial_started,0
+70000783,100832,200584,2026-07-04 21:51:00,meter_limit,Annual Saver,converted,1299
+70000784,100372,200872,2026-07-05 08:08:00,paywall_view,Digital,viewed,0
+70000785,100248,200975,2026-07-06 09:25:00,meter_limit,Digital Plus,dismissed,0
+70000786,100797,200742,2026-07-07 10:42:00,paywall_view,Intro Offer,trial_started,0
+70000787,100031,200354,2026-07-08 11:59:00,meter_limit,Annual Saver,converted,2499
+70000788,100437,200011,2026-07-09 12:16:00,paywall_view,Digital,viewed,0
+70000789,100098,200078,2026-07-10 13:33:00,meter_limit,Digital Plus,dismissed,0
+70000790,100470,200846,2026-07-11 14:50:00,paywall_view,Intro Offer,trial_started,0
+70000791,100116,200521,2026-07-12 15:07:00,meter_limit,Annual Saver,converted,1299
+70000792,100747,200688,2026-07-13 16:24:00,paywall_view,Digital,viewed,0
+70000793,100722,200365,2026-07-14 17:41:00,meter_limit,Digital Plus,dismissed,0
+70000794,100610,200174,2026-07-15 18:58:00,paywall_view,Intro Offer,trial_started,0
+70000795,100244,200497,2026-07-16 19:15:00,meter_limit,Annual Saver,converted,899
+70000796,100817,200486,2026-07-17 20:32:00,paywall_view,Digital,viewed,0
+70000797,100727,200536,2026-07-18 21:49:00,meter_limit,Digital Plus,dismissed,0
+70000798,100597,2002,2026-07-19 08:06:00,paywall_view,Intro Offer,trial_started,0
+70000799,100516,200061,2026-07-20 09:23:00,meter_limit,Annual Saver,converted,1299
+70000800,100906,200895,2026-06-01 10:40:00,paywall_view,Digital,viewed,0
+70000801,100964,200501,2026-06-02 11:57:00,meter_limit,Digital Plus,dismissed,0
+70000802,100529,200989,2026-06-03 12:14:00,paywall_view,Intro Offer,trial_started,0
+70000803,100931,200499,2026-06-04 13:31:00,meter_limit,Annual Saver,converted,899
+70000804,100547,200466,2026-06-05 14:48:00,paywall_view,Digital,viewed,0
+70000805,100452,200234,2026-06-06 15:05:00,meter_limit,Digital Plus,dismissed,0
+70000806,100057,200147,2026-06-07 16:22:00,paywall_view,Intro Offer,trial_started,0
+70000807,100943,200440,2026-06-08 17:39:00,meter_limit,Annual Saver,converted,2499
+70000808,100365,200311,2026-06-09 18:56:00,paywall_view,Digital,viewed,0
+70000809,100330,200903,2026-06-10 19:13:00,meter_limit,Digital Plus,dismissed,0
+70000810,100510,200662,2026-06-11 20:30:00,paywall_view,Intro Offer,trial_started,0
+70000811,100720,200248,2026-06-12 21:47:00,meter_limit,Annual Saver,converted,1299
+70000812,100702,200582,2026-06-13 08:04:00,paywall_view,Digital,viewed,0
+70000813,100479,200982,2026-06-14 09:21:00,meter_limit,Digital Plus,dismissed,0
+70000814,100667,200670,2026-06-15 10:38:00,paywall_view,Intro Offer,trial_started,0
+70000815,100916,200217,2026-06-16 11:55:00,meter_limit,Annual Saver,converted,899
+70000816,100037,200558,2026-06-17 12:12:00,paywall_view,Digital,viewed,0
+70000817,100378,200405,2026-06-18 13:29:00,meter_limit,Digital Plus,dismissed,0
+70000818,100954,200946,2026-06-19 14:46:00,paywall_view,Intro Offer,trial_started,0
+70000819,100983,200137,2026-06-20 15:03:00,meter_limit,Annual Saver,converted,899
+70000820,100332,200225,2026-06-21 16:20:00,paywall_view,Digital,viewed,0
+70000821,100913,200534,2026-06-22 17:37:00,meter_limit,Digital Plus,dismissed,0
+70000822,100495,200304,2026-06-23 18:54:00,paywall_view,Intro Offer,trial_started,0
+70000823,100789,200259,2026-06-24 19:11:00,meter_limit,Annual Saver,converted,899
+70000824,100595,200829,2026-06-25 20:28:00,paywall_view,Digital,viewed,0
+70000825,100316,200172,2026-06-26 21:45:00,meter_limit,Digital Plus,dismissed,0
+70000826,100377,200402,2026-06-27 08:02:00,paywall_view,Intro Offer,trial_started,0
+70000827,100399,200762,2026-06-28 09:19:00,meter_limit,Annual Saver,converted,899
+70000828,100165,200555,2026-06-29 10:36:00,paywall_view,Digital,viewed,0
+70000829,100535,200604,2026-06-30 11:53:00,meter_limit,Digital Plus,dismissed,0
+70000830,100176,200394,2026-07-01 12:10:00,paywall_view,Intro Offer,trial_started,0
+70000831,100223,200027,2026-07-02 13:27:00,meter_limit,Annual Saver,converted,2499
+70000832,100955,200620,2026-07-03 14:44:00,paywall_view,Digital,viewed,0
+70000833,100184,200497,2026-07-04 15:01:00,meter_limit,Digital Plus,dismissed,0
+70000834,100255,200749,2026-07-05 16:18:00,paywall_view,Intro Offer,trial_started,0
+70000835,100314,200043,2026-07-06 17:35:00,meter_limit,Annual Saver,converted,1299
+70000836,100536,200389,2026-07-07 18:52:00,paywall_view,Digital,viewed,0
+70000837,100522,200698,2026-07-08 19:09:00,meter_limit,Digital Plus,dismissed,0
+70000838,100012,200058,2026-07-09 20:26:00,paywall_view,Intro Offer,trial_started,0
+70000839,100502,200843,2026-07-10 21:43:00,meter_limit,Annual Saver,converted,2499
+70000840,100993,200859,2026-07-11 08:00:00,paywall_view,Digital,viewed,0
+70000841,100547,200881,2026-07-12 09:17:00,meter_limit,Digital Plus,dismissed,0
+70000842,100129,200344,2026-07-13 10:34:00,paywall_view,Intro Offer,trial_started,0
+70000843,100994,200774,2026-07-14 11:51:00,meter_limit,Annual Saver,converted,899
+70000844,100406,200836,2026-07-15 12:08:00,paywall_view,Digital,viewed,0
+70000845,100693,200975,2026-07-16 13:25:00,meter_limit,Digital Plus,dismissed,0
+70000846,100845,200325,2026-07-17 14:42:00,paywall_view,Intro Offer,trial_started,0
+70000847,100043,200495,2026-07-18 15:59:00,meter_limit,Annual Saver,converted,2499
+70000848,100500,200138,2026-07-19 16:16:00,paywall_view,Digital,viewed,0
+70000849,100446,200011,2026-07-20 17:33:00,meter_limit,Digital Plus,dismissed,0
+70000850,100718,200933,2026-06-01 18:50:00,paywall_view,Intro Offer,trial_started,0
+70000851,100472,200463,2026-06-02 19:07:00,meter_limit,Annual Saver,converted,899
+70000852,100462,200168,2026-06-03 20:24:00,paywall_view,Digital,viewed,0
+70000853,100397,200559,2026-06-04 21:41:00,meter_limit,Digital Plus,dismissed,0
+70000854,100904,200089,2026-06-05 08:58:00,paywall_view,Intro Offer,trial_started,0
+70000855,100316,200021,2026-06-06 09:15:00,meter_limit,Annual Saver,converted,1299
+70000856,100006,200579,2026-06-07 10:32:00,paywall_view,Digital,viewed,0
+70000857,100617,200017,2026-06-08 11:49:00,meter_limit,Digital Plus,dismissed,0
+70000858,100108,200995,2026-06-09 12:06:00,paywall_view,Intro Offer,trial_started,0
+70000859,100514,200504,2026-06-10 13:23:00,meter_limit,Annual Saver,converted,2499
+70000860,100012,200685,2026-06-11 14:40:00,paywall_view,Digital,viewed,0
+70000861,100463,200140,2026-06-12 15:57:00,meter_limit,Digital Plus,dismissed,0
+70000862,100828,200374,2026-06-13 16:14:00,paywall_view,Intro Offer,trial_started,0
+70000863,100248,200814,2026-06-14 17:31:00,meter_limit,Annual Saver,converted,1299
+70000864,100973,200252,2026-06-15 18:48:00,paywall_view,Digital,viewed,0
+70000865,100238,200984,2026-06-16 19:05:00,meter_limit,Digital Plus,dismissed,0
+70000866,100360,200417,2026-06-17 20:22:00,paywall_view,Intro Offer,trial_started,0
+70000867,100148,200096,2026-06-18 21:39:00,meter_limit,Annual Saver,converted,1299
+70000868,100512,200221,2026-06-19 08:56:00,paywall_view,Digital,viewed,0
+70000869,100262,200576,2026-06-20 09:13:00,meter_limit,Digital Plus,dismissed,0
+70000870,100829,200619,2026-06-21 10:30:00,paywall_view,Intro Offer,trial_started,0
+70000871,100850,200230,2026-06-22 11:47:00,meter_limit,Annual Saver,converted,2499
+70000872,100693,200579,2026-06-23 12:04:00,paywall_view,Digital,viewed,0
+70000873,100982,200119,2026-06-24 13:21:00,meter_limit,Digital Plus,dismissed,0
+70000874,100853,200224,2026-06-25 14:38:00,paywall_view,Intro Offer,trial_started,0
+70000875,100514,200903,2026-06-26 15:55:00,meter_limit,Annual Saver,converted,899
+70000876,100086,200409,2026-06-27 16:12:00,paywall_view,Digital,viewed,0
+70000877,100443,200635,2026-06-28 17:29:00,meter_limit,Digital Plus,dismissed,0
+70000878,100086,200778,2026-06-29 18:46:00,paywall_view,Intro Offer,trial_started,0
+70000879,100037,200305,2026-06-30 19:03:00,meter_limit,Annual Saver,converted,1299
+70000880,100540,200893,2026-07-01 20:20:00,paywall_view,Digital,viewed,0
+70000881,100218,200323,2026-07-02 21:37:00,meter_limit,Digital Plus,dismissed,0
+70000882,100896,200088,2026-07-03 08:54:00,paywall_view,Intro Offer,trial_started,0
+70000883,100520,200166,2026-07-04 09:11:00,meter_limit,Annual Saver,converted,2499
+70000884,100462,200244,2026-07-05 10:28:00,paywall_view,Digital,viewed,0
+70000885,100854,200953,2026-07-06 11:45:00,meter_limit,Digital Plus,dismissed,0
+70000886,100745,200612,2026-07-07 12:02:00,paywall_view,Intro Offer,trial_started,0
+70000887,100319,200142,2026-07-08 13:19:00,meter_limit,Annual Saver,converted,899
+70000888,100384,200406,2026-07-09 14:36:00,paywall_view,Digital,viewed,0
+70000889,100166,200341,2026-07-10 15:53:00,meter_limit,Digital Plus,dismissed,0
+70000890,100789,200724,2026-07-11 16:10:00,paywall_view,Intro Offer,trial_started,0
+70000891,100817,200713,2026-07-12 17:27:00,meter_limit,Annual Saver,converted,899
+70000892,100887,200199,2026-07-13 18:44:00,paywall_view,Digital,viewed,0
+70000893,100733,200881,2026-07-14 19:01:00,meter_limit,Digital Plus,dismissed,0
+70000894,100916,200045,2026-07-15 20:18:00,paywall_view,Intro Offer,trial_started,0
+70000895,100134,200008,2026-07-16 21:35:00,meter_limit,Annual Saver,converted,899
+70000896,100786,200923,2026-07-17 08:52:00,paywall_view,Digital,viewed,0
+70000897,100003,200713,2026-07-18 09:09:00,meter_limit,Digital Plus,dismissed,0
+70000898,100414,200084,2026-07-19 10:26:00,paywall_view,Intro Offer,trial_started,0
+70000899,100518,200957,2026-07-20 11:43:00,meter_limit,Annual Saver,converted,1299
+70000900,100790,200449,2026-06-01 12:00:00,paywall_view,Digital,viewed,0
+70000901,100717,200854,2026-06-02 13:17:00,meter_limit,Digital Plus,dismissed,0
+70000902,100591,200187,2026-06-03 14:34:00,paywall_view,Intro Offer,trial_started,0
+70000903,100140,200850,2026-06-04 15:51:00,meter_limit,Annual Saver,converted,2499
+70000904,100261,200624,2026-06-05 16:08:00,paywall_view,Digital,viewed,0
+70000905,100705,200514,2026-06-06 17:25:00,meter_limit,Digital Plus,dismissed,0
+70000906,100526,200535,2026-06-07 18:42:00,paywall_view,Intro Offer,trial_started,0
+70000907,100593,200648,2026-06-08 19:59:00,meter_limit,Annual Saver,converted,2499
+70000908,100791,200229,2026-06-09 20:16:00,paywall_view,Digital,viewed,0
+70000909,100114,200414,2026-06-10 21:33:00,meter_limit,Digital Plus,dismissed,0
+70000910,100040,200933,2026-06-11 08:50:00,paywall_view,Intro Offer,trial_started,0
+70000911,100332,200511,2026-06-12 09:07:00,meter_limit,Annual Saver,converted,2499
+70000912,100754,200090,2026-06-13 10:24:00,paywall_view,Digital,viewed,0
+70000913,100616,200465,2026-06-14 11:41:00,meter_limit,Digital Plus,dismissed,0
+70000914,100792,200041,2026-06-15 12:58:00,paywall_view,Intro Offer,trial_started,0
+70000915,100244,200804,2026-06-16 13:15:00,meter_limit,Annual Saver,converted,1299
+70000916,100944,200940,2026-06-17 14:32:00,paywall_view,Digital,viewed,0
+70000917,100592,200964,2026-06-18 15:49:00,meter_limit,Digital Plus,dismissed,0
+70000918,100381,200649,2026-06-19 16:06:00,paywall_view,Intro Offer,trial_started,0
+70000919,100797,200382,2026-06-20 17:23:00,meter_limit,Annual Saver,converted,2499
+70000920,100339,200711,2026-06-21 18:40:00,paywall_view,Digital,viewed,0
+70000921,100998,200005,2026-06-22 19:57:00,meter_limit,Digital Plus,dismissed,0
+70000922,100605,200354,2026-06-23 20:14:00,paywall_view,Intro Offer,trial_started,0
+70000923,100725,200490,2026-06-24 21:31:00,meter_limit,Annual Saver,converted,2499
+70000924,100845,200403,2026-06-25 08:48:00,paywall_view,Digital,viewed,0
+70000925,100092,200273,2026-06-26 09:05:00,meter_limit,Digital Plus,dismissed,0
+70000926,100760,200574,2026-06-27 10:22:00,paywall_view,Intro Offer,trial_started,0
+70000927,100387,200772,2026-06-28 11:39:00,meter_limit,Annual Saver,converted,2499
+70000928,100810,200375,2026-06-29 12:56:00,paywall_view,Digital,viewed,0
+70000929,100047,200822,2026-06-30 13:13:00,meter_limit,Digital Plus,dismissed,0
+70000930,100172,200973,2026-07-01 14:30:00,paywall_view,Intro Offer,trial_started,0
+70000931,100688,200630,2026-07-02 15:47:00,meter_limit,Annual Saver,converted,2499
+70000932,100732,200444,2026-07-03 16:04:00,paywall_view,Digital,viewed,0
+70000933,100755,200092,2026-07-04 17:21:00,meter_limit,Digital Plus,dismissed,0
+70000934,100969,200002,2026-07-05 18:38:00,paywall_view,Intro Offer,trial_started,0
+70000935,100999,200767,2026-07-06 19:55:00,meter_limit,Annual Saver,converted,2499
+70000936,100671,200329,2026-07-07 20:12:00,paywall_view,Digital,viewed,0
+70000937,100055,200446,2026-07-08 21:29:00,meter_limit,Digital Plus,dismissed,0
+70000938,100868,200882,2026-07-09 08:46:00,paywall_view,Intro Offer,trial_started,0
+70000939,100624,200052,2026-07-10 09:03:00,meter_limit,Annual Saver,converted,2499
+70000940,100417,200324,2026-07-11 10:20:00,paywall_view,Digital,viewed,0
+70000941,100694,200891,2026-07-12 11:37:00,meter_limit,Digital Plus,dismissed,0
+70000942,100489,200627,2026-07-13 12:54:00,paywall_view,Intro Offer,trial_started,0
+70000943,100467,200822,2026-07-14 13:11:00,meter_limit,Annual Saver,converted,2499
+70000944,100766,200330,2026-07-15 14:28:00,paywall_view,Digital,viewed,0
+70000945,100335,200356,2026-07-16 15:45:00,meter_limit,Digital Plus,dismissed,0
+70000946,100216,200533,2026-07-17 16:02:00,paywall_view,Intro Offer,trial_started,0
+70000947,100168,200225,2026-07-18 17:19:00,meter_limit,Annual Saver,converted,2499
+70000948,100177,200971,2026-07-19 18:36:00,paywall_view,Digital,viewed,0
+70000949,100728,200049,2026-07-20 19:53:00,meter_limit,Digital Plus,dismissed,0
+70000950,100699,200548,2026-06-01 20:10:00,paywall_view,Intro Offer,trial_started,0
+70000951,100297,200781,2026-06-02 21:27:00,meter_limit,Annual Saver,converted,2499
+70000952,100029,200706,2026-06-03 08:44:00,paywall_view,Digital,viewed,0
+70000953,100833,200111,2026-06-04 09:01:00,meter_limit,Digital Plus,dismissed,0
+70000954,100670,200939,2026-06-05 10:18:00,paywall_view,Intro Offer,trial_started,0
+70000955,100568,200872,2026-06-06 11:35:00,meter_limit,Annual Saver,converted,2499
+70000956,100358,200298,2026-06-07 12:52:00,paywall_view,Digital,viewed,0
+70000957,100218,200006,2026-06-08 13:09:00,meter_limit,Digital Plus,dismissed,0
+70000958,100171,200014,2026-06-09 14:26:00,paywall_view,Intro Offer,trial_started,0
+70000959,100505,200469,2026-06-10 15:43:00,meter_limit,Annual Saver,converted,1299
+70000960,100135,200623,2026-06-11 16:00:00,paywall_view,Digital,viewed,0
+70000961,100225,200539,2026-06-12 17:17:00,meter_limit,Digital Plus,dismissed,0
+70000962,100162,200614,2026-06-13 18:34:00,paywall_view,Intro Offer,trial_started,0
+70000963,100599,200285,2026-06-14 19:51:00,meter_limit,Annual Saver,converted,1299
+70000964,100019,200117,2026-06-15 20:08:00,paywall_view,Digital,viewed,0
+70000965,100611,200184,2026-06-16 21:25:00,meter_limit,Digital Plus,dismissed,0
+70000966,100397,200460,2026-06-17 08:42:00,paywall_view,Intro Offer,trial_started,0
+70000967,100907,200906,2026-06-18 09:59:00,meter_limit,Annual Saver,converted,2499
+70000968,100674,200454,2026-06-19 10:16:00,paywall_view,Digital,viewed,0
+70000969,100311,200003,2026-06-20 11:33:00,meter_limit,Digital Plus,dismissed,0
+70000970,100010,200887,2026-06-21 12:50:00,paywall_view,Intro Offer,trial_started,0
+70000971,100466,200063,2026-06-22 13:07:00,meter_limit,Annual Saver,converted,899
+70000972,100843,200460,2026-06-23 14:24:00,paywall_view,Digital,viewed,0
+70000973,100587,200828,2026-06-24 15:41:00,meter_limit,Digital Plus,dismissed,0
+70000974,100293,200519,2026-06-25 16:58:00,paywall_view,Intro Offer,trial_started,0
+70000975,100874,200171,2026-06-26 17:15:00,meter_limit,Annual Saver,converted,899
+70000976,100654,200046,2026-06-27 18:32:00,paywall_view,Digital,viewed,0
+70000977,100937,200812,2026-06-28 19:49:00,meter_limit,Digital Plus,dismissed,0
+70000978,100124,200629,2026-06-29 20:06:00,paywall_view,Intro Offer,trial_started,0
+70000979,100390,200808,2026-06-30 21:23:00,meter_limit,Annual Saver,converted,899
+70000980,100631,200700,2026-07-01 08:40:00,paywall_view,Digital,viewed,0
+70000981,100556,200451,2026-07-02 09:57:00,meter_limit,Digital Plus,dismissed,0
+70000982,100875,200650,2026-07-03 10:14:00,paywall_view,Intro Offer,trial_started,0
+70000983,100736,200261,2026-07-04 11:31:00,meter_limit,Annual Saver,converted,1299
+70000984,100378,200136,2026-07-05 12:48:00,paywall_view,Digital,viewed,0
+70000985,100605,200244,2026-07-06 13:05:00,meter_limit,Digital Plus,dismissed,0
+70000986,100816,200793,2026-07-07 14:22:00,paywall_view,Intro Offer,trial_started,0
+70000987,100823,200282,2026-07-08 15:39:00,meter_limit,Annual Saver,converted,1299
+70000988,100977,200391,2026-07-09 16:56:00,paywall_view,Digital,viewed,0
+70000989,100041,200651,2026-07-10 17:13:00,meter_limit,Digital Plus,dismissed,0
+70000990,100375,200779,2026-07-11 18:30:00,paywall_view,Intro Offer,trial_started,0
+70000991,100058,200206,2026-07-12 19:47:00,meter_limit,Annual Saver,converted,2499
+70000992,100868,200479,2026-07-13 20:04:00,paywall_view,Digital,viewed,0
+70000993,100417,200320,2026-07-14 21:21:00,meter_limit,Digital Plus,dismissed,0
+70000994,100273,200972,2026-07-15 08:38:00,paywall_view,Intro Offer,trial_started,0
+70000995,100256,200051,2026-07-16 09:55:00,meter_limit,Annual Saver,converted,2499
+70000996,100666,200900,2026-07-17 10:12:00,paywall_view,Digital,viewed,0
+70000997,100396,200544,2026-07-18 11:29:00,meter_limit,Digital Plus,dismissed,0
+70000998,100483,200268,2026-07-19 12:46:00,paywall_view,Intro Offer,trial_started,0
+70000999,100954,200723,2026-07-20 13:03:00,meter_limit,Annual Saver,converted,899
+70001000,100895,200613,2026-06-01 14:20:00,paywall_view,Digital,viewed,0

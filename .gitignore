@@ -3,6 +3,8 @@ dbt_internal_packages/
 logs/
 target/
 .env
+__pycache__/
+*.py[cod]
 .terraform/
 *.tfstate
 *.tfstate.*

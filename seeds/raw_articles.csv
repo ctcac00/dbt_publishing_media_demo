@@ -5,3 +5,1003 @@ article_id,headline,section,author,published_at,primary_channel,word_count,is_pr
 1004,Championship preview by the numbers,Sports,Morgan Patel,2026-06-04 10:45:00,search,1120,false
 1005,How publishers retain loyal readers,Media,Casey Brooks,2026-06-05 06:55:00,newsletter,1540,true
 1006,Streaming habits shift after season finales,Entertainment,Taylor Quinn,2026-06-06 11:20:00,social,910,false
+100001,Transport faces fresh scrutiny,Culture,Jamie Lee,2026-06-02 07:07:00,social,1968,false
+100002,Streaming draws record interest,Business,Morgan Patel,2026-06-03 08:14:00,newsletter,907,true
+100003,Football signals cautious optimism,Sports,Riley Brooks,2026-06-04 09:21:00,search,659,false
+100004,Schools faces fresh scrutiny,Media,Taylor Morgan,2026-06-05 10:28:00,social,1659,true
+100005,Elections faces fresh scrutiny,Entertainment,Casey Reed,2026-06-06 11:35:00,newsletter,511,true
+100006,Transport draws record interest,News,Jordan Quinn,2026-06-07 12:42:00,search,926,false
+100007,Schools finds a wider audience,Culture,Sam Rivera,2026-06-08 13:49:00,social,504,false
+100008,Schools draws record interest,Business,Avery Stone,2026-06-09 14:56:00,newsletter,1916,true
+100009,Schools sparks local debate,Sports,Jamie Lee,2026-06-10 15:03:00,search,901,false
+100010,Startups finds a wider audience,Media,Morgan Patel,2026-06-11 16:10:00,social,1019,true
+100011,Housing draws record interest,Entertainment,Riley Brooks,2026-06-12 17:17:00,newsletter,1879,false
+100012,Elections sets new agenda,News,Taylor Morgan,2026-06-13 06:24:00,search,1019,false
+100013,Football draws record interest,Culture,Casey Reed,2026-06-14 07:31:00,social,2013,false
+100014,Markets faces fresh scrutiny,Business,Jordan Quinn,2026-06-15 08:38:00,newsletter,639,true
+100015,Elections faces fresh scrutiny,Sports,Sam Rivera,2026-06-16 09:45:00,search,1185,true
+100016,Markets finds a wider audience,Media,Avery Stone,2026-06-17 10:52:00,social,991,true
+100017,Housing signals cautious optimism,Entertainment,Jamie Lee,2026-06-18 11:59:00,newsletter,1390,false
+100018,Schools faces fresh scrutiny,News,Morgan Patel,2026-06-19 12:06:00,search,2338,false
+100019,Elections faces fresh scrutiny,Culture,Riley Brooks,2026-06-20 13:13:00,social,1580,false
+100020,Streaming signals cautious optimism,Business,Taylor Morgan,2026-06-21 14:20:00,newsletter,1716,true
+100021,Markets finds a wider audience,Sports,Casey Reed,2026-06-22 15:27:00,search,843,false
+100022,Transport faces fresh scrutiny,Media,Jordan Quinn,2026-06-23 16:34:00,social,1804,true
+100023,Theatre sets new agenda,Entertainment,Sam Rivera,2026-06-24 17:41:00,newsletter,613,false
+100024,Theatre faces fresh scrutiny,News,Avery Stone,2026-06-25 06:48:00,search,1228,false
+100025,Streaming sparks local debate,Culture,Jamie Lee,2026-06-26 07:55:00,social,1751,true
+100026,Markets draws record interest,Business,Morgan Patel,2026-06-27 08:02:00,newsletter,1208,true
+100027,Markets draws record interest,Sports,Riley Brooks,2026-06-28 09:09:00,search,1822,false
+100028,Streaming signals cautious optimism,Media,Taylor Morgan,2026-06-29 10:16:00,social,2368,true
+100029,Transport finds a wider audience,Entertainment,Casey Reed,2026-06-30 11:23:00,newsletter,1750,false
+100030,Football finds a wider audience,News,Jordan Quinn,2026-07-01 12:30:00,search,1943,true
+100031,Theatre draws record interest,Culture,Sam Rivera,2026-07-02 13:37:00,social,1396,false
+100032,Elections sets new agenda,Business,Avery Stone,2026-07-03 14:44:00,newsletter,2345,true
+100033,Schools draws record interest,Sports,Jamie Lee,2026-07-04 15:51:00,search,1852,false
+100034,Markets faces fresh scrutiny,Media,Morgan Patel,2026-07-05 16:58:00,social,919,true
+100035,Housing sets new agenda,Entertainment,Riley Brooks,2026-07-06 17:05:00,newsletter,1271,true
+100036,Streaming faces fresh scrutiny,News,Taylor Morgan,2026-07-07 06:12:00,search,882,false
+100037,Restaurants signals cautious optimism,Culture,Casey Reed,2026-07-08 07:19:00,social,1094,false
+100038,Theatre signals cautious optimism,Business,Jordan Quinn,2026-07-09 08:26:00,newsletter,1472,true
+100039,Elections signals cautious optimism,Sports,Sam Rivera,2026-07-10 09:33:00,search,1389,false
+100040,Football sets new agenda,Media,Avery Stone,2026-07-11 10:40:00,social,735,true
+100041,Theatre signals cautious optimism,Entertainment,Jamie Lee,2026-07-12 11:47:00,newsletter,1599,false
+100042,Schools sets new agenda,News,Morgan Patel,2026-07-13 12:54:00,search,1979,false
+100043,Restaurants sparks local debate,Culture,Riley Brooks,2026-07-14 13:01:00,social,2288,false
+100044,Restaurants sparks local debate,Business,Taylor Morgan,2026-07-15 14:08:00,newsletter,1191,true
+100045,Theatre draws record interest,Sports,Casey Reed,2026-06-01 15:15:00,search,1493,true
+100046,Startups faces fresh scrutiny,Media,Jordan Quinn,2026-06-02 16:22:00,social,1997,true
+100047,Housing faces fresh scrutiny,Entertainment,Sam Rivera,2026-06-03 17:29:00,newsletter,763,false
+100048,Football signals cautious optimism,News,Avery Stone,2026-06-04 06:36:00,search,1314,false
+100049,Restaurants faces fresh scrutiny,Culture,Jamie Lee,2026-06-05 07:43:00,social,1238,false
+100050,Elections finds a wider audience,Business,Morgan Patel,2026-06-06 08:50:00,newsletter,1408,true
+100051,Schools sets new agenda,Sports,Riley Brooks,2026-06-07 09:57:00,search,1583,false
+100052,Housing signals cautious optimism,Media,Taylor Morgan,2026-06-08 10:04:00,social,1926,true
+100053,Transport signals cautious optimism,Entertainment,Casey Reed,2026-06-09 11:11:00,newsletter,2262,false
+100054,Schools sets new agenda,News,Jordan Quinn,2026-06-10 12:18:00,search,2024,false
+100055,Markets faces fresh scrutiny,Culture,Sam Rivera,2026-06-11 13:25:00,social,1051,true
+100056,Elections draws record interest,Business,Avery Stone,2026-06-12 14:32:00,newsletter,1379,true
+100057,Housing signals cautious optimism,Sports,Jamie Lee,2026-06-13 15:39:00,search,2243,false
+100058,Streaming finds a wider audience,Media,Morgan Patel,2026-06-14 16:46:00,social,2010,true
+100059,Football finds a wider audience,Entertainment,Riley Brooks,2026-06-15 17:53:00,newsletter,2319,false
+100060,Transport signals cautious optimism,News,Taylor Morgan,2026-06-16 06:00:00,search,1061,true
+100061,Schools finds a wider audience,Culture,Casey Reed,2026-06-17 07:07:00,social,857,false
+100062,Football sets new agenda,Business,Jordan Quinn,2026-06-18 08:14:00,newsletter,2011,true
+100063,Football finds a wider audience,Sports,Sam Rivera,2026-06-19 09:21:00,search,2044,false
+100064,Schools faces fresh scrutiny,Media,Avery Stone,2026-06-20 10:28:00,social,1676,true
+100065,Markets sparks local debate,Entertainment,Jamie Lee,2026-06-21 11:35:00,newsletter,489,true
+100066,Transport sets new agenda,News,Morgan Patel,2026-06-22 12:42:00,search,2249,false
+100067,Streaming draws record interest,Culture,Riley Brooks,2026-06-23 13:49:00,social,568,false
+100068,Theatre finds a wider audience,Business,Taylor Morgan,2026-06-24 14:56:00,newsletter,2389,true
+100069,Transport faces fresh scrutiny,Sports,Casey Reed,2026-06-25 15:03:00,search,1948,false
+100070,Startups faces fresh scrutiny,Media,Jordan Quinn,2026-06-26 16:10:00,social,2007,true
+100071,Schools draws record interest,Entertainment,Sam Rivera,2026-06-27 17:17:00,newsletter,712,false
+100072,Startups finds a wider audience,News,Avery Stone,2026-06-28 06:24:00,search,788,false
+100073,Streaming finds a wider audience,Culture,Jamie Lee,2026-06-29 07:31:00,social,2236,false
+100074,Restaurants sparks local debate,Business,Morgan Patel,2026-06-30 08:38:00,newsletter,883,true
+100075,Schools signals cautious optimism,Sports,Riley Brooks,2026-07-01 09:45:00,search,1862,true
+100076,Theatre signals cautious optimism,Media,Taylor Morgan,2026-07-02 10:52:00,social,1088,true
+100077,Elections signals cautious optimism,Entertainment,Casey Reed,2026-07-03 11:59:00,newsletter,1780,false
+100078,Markets sparks local debate,News,Jordan Quinn,2026-07-04 12:06:00,search,2292,false
+100079,Schools sparks local debate,Culture,Sam Rivera,2026-07-05 13:13:00,social,697,false
+100080,Theatre draws record interest,Business,Avery Stone,2026-07-06 14:20:00,newsletter,581,true
+100081,Markets faces fresh scrutiny,Sports,Jamie Lee,2026-07-07 15:27:00,search,1654,false
+100082,Schools draws record interest,Media,Morgan Patel,2026-07-08 16:34:00,social,1655,true
+100083,Theatre faces fresh scrutiny,Entertainment,Riley Brooks,2026-07-09 17:41:00,newsletter,595,false
+100084,Housing draws record interest,News,Taylor Morgan,2026-07-10 06:48:00,search,588,false
+100085,Housing sets new agenda,Culture,Casey Reed,2026-07-11 07:55:00,social,595,true
+100086,Schools draws record interest,Business,Jordan Quinn,2026-07-12 08:02:00,newsletter,1020,true
+100087,Startups draws record interest,Sports,Sam Rivera,2026-07-13 09:09:00,search,1554,false
+100088,Football signals cautious optimism,Media,Avery Stone,2026-07-14 10:16:00,social,2365,true
+100089,Restaurants finds a wider audience,Entertainment,Jamie Lee,2026-07-15 11:23:00,newsletter,1418,false
+100090,Theatre sparks local debate,News,Morgan Patel,2026-06-01 12:30:00,search,2103,true
+100091,Elections draws record interest,Culture,Riley Brooks,2026-06-02 13:37:00,social,643,false
+100092,Transport signals cautious optimism,Business,Taylor Morgan,2026-06-03 14:44:00,newsletter,1332,true
+100093,Markets sparks local debate,Sports,Casey Reed,2026-06-04 15:51:00,search,1291,false
+100094,Startups signals cautious optimism,Media,Jordan Quinn,2026-06-05 16:58:00,social,560,true
+100095,Transport faces fresh scrutiny,Entertainment,Sam Rivera,2026-06-06 17:05:00,newsletter,1274,true
+100096,Markets faces fresh scrutiny,News,Avery Stone,2026-06-07 06:12:00,search,959,false
+100097,Theatre draws record interest,Culture,Jamie Lee,2026-06-08 07:19:00,social,1548,false
+100098,Startups draws record interest,Business,Morgan Patel,2026-06-09 08:26:00,newsletter,1314,true
+100099,Football sets new agenda,Sports,Riley Brooks,2026-06-10 09:33:00,search,1397,false
+100100,Theatre faces fresh scrutiny,Media,Taylor Morgan,2026-06-11 10:40:00,social,1357,true
+100101,Schools faces fresh scrutiny,Entertainment,Casey Reed,2026-06-12 11:47:00,newsletter,553,false
+100102,Schools faces fresh scrutiny,News,Jordan Quinn,2026-06-13 12:54:00,search,641,false
+100103,Theatre draws record interest,Culture,Sam Rivera,2026-06-14 13:01:00,social,1282,false
+100104,Startups sparks local debate,Business,Avery Stone,2026-06-15 14:08:00,newsletter,887,true
+100105,Elections faces fresh scrutiny,Sports,Jamie Lee,2026-06-16 15:15:00,search,787,true
+100106,Elections faces fresh scrutiny,Media,Morgan Patel,2026-06-17 16:22:00,social,1249,true
+100107,Streaming sparks local debate,Entertainment,Riley Brooks,2026-06-18 17:29:00,newsletter,1034,false
+100108,Elections signals cautious optimism,News,Taylor Morgan,2026-06-19 06:36:00,search,1946,false
+100109,Schools signals cautious optimism,Culture,Casey Reed,2026-06-20 07:43:00,social,1921,false
+100110,Startups draws record interest,Business,Jordan Quinn,2026-06-21 08:50:00,newsletter,838,true
+100111,Streaming draws record interest,Sports,Sam Rivera,2026-06-22 09:57:00,search,569,false
+100112,Restaurants signals cautious optimism,Media,Avery Stone,2026-06-23 10:04:00,social,1560,true
+100113,Housing signals cautious optimism,Entertainment,Jamie Lee,2026-06-24 11:11:00,newsletter,1092,false
+100114,Housing faces fresh scrutiny,News,Morgan Patel,2026-06-25 12:18:00,search,1646,false
+100115,Startups finds a wider audience,Culture,Riley Brooks,2026-06-26 13:25:00,social,2332,true
+100116,Schools draws record interest,Business,Taylor Morgan,2026-06-27 14:32:00,newsletter,566,true
+100117,Schools faces fresh scrutiny,Sports,Casey Reed,2026-06-28 15:39:00,search,2193,false
+100118,Football faces fresh scrutiny,Media,Jordan Quinn,2026-06-29 16:46:00,social,1668,true
+100119,Transport signals cautious optimism,Entertainment,Sam Rivera,2026-06-30 17:53:00,newsletter,2215,false
+100120,Theatre sparks local debate,News,Avery Stone,2026-07-01 06:00:00,search,695,true
+100121,Restaurants draws record interest,Culture,Jamie Lee,2026-07-02 07:07:00,social,1635,false
+100122,Restaurants faces fresh scrutiny,Business,Morgan Patel,2026-07-03 08:14:00,newsletter,1718,true
+100123,Transport sparks local debate,Sports,Riley Brooks,2026-07-04 09:21:00,search,1796,false
+100124,Restaurants finds a wider audience,Media,Taylor Morgan,2026-07-05 10:28:00,social,1520,true
+100125,Markets sets new agenda,Entertainment,Casey Reed,2026-07-06 11:35:00,newsletter,868,true
+100126,Markets draws record interest,News,Jordan Quinn,2026-07-07 12:42:00,search,993,false
+100127,Elections draws record interest,Culture,Sam Rivera,2026-07-08 13:49:00,social,1825,false
+100128,Streaming sparks local debate,Business,Avery Stone,2026-07-09 14:56:00,newsletter,1097,true
+100129,Transport faces fresh scrutiny,Sports,Jamie Lee,2026-07-10 15:03:00,search,1388,false
+100130,Restaurants finds a wider audience,Media,Morgan Patel,2026-07-11 16:10:00,social,654,true
+100131,Transport finds a wider audience,Entertainment,Riley Brooks,2026-07-12 17:17:00,newsletter,886,false
+100132,Schools sets new agenda,News,Taylor Morgan,2026-07-13 06:24:00,search,721,false
+100133,Markets faces fresh scrutiny,Culture,Casey Reed,2026-07-14 07:31:00,social,2250,false
+100134,Theatre sets new agenda,Business,Jordan Quinn,2026-07-15 08:38:00,newsletter,1033,true
+100135,Football sparks local debate,Sports,Sam Rivera,2026-06-01 09:45:00,search,2157,true
+100136,Schools signals cautious optimism,Media,Avery Stone,2026-06-02 10:52:00,social,1069,true
+100137,Restaurants signals cautious optimism,Entertainment,Jamie Lee,2026-06-03 11:59:00,newsletter,1533,false
+100138,Housing signals cautious optimism,News,Morgan Patel,2026-06-04 12:06:00,search,2123,false
+100139,Schools sets new agenda,Culture,Riley Brooks,2026-06-05 13:13:00,social,2358,false
+100140,Transport draws record interest,Business,Taylor Morgan,2026-06-06 14:20:00,newsletter,991,true
+100141,Transport faces fresh scrutiny,Sports,Casey Reed,2026-06-07 15:27:00,search,1970,false
+100142,Schools draws record interest,Media,Jordan Quinn,2026-06-08 16:34:00,social,1007,true
+100143,Streaming finds a wider audience,Entertainment,Sam Rivera,2026-06-09 17:41:00,newsletter,881,false
+100144,Markets draws record interest,News,Avery Stone,2026-06-10 06:48:00,search,1857,false
+100145,Streaming finds a wider audience,Culture,Jamie Lee,2026-06-11 07:55:00,social,1450,true
+100146,Streaming faces fresh scrutiny,Business,Morgan Patel,2026-06-12 08:02:00,newsletter,639,true
+100147,Elections sets new agenda,Sports,Riley Brooks,2026-06-13 09:09:00,search,540,false
+100148,Housing sets new agenda,Media,Taylor Morgan,2026-06-14 10:16:00,social,2029,true
+100149,Football signals cautious optimism,Entertainment,Casey Reed,2026-06-15 11:23:00,newsletter,986,false
+100150,Football signals cautious optimism,News,Jordan Quinn,2026-06-16 12:30:00,search,1354,true
+100151,Schools signals cautious optimism,Culture,Sam Rivera,2026-06-17 13:37:00,social,1325,false
+100152,Schools faces fresh scrutiny,Business,Avery Stone,2026-06-18 14:44:00,newsletter,679,true
+100153,Transport signals cautious optimism,Sports,Jamie Lee,2026-06-19 15:51:00,search,2301,false
+100154,Football finds a wider audience,Media,Morgan Patel,2026-06-20 16:58:00,social,523,true
+100155,Markets finds a wider audience,Entertainment,Riley Brooks,2026-06-21 17:05:00,newsletter,1581,true
+100156,Football sparks local debate,News,Taylor Morgan,2026-06-22 06:12:00,search,711,false
+100157,Housing sets new agenda,Culture,Casey Reed,2026-06-23 07:19:00,social,1196,false
+100158,Housing sets new agenda,Business,Jordan Quinn,2026-06-24 08:26:00,newsletter,880,true
+100159,Theatre signals cautious optimism,Sports,Sam Rivera,2026-06-25 09:33:00,search,660,false
+100160,Markets finds a wider audience,Media,Avery Stone,2026-06-26 10:40:00,social,2260,true
+100161,Elections finds a wider audience,Entertainment,Jamie Lee,2026-06-27 11:47:00,newsletter,1984,false
+100162,Football draws record interest,News,Morgan Patel,2026-06-28 12:54:00,search,2220,false
+100163,Football draws record interest,Culture,Riley Brooks,2026-06-29 13:01:00,social,2255,false
+100164,Elections faces fresh scrutiny,Business,Taylor Morgan,2026-06-30 14:08:00,newsletter,817,true
+100165,Markets sparks local debate,Sports,Casey Reed,2026-07-01 15:15:00,search,2092,true
+100166,Theatre sets new agenda,Media,Jordan Quinn,2026-07-02 16:22:00,social,776,true
+100167,Transport sparks local debate,Entertainment,Sam Rivera,2026-07-03 17:29:00,newsletter,2236,false
+100168,Housing sparks local debate,News,Avery Stone,2026-07-04 06:36:00,search,905,false
+100169,Theatre sparks local debate,Culture,Jamie Lee,2026-07-05 07:43:00,social,1166,false
+100170,Streaming draws record interest,Business,Morgan Patel,2026-07-06 08:50:00,newsletter,906,true
+100171,Housing signals cautious optimism,Sports,Riley Brooks,2026-07-07 09:57:00,search,845,false
+100172,Elections sets new agenda,Media,Taylor Morgan,2026-07-08 10:04:00,social,1020,true
+100173,Transport sets new agenda,Entertainment,Casey Reed,2026-07-09 11:11:00,newsletter,1169,false
+100174,Schools sparks local debate,News,Jordan Quinn,2026-07-10 12:18:00,search,1841,false
+100175,Schools sets new agenda,Culture,Sam Rivera,2026-07-11 13:25:00,social,2373,true
+100176,Housing faces fresh scrutiny,Business,Avery Stone,2026-07-12 14:32:00,newsletter,2246,true
+100177,Streaming draws record interest,Sports,Jamie Lee,2026-07-13 15:39:00,search,1639,false
+100178,Streaming faces fresh scrutiny,Media,Morgan Patel,2026-07-14 16:46:00,social,672,true
+100179,Restaurants sparks local debate,Entertainment,Riley Brooks,2026-07-15 17:53:00,newsletter,1157,false
+100180,Markets sparks local debate,News,Taylor Morgan,2026-06-01 06:00:00,search,1691,true
+100181,Schools faces fresh scrutiny,Culture,Casey Reed,2026-06-02 07:07:00,social,1238,false
+100182,Restaurants draws record interest,Business,Jordan Quinn,2026-06-03 08:14:00,newsletter,971,true
+100183,Housing signals cautious optimism,Sports,Sam Rivera,2026-06-04 09:21:00,search,1343,false
+100184,Housing finds a wider audience,Media,Avery Stone,2026-06-05 10:28:00,social,2345,true
+100185,Schools signals cautious optimism,Entertainment,Jamie Lee,2026-06-06 11:35:00,newsletter,1923,true
+100186,Theatre sets new agenda,News,Morgan Patel,2026-06-07 12:42:00,search,1333,false
+100187,Transport signals cautious optimism,Culture,Riley Brooks,2026-06-08 13:49:00,social,2335,false
+100188,Markets finds a wider audience,Business,Taylor Morgan,2026-06-09 14:56:00,newsletter,1092,true
+100189,Transport signals cautious optimism,Sports,Casey Reed,2026-06-10 15:03:00,search,2293,false
+100190,Streaming finds a wider audience,Media,Jordan Quinn,2026-06-11 16:10:00,social,1083,true
+100191,Elections sets new agenda,Entertainment,Sam Rivera,2026-06-12 17:17:00,newsletter,1274,false
+100192,Streaming finds a wider audience,News,Avery Stone,2026-06-13 06:24:00,search,710,false
+100193,Theatre sparks local debate,Culture,Jamie Lee,2026-06-14 07:31:00,social,1811,false
+100194,Elections signals cautious optimism,Business,Morgan Patel,2026-06-15 08:38:00,newsletter,1982,true
+100195,Football finds a wider audience,Sports,Riley Brooks,2026-06-16 09:45:00,search,1615,true
+100196,Streaming sparks local debate,Media,Taylor Morgan,2026-06-17 10:52:00,social,1572,true
+100197,Housing sets new agenda,Entertainment,Casey Reed,2026-06-18 11:59:00,newsletter,1037,false
+100198,Theatre sparks local debate,News,Jordan Quinn,2026-06-19 12:06:00,search,2059,false
+100199,Restaurants finds a wider audience,Culture,Sam Rivera,2026-06-20 13:13:00,social,1790,false
+100200,Markets sparks local debate,Business,Avery Stone,2026-06-21 14:20:00,newsletter,1354,true
+100201,Startups signals cautious optimism,Sports,Jamie Lee,2026-06-22 15:27:00,search,887,false
+100202,Schools sparks local debate,Media,Morgan Patel,2026-06-23 16:34:00,social,2075,true
+100203,Football signals cautious optimism,Entertainment,Riley Brooks,2026-06-24 17:41:00,newsletter,623,false
+100204,Streaming finds a wider audience,News,Taylor Morgan,2026-06-25 06:48:00,search,1809,false
+100205,Restaurants sets new agenda,Culture,Casey Reed,2026-06-26 07:55:00,social,641,true
+100206,Theatre signals cautious optimism,Business,Jordan Quinn,2026-06-27 08:02:00,newsletter,1085,true
+100207,Theatre draws record interest,Sports,Sam Rivera,2026-06-28 09:09:00,search,751,false
+100208,Housing faces fresh scrutiny,Media,Avery Stone,2026-06-29 10:16:00,social,951,true
+100209,Startups finds a wider audience,Entertainment,Jamie Lee,2026-06-30 11:23:00,newsletter,2190,false
+100210,Transport sparks local debate,News,Morgan Patel,2026-07-01 12:30:00,search,1298,true
+100211,Restaurants draws record interest,Culture,Riley Brooks,2026-07-02 13:37:00,social,1921,false
+100212,Elections sparks local debate,Business,Taylor Morgan,2026-07-03 14:44:00,newsletter,1268,true
+100213,Theatre draws record interest,Sports,Casey Reed,2026-07-04 15:51:00,search,1793,false
+100214,Housing faces fresh scrutiny,Media,Jordan Quinn,2026-07-05 16:58:00,social,2044,true
+100215,Elections draws record interest,Entertainment,Sam Rivera,2026-07-06 17:05:00,newsletter,810,true
+100216,Schools sparks local debate,News,Avery Stone,2026-07-07 06:12:00,search,552,false
+100217,Schools draws record interest,Culture,Jamie Lee,2026-07-08 07:19:00,social,2328,false
+100218,Transport sparks local debate,Business,Morgan Patel,2026-07-09 08:26:00,newsletter,723,true
+100219,Startups signals cautious optimism,Sports,Riley Brooks,2026-07-10 09:33:00,search,1537,false
+100220,Schools finds a wider audience,Media,Taylor Morgan,2026-07-11 10:40:00,social,1099,true
+100221,Startups finds a wider audience,Entertainment,Casey Reed,2026-07-12 11:47:00,newsletter,2119,false
+100222,Schools sparks local debate,News,Jordan Quinn,2026-07-13 12:54:00,search,2151,false
+100223,Schools sparks local debate,Culture,Sam Rivera,2026-07-14 13:01:00,social,2287,false
+100224,Football signals cautious optimism,Business,Avery Stone,2026-07-15 14:08:00,newsletter,2214,true
+100225,Startups sparks local debate,Sports,Jamie Lee,2026-06-01 15:15:00,search,980,true
+100226,Theatre signals cautious optimism,Media,Morgan Patel,2026-06-02 16:22:00,social,1017,true
+100227,Schools sparks local debate,Entertainment,Riley Brooks,2026-06-03 17:29:00,newsletter,1733,false
+100228,Theatre sets new agenda,News,Taylor Morgan,2026-06-04 06:36:00,search,1350,false
+100229,Transport signals cautious optimism,Culture,Casey Reed,2026-06-05 07:43:00,social,1035,false
+100230,Theatre sets new agenda,Business,Jordan Quinn,2026-06-06 08:50:00,newsletter,1137,true
+100231,Markets finds a wider audience,Sports,Sam Rivera,2026-06-07 09:57:00,search,615,false
+100232,Football draws record interest,Media,Avery Stone,2026-06-08 10:04:00,social,923,true
+100233,Elections signals cautious optimism,Entertainment,Jamie Lee,2026-06-09 11:11:00,newsletter,762,false
+100234,Theatre faces fresh scrutiny,News,Morgan Patel,2026-06-10 12:18:00,search,1299,false
+100235,Elections sets new agenda,Culture,Riley Brooks,2026-06-11 13:25:00,social,1561,true
+100236,Startups sparks local debate,Business,Taylor Morgan,2026-06-12 14:32:00,newsletter,577,true
+100237,Theatre sparks local debate,Sports,Casey Reed,2026-06-13 15:39:00,search,1247,false
+100238,Restaurants signals cautious optimism,Media,Jordan Quinn,2026-06-14 16:46:00,social,490,true
+100239,Restaurants sparks local debate,Entertainment,Sam Rivera,2026-06-15 17:53:00,newsletter,1426,false
+100240,Housing sets new agenda,News,Avery Stone,2026-06-16 06:00:00,search,1061,true
+100241,Elections sparks local debate,Culture,Jamie Lee,2026-06-17 07:07:00,social,1552,false
+100242,Schools finds a wider audience,Business,Morgan Patel,2026-06-18 08:14:00,newsletter,2288,true
+100243,Theatre sparks local debate,Sports,Riley Brooks,2026-06-19 09:21:00,search,899,false
+100244,Streaming sparks local debate,Media,Taylor Morgan,2026-06-20 10:28:00,social,1444,true
+100245,Housing sparks local debate,Entertainment,Casey Reed,2026-06-21 11:35:00,newsletter,1138,true
+100246,Elections signals cautious optimism,News,Jordan Quinn,2026-06-22 12:42:00,search,788,false
+100247,Startups draws record interest,Culture,Sam Rivera,2026-06-23 13:49:00,social,1724,false
+100248,Schools faces fresh scrutiny,Business,Avery Stone,2026-06-24 14:56:00,newsletter,2307,true
+100249,Elections finds a wider audience,Sports,Jamie Lee,2026-06-25 15:03:00,search,1605,false
+100250,Housing faces fresh scrutiny,Media,Morgan Patel,2026-06-26 16:10:00,social,1766,true
+100251,Elections draws record interest,Entertainment,Riley Brooks,2026-06-27 17:17:00,newsletter,2225,false
+100252,Startups draws record interest,News,Taylor Morgan,2026-06-28 06:24:00,search,552,false
+100253,Streaming sparks local debate,Culture,Casey Reed,2026-06-29 07:31:00,social,1120,false
+100254,Theatre sparks local debate,Business,Jordan Quinn,2026-06-30 08:38:00,newsletter,1119,true
+100255,Markets sparks local debate,Sports,Sam Rivera,2026-07-01 09:45:00,search,1019,true
+100256,Elections sets new agenda,Media,Avery Stone,2026-07-02 10:52:00,social,2159,true
+100257,Transport sparks local debate,Entertainment,Jamie Lee,2026-07-03 11:59:00,newsletter,489,false
+100258,Schools faces fresh scrutiny,News,Morgan Patel,2026-07-04 12:06:00,search,2399,false
+100259,Markets draws record interest,Culture,Riley Brooks,2026-07-05 13:13:00,social,1781,false
+100260,Transport signals cautious optimism,Business,Taylor Morgan,2026-07-06 14:20:00,newsletter,532,true
+100261,Housing draws record interest,Sports,Casey Reed,2026-07-07 15:27:00,search,858,false
+100262,Housing finds a wider audience,Media,Jordan Quinn,2026-07-08 16:34:00,social,762,true
+100263,Theatre draws record interest,Entertainment,Sam Rivera,2026-07-09 17:41:00,newsletter,1419,false
+100264,Transport finds a wider audience,News,Avery Stone,2026-07-10 06:48:00,search,2391,false
+100265,Theatre sparks local debate,Culture,Jamie Lee,2026-07-11 07:55:00,social,1882,true
+100266,Streaming sets new agenda,Business,Morgan Patel,2026-07-12 08:02:00,newsletter,793,true
+100267,Restaurants finds a wider audience,Sports,Riley Brooks,2026-07-13 09:09:00,search,1981,false
+100268,Transport draws record interest,Media,Taylor Morgan,2026-07-14 10:16:00,social,1087,true
+100269,Transport finds a wider audience,Entertainment,Casey Reed,2026-07-15 11:23:00,newsletter,502,false
+100270,Streaming finds a wider audience,News,Jordan Quinn,2026-06-01 12:30:00,search,1837,true
+100271,Elections sparks local debate,Culture,Sam Rivera,2026-06-02 13:37:00,social,2378,false
+100272,Theatre faces fresh scrutiny,Business,Avery Stone,2026-06-03 14:44:00,newsletter,1662,true
+100273,Theatre faces fresh scrutiny,Sports,Jamie Lee,2026-06-04 15:51:00,search,1877,false
+100274,Streaming signals cautious optimism,Media,Morgan Patel,2026-06-05 16:58:00,social,1679,true
+100275,Transport finds a wider audience,Entertainment,Riley Brooks,2026-06-06 17:05:00,newsletter,2052,true
+100276,Housing sets new agenda,News,Taylor Morgan,2026-06-07 06:12:00,search,1541,false
+100277,Elections signals cautious optimism,Culture,Casey Reed,2026-06-08 07:19:00,social,1208,false
+100278,Transport finds a wider audience,Business,Jordan Quinn,2026-06-09 08:26:00,newsletter,1776,true
+100279,Markets faces fresh scrutiny,Sports,Sam Rivera,2026-06-10 09:33:00,search,2189,false
+100280,Elections sparks local debate,Media,Avery Stone,2026-06-11 10:40:00,social,666,true
+100281,Elections sets new agenda,Entertainment,Jamie Lee,2026-06-12 11:47:00,newsletter,1751,false
+100282,Startups signals cautious optimism,News,Morgan Patel,2026-06-13 12:54:00,search,763,false
+100283,Elections draws record interest,Culture,Riley Brooks,2026-06-14 13:01:00,social,1952,false
+100284,Schools signals cautious optimism,Business,Taylor Morgan,2026-06-15 14:08:00,newsletter,1003,true
+100285,Restaurants finds a wider audience,Sports,Casey Reed,2026-06-16 15:15:00,search,2036,true
+100286,Startups sparks local debate,Media,Jordan Quinn,2026-06-17 16:22:00,social,1342,true
+100287,Restaurants sets new agenda,Entertainment,Sam Rivera,2026-06-18 17:29:00,newsletter,1110,false
+100288,Theatre faces fresh scrutiny,News,Avery Stone,2026-06-19 06:36:00,search,1021,false
+100289,Startups draws record interest,Culture,Jamie Lee,2026-06-20 07:43:00,social,1986,false
+100290,Startups finds a wider audience,Business,Morgan Patel,2026-06-21 08:50:00,newsletter,1699,true
+100291,Elections sets new agenda,Sports,Riley Brooks,2026-06-22 09:57:00,search,508,false
+100292,Startups sets new agenda,Media,Taylor Morgan,2026-06-23 10:04:00,social,822,true
+100293,Startups draws record interest,Entertainment,Casey Reed,2026-06-24 11:11:00,newsletter,1176,false
+100294,Streaming sets new agenda,News,Jordan Quinn,2026-06-25 12:18:00,search,1022,false
+100295,Restaurants signals cautious optimism,Culture,Sam Rivera,2026-06-26 13:25:00,social,2252,true
+100296,Streaming finds a wider audience,Business,Avery Stone,2026-06-27 14:32:00,newsletter,470,true
+100297,Schools draws record interest,Sports,Jamie Lee,2026-06-28 15:39:00,search,625,false
+100298,Theatre signals cautious optimism,Media,Morgan Patel,2026-06-29 16:46:00,social,1282,true
+100299,Startups finds a wider audience,Entertainment,Riley Brooks,2026-06-30 17:53:00,newsletter,2002,false
+100300,Theatre signals cautious optimism,News,Taylor Morgan,2026-07-01 06:00:00,search,1425,true
+100301,Startups sparks local debate,Culture,Casey Reed,2026-07-02 07:07:00,social,2073,false
+100302,Housing faces fresh scrutiny,Business,Jordan Quinn,2026-07-03 08:14:00,newsletter,1052,true
+100303,Theatre sparks local debate,Sports,Sam Rivera,2026-07-04 09:21:00,search,1866,false
+100304,Theatre sets new agenda,Media,Avery Stone,2026-07-05 10:28:00,social,1809,true
+100305,Restaurants sets new agenda,Entertainment,Jamie Lee,2026-07-06 11:35:00,newsletter,1419,true
+100306,Schools finds a wider audience,News,Morgan Patel,2026-07-07 12:42:00,search,1154,false
+100307,Elections signals cautious optimism,Culture,Riley Brooks,2026-07-08 13:49:00,social,1577,false
+100308,Markets sets new agenda,Business,Taylor Morgan,2026-07-09 14:56:00,newsletter,1889,true
+100309,Startups sets new agenda,Sports,Casey Reed,2026-07-10 15:03:00,search,1077,false
+100310,Streaming draws record interest,Media,Jordan Quinn,2026-07-11 16:10:00,social,697,true
+100311,Theatre sets new agenda,Entertainment,Sam Rivera,2026-07-12 17:17:00,newsletter,694,false
+100312,Schools signals cautious optimism,News,Avery Stone,2026-07-13 06:24:00,search,829,false
+100313,Theatre draws record interest,Culture,Jamie Lee,2026-07-14 07:31:00,social,1962,false
+100314,Startups sets new agenda,Business,Morgan Patel,2026-07-15 08:38:00,newsletter,1933,true
+100315,Restaurants finds a wider audience,Sports,Riley Brooks,2026-06-01 09:45:00,search,1672,true
+100316,Streaming faces fresh scrutiny,Media,Taylor Morgan,2026-06-02 10:52:00,social,2155,true
+100317,Theatre sets new agenda,Entertainment,Casey Reed,2026-06-03 11:59:00,newsletter,915,false
+100318,Markets draws record interest,News,Jordan Quinn,2026-06-04 12:06:00,search,1069,false
+100319,Housing signals cautious optimism,Culture,Sam Rivera,2026-06-05 13:13:00,social,1543,false
+100320,Football sets new agenda,Business,Avery Stone,2026-06-06 14:20:00,newsletter,543,true
+100321,Housing finds a wider audience,Sports,Jamie Lee,2026-06-07 15:27:00,search,1048,false
+100322,Football signals cautious optimism,Media,Morgan Patel,2026-06-08 16:34:00,social,2228,true
+100323,Startups faces fresh scrutiny,Entertainment,Riley Brooks,2026-06-09 17:41:00,newsletter,2237,false
+100324,Housing finds a wider audience,News,Taylor Morgan,2026-06-10 06:48:00,search,1032,false
+100325,Startups sparks local debate,Culture,Casey Reed,2026-06-11 07:55:00,social,1352,true
+100326,Markets draws record interest,Business,Jordan Quinn,2026-06-12 08:02:00,newsletter,555,true
+100327,Streaming sparks local debate,Sports,Sam Rivera,2026-06-13 09:09:00,search,683,false
+100328,Transport sparks local debate,Media,Avery Stone,2026-06-14 10:16:00,social,1457,true
+100329,Transport finds a wider audience,Entertainment,Jamie Lee,2026-06-15 11:23:00,newsletter,1739,false
+100330,Housing draws record interest,News,Morgan Patel,2026-06-16 12:30:00,search,755,true
+100331,Restaurants sets new agenda,Culture,Riley Brooks,2026-06-17 13:37:00,social,624,false
+100332,Theatre faces fresh scrutiny,Business,Taylor Morgan,2026-06-18 14:44:00,newsletter,1592,true
+100333,Elections finds a wider audience,Sports,Casey Reed,2026-06-19 15:51:00,search,1670,false
+100334,Restaurants draws record interest,Media,Jordan Quinn,2026-06-20 16:58:00,social,2038,true
+100335,Schools sparks local debate,Entertainment,Sam Rivera,2026-06-21 17:05:00,newsletter,1372,true
+100336,Startups sets new agenda,News,Avery Stone,2026-06-22 06:12:00,search,2211,false
+100337,Restaurants sparks local debate,Culture,Jamie Lee,2026-06-23 07:19:00,social,1075,false
+100338,Restaurants finds a wider audience,Business,Morgan Patel,2026-06-24 08:26:00,newsletter,573,true
+100339,Restaurants signals cautious optimism,Sports,Riley Brooks,2026-06-25 09:33:00,search,653,false
+100340,Theatre signals cautious optimism,Media,Taylor Morgan,2026-06-26 10:40:00,social,882,true
+100341,Streaming signals cautious optimism,Entertainment,Casey Reed,2026-06-27 11:47:00,newsletter,616,false
+100342,Football draws record interest,News,Jordan Quinn,2026-06-28 12:54:00,search,805,false
+100343,Schools faces fresh scrutiny,Culture,Sam Rivera,2026-06-29 13:01:00,social,770,false
+100344,Housing sparks local debate,Business,Avery Stone,2026-06-30 14:08:00,newsletter,1372,true
+100345,Restaurants sparks local debate,Sports,Jamie Lee,2026-07-01 15:15:00,search,1046,true
+100346,Housing draws record interest,Media,Morgan Patel,2026-07-02 16:22:00,social,1040,true
+100347,Streaming signals cautious optimism,Entertainment,Riley Brooks,2026-07-03 17:29:00,newsletter,2210,false
+100348,Startups faces fresh scrutiny,News,Taylor Morgan,2026-07-04 06:36:00,search,1857,false
+100349,Theatre sets new agenda,Culture,Casey Reed,2026-07-05 07:43:00,social,2063,false
+100350,Restaurants signals cautious optimism,Business,Jordan Quinn,2026-07-06 08:50:00,newsletter,2096,true
+100351,Theatre sparks local debate,Sports,Sam Rivera,2026-07-07 09:57:00,search,685,false
+100352,Schools draws record interest,Media,Avery Stone,2026-07-08 10:04:00,social,1776,true
+100353,Football sets new agenda,Entertainment,Jamie Lee,2026-07-09 11:11:00,newsletter,2142,false
+100354,Football faces fresh scrutiny,News,Morgan Patel,2026-07-10 12:18:00,search,572,false
+100355,Football sets new agenda,Culture,Riley Brooks,2026-07-11 13:25:00,social,1668,true
+100356,Restaurants sets new agenda,Business,Taylor Morgan,2026-07-12 14:32:00,newsletter,1349,true
+100357,Transport sparks local debate,Sports,Casey Reed,2026-07-13 15:39:00,search,1860,false
+100358,Streaming signals cautious optimism,Media,Jordan Quinn,2026-07-14 16:46:00,social,1274,true
+100359,Streaming finds a wider audience,Entertainment,Sam Rivera,2026-07-15 17:53:00,newsletter,1555,false
+100360,Startups sparks local debate,News,Avery Stone,2026-06-01 06:00:00,search,614,true
+100361,Restaurants faces fresh scrutiny,Culture,Jamie Lee,2026-06-02 07:07:00,social,2271,false
+100362,Elections signals cautious optimism,Business,Morgan Patel,2026-06-03 08:14:00,newsletter,1110,true
+100363,Restaurants sets new agenda,Sports,Riley Brooks,2026-06-04 09:21:00,search,502,false
+100364,Transport draws record interest,Media,Taylor Morgan,2026-06-05 10:28:00,social,1830,true
+100365,Restaurants finds a wider audience,Entertainment,Casey Reed,2026-06-06 11:35:00,newsletter,2397,true
+100366,Housing signals cautious optimism,News,Jordan Quinn,2026-06-07 12:42:00,search,2132,false
+100367,Streaming finds a wider audience,Culture,Sam Rivera,2026-06-08 13:49:00,social,532,false
+100368,Football sparks local debate,Business,Avery Stone,2026-06-09 14:56:00,newsletter,1512,true
+100369,Startups sets new agenda,Sports,Jamie Lee,2026-06-10 15:03:00,search,821,false
+100370,Restaurants sparks local debate,Media,Morgan Patel,2026-06-11 16:10:00,social,1750,true
+100371,Startups faces fresh scrutiny,Entertainment,Riley Brooks,2026-06-12 17:17:00,newsletter,1412,false
+100372,Markets sparks local debate,News,Taylor Morgan,2026-06-13 06:24:00,search,1132,false
+100373,Markets signals cautious optimism,Culture,Casey Reed,2026-06-14 07:31:00,social,664,false
+100374,Football sets new agenda,Business,Jordan Quinn,2026-06-15 08:38:00,newsletter,1293,true
+100375,Startups sets new agenda,Sports,Sam Rivera,2026-06-16 09:45:00,search,1806,true
+100376,Elections finds a wider audience,Media,Avery Stone,2026-06-17 10:52:00,social,525,true
+100377,Startups faces fresh scrutiny,Entertainment,Jamie Lee,2026-06-18 11:59:00,newsletter,1094,false
+100378,Streaming sets new agenda,News,Morgan Patel,2026-06-19 12:06:00,search,687,false
+100379,Elections finds a wider audience,Culture,Riley Brooks,2026-06-20 13:13:00,social,2139,false
+100380,Housing signals cautious optimism,Business,Taylor Morgan,2026-06-21 14:20:00,newsletter,2230,true
+100381,Schools sparks local debate,Sports,Casey Reed,2026-06-22 15:27:00,search,1296,false
+100382,Housing draws record interest,Media,Jordan Quinn,2026-06-23 16:34:00,social,1511,true
+100383,Markets finds a wider audience,Entertainment,Sam Rivera,2026-06-24 17:41:00,newsletter,1999,false
+100384,Startups signals cautious optimism,News,Avery Stone,2026-06-25 06:48:00,search,1355,false
+100385,Housing draws record interest,Culture,Jamie Lee,2026-06-26 07:55:00,social,996,true
+100386,Schools draws record interest,Business,Morgan Patel,2026-06-27 08:02:00,newsletter,2349,true
+100387,Streaming sparks local debate,Sports,Riley Brooks,2026-06-28 09:09:00,search,2253,false
+100388,Startups faces fresh scrutiny,Media,Taylor Morgan,2026-06-29 10:16:00,social,509,true
+100389,Restaurants draws record interest,Entertainment,Casey Reed,2026-06-30 11:23:00,newsletter,1903,false
+100390,Football sets new agenda,News,Jordan Quinn,2026-07-01 12:30:00,search,1578,true
+100391,Housing finds a wider audience,Culture,Sam Rivera,2026-07-02 13:37:00,social,1285,false
+100392,Transport draws record interest,Business,Avery Stone,2026-07-03 14:44:00,newsletter,2173,true
+100393,Transport sparks local debate,Sports,Jamie Lee,2026-07-04 15:51:00,search,2389,false
+100394,Transport signals cautious optimism,Media,Morgan Patel,2026-07-05 16:58:00,social,2154,true
+100395,Football sparks local debate,Entertainment,Riley Brooks,2026-07-06 17:05:00,newsletter,2360,true
+100396,Streaming finds a wider audience,News,Taylor Morgan,2026-07-07 06:12:00,search,1894,false
+100397,Streaming sparks local debate,Culture,Casey Reed,2026-07-08 07:19:00,social,2159,false
+100398,Startups sparks local debate,Business,Jordan Quinn,2026-07-09 08:26:00,newsletter,949,true
+100399,Startups finds a wider audience,Sports,Sam Rivera,2026-07-10 09:33:00,search,746,false
+100400,Elections draws record interest,Media,Avery Stone,2026-07-11 10:40:00,social,2337,true
+100401,Restaurants finds a wider audience,Entertainment,Jamie Lee,2026-07-12 11:47:00,newsletter,1978,false
+100402,Football faces fresh scrutiny,News,Morgan Patel,2026-07-13 12:54:00,search,1015,false
+100403,Elections sets new agenda,Culture,Riley Brooks,2026-07-14 13:01:00,social,2363,false
+100404,Schools sets new agenda,Business,Taylor Morgan,2026-07-15 14:08:00,newsletter,2130,true
+100405,Housing sets new agenda,Sports,Casey Reed,2026-06-01 15:15:00,search,1936,true
+100406,Streaming finds a wider audience,Media,Jordan Quinn,2026-06-02 16:22:00,social,1637,true
+100407,Startups draws record interest,Entertainment,Sam Rivera,2026-06-03 17:29:00,newsletter,1364,false
+100408,Schools sparks local debate,News,Avery Stone,2026-06-04 06:36:00,search,1156,false
+100409,Markets finds a wider audience,Culture,Jamie Lee,2026-06-05 07:43:00,social,2012,false
+100410,Schools sparks local debate,Business,Morgan Patel,2026-06-06 08:50:00,newsletter,1382,true
+100411,Markets draws record interest,Sports,Riley Brooks,2026-06-07 09:57:00,search,1878,false
+100412,Theatre finds a wider audience,Media,Taylor Morgan,2026-06-08 10:04:00,social,1234,true
+100413,Theatre sparks local debate,Entertainment,Casey Reed,2026-06-09 11:11:00,newsletter,539,false
+100414,Markets signals cautious optimism,News,Jordan Quinn,2026-06-10 12:18:00,search,1418,false
+100415,Elections sparks local debate,Culture,Sam Rivera,2026-06-11 13:25:00,social,1809,true
+100416,Football sparks local debate,Business,Avery Stone,2026-06-12 14:32:00,newsletter,525,true
+100417,Football finds a wider audience,Sports,Jamie Lee,2026-06-13 15:39:00,search,1658,false
+100418,Markets faces fresh scrutiny,Media,Morgan Patel,2026-06-14 16:46:00,social,2240,true
+100419,Startups faces fresh scrutiny,Entertainment,Riley Brooks,2026-06-15 17:53:00,newsletter,1527,false
+100420,Startups faces fresh scrutiny,News,Taylor Morgan,2026-06-16 06:00:00,search,1929,true
+100421,Football sparks local debate,Culture,Casey Reed,2026-06-17 07:07:00,social,2233,false
+100422,Football faces fresh scrutiny,Business,Jordan Quinn,2026-06-18 08:14:00,newsletter,1411,true
+100423,Streaming sets new agenda,Sports,Sam Rivera,2026-06-19 09:21:00,search,1726,false
+100424,Elections signals cautious optimism,Media,Avery Stone,2026-06-20 10:28:00,social,614,true
+100425,Markets signals cautious optimism,Entertainment,Jamie Lee,2026-06-21 11:35:00,newsletter,2209,true
+100426,Schools sparks local debate,News,Morgan Patel,2026-06-22 12:42:00,search,1098,false
+100427,Startups finds a wider audience,Culture,Riley Brooks,2026-06-23 13:49:00,social,523,false
+100428,Restaurants faces fresh scrutiny,Business,Taylor Morgan,2026-06-24 14:56:00,newsletter,930,true
+100429,Streaming draws record interest,Sports,Casey Reed,2026-06-25 15:03:00,search,1979,false
+100430,Transport sparks local debate,Media,Jordan Quinn,2026-06-26 16:10:00,social,651,true
+100431,Transport sparks local debate,Entertainment,Sam Rivera,2026-06-27 17:17:00,newsletter,790,false
+100432,Streaming faces fresh scrutiny,News,Avery Stone,2026-06-28 06:24:00,search,544,false
+100433,Markets faces fresh scrutiny,Culture,Jamie Lee,2026-06-29 07:31:00,social,1050,false
+100434,Markets sets new agenda,Business,Morgan Patel,2026-06-30 08:38:00,newsletter,1332,true
+100435,Football draws record interest,Sports,Riley Brooks,2026-07-01 09:45:00,search,1537,true
+100436,Elections finds a wider audience,Media,Taylor Morgan,2026-07-02 10:52:00,social,1846,true
+100437,Football draws record interest,Entertainment,Casey Reed,2026-07-03 11:59:00,newsletter,808,false
+100438,Transport finds a wider audience,News,Jordan Quinn,2026-07-04 12:06:00,search,2233,false
+100439,Elections finds a wider audience,Culture,Sam Rivera,2026-07-05 13:13:00,social,1849,false
+100440,Theatre sparks local debate,Business,Avery Stone,2026-07-06 14:20:00,newsletter,2319,true
+100441,Restaurants draws record interest,Sports,Jamie Lee,2026-07-07 15:27:00,search,925,false
+100442,Startups signals cautious optimism,Media,Morgan Patel,2026-07-08 16:34:00,social,970,true
+100443,Startups sets new agenda,Entertainment,Riley Brooks,2026-07-09 17:41:00,newsletter,1815,false
+100444,Housing sparks local debate,News,Taylor Morgan,2026-07-10 06:48:00,search,2295,false
+100445,Streaming signals cautious optimism,Culture,Casey Reed,2026-07-11 07:55:00,social,1569,true
+100446,Football faces fresh scrutiny,Business,Jordan Quinn,2026-07-12 08:02:00,newsletter,1354,true
+100447,Markets finds a wider audience,Sports,Sam Rivera,2026-07-13 09:09:00,search,1062,false
+100448,Elections signals cautious optimism,Media,Avery Stone,2026-07-14 10:16:00,social,962,true
+100449,Startups sets new agenda,Entertainment,Jamie Lee,2026-07-15 11:23:00,newsletter,857,false
+100450,Elections sparks local debate,News,Morgan Patel,2026-06-01 12:30:00,search,668,true
+100451,Theatre sparks local debate,Culture,Riley Brooks,2026-06-02 13:37:00,social,1621,false
+100452,Markets finds a wider audience,Business,Taylor Morgan,2026-06-03 14:44:00,newsletter,1055,true
+100453,Streaming faces fresh scrutiny,Sports,Casey Reed,2026-06-04 15:51:00,search,2149,false
+100454,Elections sets new agenda,Media,Jordan Quinn,2026-06-05 16:58:00,social,466,true
+100455,Restaurants signals cautious optimism,Entertainment,Sam Rivera,2026-06-06 17:05:00,newsletter,2043,true
+100456,Housing finds a wider audience,News,Avery Stone,2026-06-07 06:12:00,search,1976,false
+100457,Startups sets new agenda,Culture,Jamie Lee,2026-06-08 07:19:00,social,2038,false
+100458,Theatre finds a wider audience,Business,Morgan Patel,2026-06-09 08:26:00,newsletter,2092,true
+100459,Markets draws record interest,Sports,Riley Brooks,2026-06-10 09:33:00,search,1753,false
+100460,Theatre finds a wider audience,Media,Taylor Morgan,2026-06-11 10:40:00,social,963,true
+100461,Football signals cautious optimism,Entertainment,Casey Reed,2026-06-12 11:47:00,newsletter,648,false
+100462,Housing sets new agenda,News,Jordan Quinn,2026-06-13 12:54:00,search,2065,false
+100463,Startups faces fresh scrutiny,Culture,Sam Rivera,2026-06-14 13:01:00,social,1636,false
+100464,Markets signals cautious optimism,Business,Avery Stone,2026-06-15 14:08:00,newsletter,719,true
+100465,Transport sets new agenda,Sports,Jamie Lee,2026-06-16 15:15:00,search,1119,true
+100466,Elections draws record interest,Media,Morgan Patel,2026-06-17 16:22:00,social,861,true
+100467,Football finds a wider audience,Entertainment,Riley Brooks,2026-06-18 17:29:00,newsletter,2244,false
+100468,Markets finds a wider audience,News,Taylor Morgan,2026-06-19 06:36:00,search,1477,false
+100469,Streaming draws record interest,Culture,Casey Reed,2026-06-20 07:43:00,social,976,false
+100470,Startups sets new agenda,Business,Jordan Quinn,2026-06-21 08:50:00,newsletter,1978,true
+100471,Markets faces fresh scrutiny,Sports,Sam Rivera,2026-06-22 09:57:00,search,1409,false
+100472,Transport draws record interest,Media,Avery Stone,2026-06-23 10:04:00,social,1994,true
+100473,Theatre signals cautious optimism,Entertainment,Jamie Lee,2026-06-24 11:11:00,newsletter,1933,false
+100474,Elections finds a wider audience,News,Morgan Patel,2026-06-25 12:18:00,search,1199,false
+100475,Transport sparks local debate,Culture,Riley Brooks,2026-06-26 13:25:00,social,478,true
+100476,Streaming finds a wider audience,Business,Taylor Morgan,2026-06-27 14:32:00,newsletter,703,true
+100477,Startups sets new agenda,Sports,Casey Reed,2026-06-28 15:39:00,search,1827,false
+100478,Streaming finds a wider audience,Media,Jordan Quinn,2026-06-29 16:46:00,social,1230,true
+100479,Markets faces fresh scrutiny,Entertainment,Sam Rivera,2026-06-30 17:53:00,newsletter,1832,false
+100480,Theatre sparks local debate,News,Avery Stone,2026-07-01 06:00:00,search,501,true
+100481,Restaurants finds a wider audience,Culture,Jamie Lee,2026-07-02 07:07:00,social,1121,false
+100482,Restaurants draws record interest,Business,Morgan Patel,2026-07-03 08:14:00,newsletter,1776,true
+100483,Transport signals cautious optimism,Sports,Riley Brooks,2026-07-04 09:21:00,search,2137,false
+100484,Startups signals cautious optimism,Media,Taylor Morgan,2026-07-05 10:28:00,social,1068,true
+100485,Elections faces fresh scrutiny,Entertainment,Casey Reed,2026-07-06 11:35:00,newsletter,736,true
+100486,Housing faces fresh scrutiny,News,Jordan Quinn,2026-07-07 12:42:00,search,1073,false
+100487,Startups faces fresh scrutiny,Culture,Sam Rivera,2026-07-08 13:49:00,social,649,false
+100488,Theatre finds a wider audience,Business,Avery Stone,2026-07-09 14:56:00,newsletter,727,true
+100489,Elections sparks local debate,Sports,Jamie Lee,2026-07-10 15:03:00,search,1209,false
+100490,Schools sparks local debate,Media,Morgan Patel,2026-07-11 16:10:00,social,1652,true
+100491,Football sparks local debate,Entertainment,Riley Brooks,2026-07-12 17:17:00,newsletter,1791,false
+100492,Transport sparks local debate,News,Taylor Morgan,2026-07-13 06:24:00,search,1710,false
+100493,Elections sets new agenda,Culture,Casey Reed,2026-07-14 07:31:00,social,517,false
+100494,Markets draws record interest,Business,Jordan Quinn,2026-07-15 08:38:00,newsletter,1358,true
+100495,Startups draws record interest,Sports,Sam Rivera,2026-06-01 09:45:00,search,2201,true
+100496,Markets faces fresh scrutiny,Media,Avery Stone,2026-06-02 10:52:00,social,1854,true
+100497,Markets finds a wider audience,Entertainment,Jamie Lee,2026-06-03 11:59:00,newsletter,2296,false
+100498,Markets faces fresh scrutiny,News,Morgan Patel,2026-06-04 12:06:00,search,1265,false
+100499,Streaming draws record interest,Culture,Riley Brooks,2026-06-05 13:13:00,social,700,false
+100500,Startups faces fresh scrutiny,Business,Taylor Morgan,2026-06-06 14:20:00,newsletter,1807,true
+100501,Theatre signals cautious optimism,Sports,Casey Reed,2026-06-07 15:27:00,search,1759,false
+100502,Restaurants faces fresh scrutiny,Media,Jordan Quinn,2026-06-08 16:34:00,social,553,true
+100503,Markets draws record interest,Entertainment,Sam Rivera,2026-06-09 17:41:00,newsletter,707,false
+100504,Restaurants draws record interest,News,Avery Stone,2026-06-10 06:48:00,search,590,false
+100505,Schools draws record interest,Culture,Jamie Lee,2026-06-11 07:55:00,social,1650,true
+100506,Theatre draws record interest,Business,Morgan Patel,2026-06-12 08:02:00,newsletter,1122,true
+100507,Football finds a wider audience,Sports,Riley Brooks,2026-06-13 09:09:00,search,455,false
+100508,Streaming draws record interest,Media,Taylor Morgan,2026-06-14 10:16:00,social,716,true
+100509,Schools sets new agenda,Entertainment,Casey Reed,2026-06-15 11:23:00,newsletter,2085,false
+100510,Football faces fresh scrutiny,News,Jordan Quinn,2026-06-16 12:30:00,search,1803,true
+100511,Housing draws record interest,Culture,Sam Rivera,2026-06-17 13:37:00,social,480,false
+100512,Markets draws record interest,Business,Avery Stone,2026-06-18 14:44:00,newsletter,1655,true
+100513,Markets faces fresh scrutiny,Sports,Jamie Lee,2026-06-19 15:51:00,search,806,false
+100514,Streaming faces fresh scrutiny,Media,Morgan Patel,2026-06-20 16:58:00,social,709,true
+100515,Elections finds a wider audience,Entertainment,Riley Brooks,2026-06-21 17:05:00,newsletter,682,true
+100516,Transport sparks local debate,News,Taylor Morgan,2026-06-22 06:12:00,search,1368,false
+100517,Markets finds a wider audience,Culture,Casey Reed,2026-06-23 07:19:00,social,1665,false
+100518,Transport sparks local debate,Business,Jordan Quinn,2026-06-24 08:26:00,newsletter,1481,true
+100519,Theatre finds a wider audience,Sports,Sam Rivera,2026-06-25 09:33:00,search,538,false
+100520,Schools sets new agenda,Media,Avery Stone,2026-06-26 10:40:00,social,1388,true
+100521,Housing faces fresh scrutiny,Entertainment,Jamie Lee,2026-06-27 11:47:00,newsletter,1430,false
+100522,Elections sparks local debate,News,Morgan Patel,2026-06-28 12:54:00,search,1855,false
+100523,Transport sparks local debate,Culture,Riley Brooks,2026-06-29 13:01:00,social,1908,false
+100524,Startups faces fresh scrutiny,Business,Taylor Morgan,2026-06-30 14:08:00,newsletter,2291,true
+100525,Transport sets new agenda,Sports,Casey Reed,2026-07-01 15:15:00,search,1695,true
+100526,Football faces fresh scrutiny,Media,Jordan Quinn,2026-07-02 16:22:00,social,708,true
+100527,Streaming finds a wider audience,Entertainment,Sam Rivera,2026-07-03 17:29:00,newsletter,1746,false
+100528,Restaurants finds a wider audience,News,Avery Stone,2026-07-04 06:36:00,search,1908,false
+100529,Markets sparks local debate,Culture,Jamie Lee,2026-07-05 07:43:00,social,1673,false
+100530,Schools sets new agenda,Business,Morgan Patel,2026-07-06 08:50:00,newsletter,1379,true
+100531,Schools finds a wider audience,Sports,Riley Brooks,2026-07-07 09:57:00,search,1331,false
+100532,Transport signals cautious optimism,Media,Taylor Morgan,2026-07-08 10:04:00,social,684,true
+100533,Schools signals cautious optimism,Entertainment,Casey Reed,2026-07-09 11:11:00,newsletter,2222,false
+100534,Theatre sparks local debate,News,Jordan Quinn,2026-07-10 12:18:00,search,1374,false
+100535,Theatre sparks local debate,Culture,Sam Rivera,2026-07-11 13:25:00,social,1144,true
+100536,Startups sparks local debate,Business,Avery Stone,2026-07-12 14:32:00,newsletter,1301,true
+100537,Transport sets new agenda,Sports,Jamie Lee,2026-07-13 15:39:00,search,1324,false
+100538,Markets signals cautious optimism,Media,Morgan Patel,2026-07-14 16:46:00,social,972,true
+100539,Markets draws record interest,Entertainment,Riley Brooks,2026-07-15 17:53:00,newsletter,1856,false
+100540,Startups faces fresh scrutiny,News,Taylor Morgan,2026-06-01 06:00:00,search,636,true
+100541,Transport faces fresh scrutiny,Culture,Casey Reed,2026-06-02 07:07:00,social,1334,false
+100542,Transport signals cautious optimism,Business,Jordan Quinn,2026-06-03 08:14:00,newsletter,1963,true
+100543,Markets draws record interest,Sports,Sam Rivera,2026-06-04 09:21:00,search,1589,false
+100544,Housing finds a wider audience,Media,Avery Stone,2026-06-05 10:28:00,social,1600,true
+100545,Schools sets new agenda,Entertainment,Jamie Lee,2026-06-06 11:35:00,newsletter,1822,true
+100546,Transport sparks local debate,News,Morgan Patel,2026-06-07 12:42:00,search,1174,false
+100547,Elections signals cautious optimism,Culture,Riley Brooks,2026-06-08 13:49:00,social,555,false
+100548,Streaming finds a wider audience,Business,Taylor Morgan,2026-06-09 14:56:00,newsletter,1089,true
+100549,Markets faces fresh scrutiny,Sports,Casey Reed,2026-06-10 15:03:00,search,1633,false
+100550,Schools draws record interest,Media,Jordan Quinn,2026-06-11 16:10:00,social,766,true
+100551,Startups draws record interest,Entertainment,Sam Rivera,2026-06-12 17:17:00,newsletter,2185,false
+100552,Transport sets new agenda,News,Avery Stone,2026-06-13 06:24:00,search,2181,false
+100553,Schools sets new agenda,Culture,Jamie Lee,2026-06-14 07:31:00,social,685,false
+100554,Streaming finds a wider audience,Business,Morgan Patel,2026-06-15 08:38:00,newsletter,913,true
+100555,Elections finds a wider audience,Sports,Riley Brooks,2026-06-16 09:45:00,search,2021,true
+100556,Restaurants finds a wider audience,Media,Taylor Morgan,2026-06-17 10:52:00,social,1832,true
+100557,Schools faces fresh scrutiny,Entertainment,Casey Reed,2026-06-18 11:59:00,newsletter,1697,false
+100558,Streaming faces fresh scrutiny,News,Jordan Quinn,2026-06-19 12:06:00,search,819,false
+100559,Streaming signals cautious optimism,Culture,Sam Rivera,2026-06-20 13:13:00,social,2011,false
+100560,Streaming sets new agenda,Business,Avery Stone,2026-06-21 14:20:00,newsletter,1168,true
+100561,Housing draws record interest,Sports,Jamie Lee,2026-06-22 15:27:00,search,2231,false
+100562,Football finds a wider audience,Media,Morgan Patel,2026-06-23 16:34:00,social,1796,true
+100563,Elections faces fresh scrutiny,Entertainment,Riley Brooks,2026-06-24 17:41:00,newsletter,740,false
+100564,Housing faces fresh scrutiny,News,Taylor Morgan,2026-06-25 06:48:00,search,1978,false
+100565,Schools draws record interest,Culture,Casey Reed,2026-06-26 07:55:00,social,1220,true
+100566,Elections sparks local debate,Business,Jordan Quinn,2026-06-27 08:02:00,newsletter,1148,true
+100567,Football sets new agenda,Sports,Sam Rivera,2026-06-28 09:09:00,search,1088,false
+100568,Markets finds a wider audience,Media,Avery Stone,2026-06-29 10:16:00,social,1671,true
+100569,Transport faces fresh scrutiny,Entertainment,Jamie Lee,2026-06-30 11:23:00,newsletter,768,false
+100570,Football finds a wider audience,News,Morgan Patel,2026-07-01 12:30:00,search,551,true
+100571,Transport sets new agenda,Culture,Riley Brooks,2026-07-02 13:37:00,social,1357,false
+100572,Elections sparks local debate,Business,Taylor Morgan,2026-07-03 14:44:00,newsletter,1693,true
+100573,Startups sparks local debate,Sports,Casey Reed,2026-07-04 15:51:00,search,1009,false
+100574,Theatre finds a wider audience,Media,Jordan Quinn,2026-07-05 16:58:00,social,683,true
+100575,Markets sparks local debate,Entertainment,Sam Rivera,2026-07-06 17:05:00,newsletter,677,true
+100576,Streaming signals cautious optimism,News,Avery Stone,2026-07-07 06:12:00,search,1839,false
+100577,Restaurants sparks local debate,Culture,Jamie Lee,2026-07-08 07:19:00,social,1529,false
+100578,Streaming faces fresh scrutiny,Business,Morgan Patel,2026-07-09 08:26:00,newsletter,901,true
+100579,Elections finds a wider audience,Sports,Riley Brooks,2026-07-10 09:33:00,search,562,false
+100580,Housing draws record interest,Media,Taylor Morgan,2026-07-11 10:40:00,social,1067,true
+100581,Theatre draws record interest,Entertainment,Casey Reed,2026-07-12 11:47:00,newsletter,2015,false
+100582,Streaming sets new agenda,News,Jordan Quinn,2026-07-13 12:54:00,search,1121,false
+100583,Transport faces fresh scrutiny,Culture,Sam Rivera,2026-07-14 13:01:00,social,1468,false
+100584,Elections draws record interest,Business,Avery Stone,2026-07-15 14:08:00,newsletter,714,true
+100585,Elections finds a wider audience,Sports,Jamie Lee,2026-06-01 15:15:00,search,1891,true
+100586,Theatre finds a wider audience,Media,Morgan Patel,2026-06-02 16:22:00,social,1594,true
+100587,Markets faces fresh scrutiny,Entertainment,Riley Brooks,2026-06-03 17:29:00,newsletter,1263,false
+100588,Housing sparks local debate,News,Taylor Morgan,2026-06-04 06:36:00,search,488,false
+100589,Startups faces fresh scrutiny,Culture,Casey Reed,2026-06-05 07:43:00,social,2215,false
+100590,Markets finds a wider audience,Business,Jordan Quinn,2026-06-06 08:50:00,newsletter,1329,true
+100591,Restaurants sparks local debate,Sports,Sam Rivera,2026-06-07 09:57:00,search,1903,false
+100592,Elections sets new agenda,Media,Avery Stone,2026-06-08 10:04:00,social,685,true
+100593,Elections faces fresh scrutiny,Entertainment,Jamie Lee,2026-06-09 11:11:00,newsletter,1115,false
+100594,Football finds a wider audience,News,Morgan Patel,2026-06-10 12:18:00,search,1392,false
+100595,Markets faces fresh scrutiny,Culture,Riley Brooks,2026-06-11 13:25:00,social,1344,true
+100596,Transport draws record interest,Business,Taylor Morgan,2026-06-12 14:32:00,newsletter,1342,true
+100597,Restaurants sparks local debate,Sports,Casey Reed,2026-06-13 15:39:00,search,1523,false
+100598,Transport sparks local debate,Media,Jordan Quinn,2026-06-14 16:46:00,social,2232,true
+100599,Streaming signals cautious optimism,Entertainment,Sam Rivera,2026-06-15 17:53:00,newsletter,1145,false
+100600,Theatre sets new agenda,News,Avery Stone,2026-06-16 06:00:00,search,2045,true
+100601,Football faces fresh scrutiny,Culture,Jamie Lee,2026-06-17 07:07:00,social,1495,false
+100602,Transport finds a wider audience,Business,Morgan Patel,2026-06-18 08:14:00,newsletter,1494,true
+100603,Theatre sets new agenda,Sports,Riley Brooks,2026-06-19 09:21:00,search,1169,false
+100604,Football draws record interest,Media,Taylor Morgan,2026-06-20 10:28:00,social,660,true
+100605,Football sets new agenda,Entertainment,Casey Reed,2026-06-21 11:35:00,newsletter,854,true
+100606,Football finds a wider audience,News,Jordan Quinn,2026-06-22 12:42:00,search,763,false
+100607,Transport draws record interest,Culture,Sam Rivera,2026-06-23 13:49:00,social,2398,false
+100608,Startups sparks local debate,Business,Avery Stone,2026-06-24 14:56:00,newsletter,1995,true
+100609,Restaurants finds a wider audience,Sports,Jamie Lee,2026-06-25 15:03:00,search,1369,false
+100610,Restaurants signals cautious optimism,Media,Morgan Patel,2026-06-26 16:10:00,social,1751,true
+100611,Restaurants sets new agenda,Entertainment,Riley Brooks,2026-06-27 17:17:00,newsletter,2219,false
+100612,Markets draws record interest,News,Taylor Morgan,2026-06-28 06:24:00,search,1350,false
+100613,Transport sparks local debate,Culture,Casey Reed,2026-06-29 07:31:00,social,1355,false
+100614,Streaming sets new agenda,Business,Jordan Quinn,2026-06-30 08:38:00,newsletter,1661,true
+100615,Housing sets new agenda,Sports,Sam Rivera,2026-07-01 09:45:00,search,1489,true
+100616,Transport sets new agenda,Media,Avery Stone,2026-07-02 10:52:00,social,1395,true
+100617,Startups faces fresh scrutiny,Entertainment,Jamie Lee,2026-07-03 11:59:00,newsletter,566,false
+100618,Markets sets new agenda,News,Morgan Patel,2026-07-04 12:06:00,search,607,false
+100619,Transport finds a wider audience,Culture,Riley Brooks,2026-07-05 13:13:00,social,1666,false
+100620,Schools sparks local debate,Business,Taylor Morgan,2026-07-06 14:20:00,newsletter,1397,true
+100621,Restaurants finds a wider audience,Sports,Casey Reed,2026-07-07 15:27:00,search,2071,false
+100622,Housing sparks local debate,Media,Jordan Quinn,2026-07-08 16:34:00,social,2311,true
+100623,Restaurants signals cautious optimism,Entertainment,Sam Rivera,2026-07-09 17:41:00,newsletter,835,false
+100624,Markets finds a wider audience,News,Avery Stone,2026-07-10 06:48:00,search,1424,false
+100625,Schools draws record interest,Culture,Jamie Lee,2026-07-11 07:55:00,social,576,true
+100626,Startups faces fresh scrutiny,Business,Morgan Patel,2026-07-12 08:02:00,newsletter,2110,true
+100627,Markets signals cautious optimism,Sports,Riley Brooks,2026-07-13 09:09:00,search,622,false
+100628,Schools signals cautious optimism,Media,Taylor Morgan,2026-07-14 10:16:00,social,803,true
+100629,Housing draws record interest,Entertainment,Casey Reed,2026-07-15 11:23:00,newsletter,1899,false
+100630,Startups sparks local debate,News,Jordan Quinn,2026-06-01 12:30:00,search,1523,true
+100631,Schools finds a wider audience,Culture,Sam Rivera,2026-06-02 13:37:00,social,775,false
+100632,Markets sets new agenda,Business,Avery Stone,2026-06-03 14:44:00,newsletter,2329,true
+100633,Streaming sparks local debate,Sports,Jamie Lee,2026-06-04 15:51:00,search,1287,false
+100634,Markets signals cautious optimism,Media,Morgan Patel,2026-06-05 16:58:00,social,1674,true
+100635,Housing signals cautious optimism,Entertainment,Riley Brooks,2026-06-06 17:05:00,newsletter,1775,true
+100636,Markets faces fresh scrutiny,News,Taylor Morgan,2026-06-07 06:12:00,search,1125,false
+100637,Transport finds a wider audience,Culture,Casey Reed,2026-06-08 07:19:00,social,1839,false
+100638,Elections sets new agenda,Business,Jordan Quinn,2026-06-09 08:26:00,newsletter,966,true
+100639,Restaurants draws record interest,Sports,Sam Rivera,2026-06-10 09:33:00,search,1132,false
+100640,Transport finds a wider audience,Media,Avery Stone,2026-06-11 10:40:00,social,1809,true
+100641,Football sets new agenda,Entertainment,Jamie Lee,2026-06-12 11:47:00,newsletter,1085,false
+100642,Elections draws record interest,News,Morgan Patel,2026-06-13 12:54:00,search,1668,false
+100643,Transport sets new agenda,Culture,Riley Brooks,2026-06-14 13:01:00,social,1594,false
+100644,Elections signals cautious optimism,Business,Taylor Morgan,2026-06-15 14:08:00,newsletter,2071,true
+100645,Markets draws record interest,Sports,Casey Reed,2026-06-16 15:15:00,search,1822,true
+100646,Schools faces fresh scrutiny,Media,Jordan Quinn,2026-06-17 16:22:00,social,1773,true
+100647,Elections finds a wider audience,Entertainment,Sam Rivera,2026-06-18 17:29:00,newsletter,1191,false
+100648,Housing sets new agenda,News,Avery Stone,2026-06-19 06:36:00,search,1082,false
+100649,Football draws record interest,Culture,Jamie Lee,2026-06-20 07:43:00,social,1149,false
+100650,Startups draws record interest,Business,Morgan Patel,2026-06-21 08:50:00,newsletter,913,true
+100651,Football draws record interest,Sports,Riley Brooks,2026-06-22 09:57:00,search,608,false
+100652,Streaming faces fresh scrutiny,Media,Taylor Morgan,2026-06-23 10:04:00,social,1489,true
+100653,Schools signals cautious optimism,Entertainment,Casey Reed,2026-06-24 11:11:00,newsletter,2259,false
+100654,Schools faces fresh scrutiny,News,Jordan Quinn,2026-06-25 12:18:00,search,1805,false
+100655,Markets finds a wider audience,Culture,Sam Rivera,2026-06-26 13:25:00,social,718,true
+100656,Restaurants sparks local debate,Business,Avery Stone,2026-06-27 14:32:00,newsletter,765,true
+100657,Football draws record interest,Sports,Jamie Lee,2026-06-28 15:39:00,search,2152,false
+100658,Restaurants draws record interest,Media,Morgan Patel,2026-06-29 16:46:00,social,1926,true
+100659,Startups faces fresh scrutiny,Entertainment,Riley Brooks,2026-06-30 17:53:00,newsletter,1291,false
+100660,Markets signals cautious optimism,News,Taylor Morgan,2026-07-01 06:00:00,search,1923,true
+100661,Theatre sparks local debate,Culture,Casey Reed,2026-07-02 07:07:00,social,1700,false
+100662,Streaming signals cautious optimism,Business,Jordan Quinn,2026-07-03 08:14:00,newsletter,2055,true
+100663,Startups draws record interest,Sports,Sam Rivera,2026-07-04 09:21:00,search,1543,false
+100664,Theatre sets new agenda,Media,Avery Stone,2026-07-05 10:28:00,social,2106,true
+100665,Startups draws record interest,Entertainment,Jamie Lee,2026-07-06 11:35:00,newsletter,1203,true
+100666,Restaurants sparks local debate,News,Morgan Patel,2026-07-07 12:42:00,search,1395,false
+100667,Streaming sparks local debate,Culture,Riley Brooks,2026-07-08 13:49:00,social,1479,false
+100668,Schools sparks local debate,Business,Taylor Morgan,2026-07-09 14:56:00,newsletter,781,true
+100669,Theatre finds a wider audience,Sports,Casey Reed,2026-07-10 15:03:00,search,733,false
+100670,Streaming faces fresh scrutiny,Media,Jordan Quinn,2026-07-11 16:10:00,social,1763,true
+100671,Startups sets new agenda,Entertainment,Sam Rivera,2026-07-12 17:17:00,newsletter,1585,false
+100672,Transport signals cautious optimism,News,Avery Stone,2026-07-13 06:24:00,search,2182,false
+100673,Schools faces fresh scrutiny,Culture,Jamie Lee,2026-07-14 07:31:00,social,1033,false
+100674,Transport draws record interest,Business,Morgan Patel,2026-07-15 08:38:00,newsletter,1008,true
+100675,Startups finds a wider audience,Sports,Riley Brooks,2026-06-01 09:45:00,search,751,true
+100676,Elections faces fresh scrutiny,Media,Taylor Morgan,2026-06-02 10:52:00,social,2388,true
+100677,Theatre sparks local debate,Entertainment,Casey Reed,2026-06-03 11:59:00,newsletter,2261,false
+100678,Markets faces fresh scrutiny,News,Jordan Quinn,2026-06-04 12:06:00,search,1299,false
+100679,Housing sparks local debate,Culture,Sam Rivera,2026-06-05 13:13:00,social,1478,false
+100680,Markets draws record interest,Business,Avery Stone,2026-06-06 14:20:00,newsletter,1240,true
+100681,Transport sets new agenda,Sports,Jamie Lee,2026-06-07 15:27:00,search,909,false
+100682,Housing sets new agenda,Media,Morgan Patel,2026-06-08 16:34:00,social,2356,true
+100683,Transport signals cautious optimism,Entertainment,Riley Brooks,2026-06-09 17:41:00,newsletter,1781,false
+100684,Markets draws record interest,News,Taylor Morgan,2026-06-10 06:48:00,search,731,false
+100685,Housing sets new agenda,Culture,Casey Reed,2026-06-11 07:55:00,social,2328,true
+100686,Startups signals cautious optimism,Business,Jordan Quinn,2026-06-12 08:02:00,newsletter,2152,true
+100687,Football signals cautious optimism,Sports,Sam Rivera,2026-06-13 09:09:00,search,1410,false
+100688,Startups finds a wider audience,Media,Avery Stone,2026-06-14 10:16:00,social,460,true
+100689,Transport faces fresh scrutiny,Entertainment,Jamie Lee,2026-06-15 11:23:00,newsletter,974,false
+100690,Theatre draws record interest,News,Morgan Patel,2026-06-16 12:30:00,search,1573,true
+100691,Restaurants finds a wider audience,Culture,Riley Brooks,2026-06-17 13:37:00,social,1316,false
+100692,Transport sets new agenda,Business,Taylor Morgan,2026-06-18 14:44:00,newsletter,936,true
+100693,Streaming faces fresh scrutiny,Sports,Casey Reed,2026-06-19 15:51:00,search,547,false
+100694,Theatre sparks local debate,Media,Jordan Quinn,2026-06-20 16:58:00,social,1758,true
+100695,Restaurants sparks local debate,Entertainment,Sam Rivera,2026-06-21 17:05:00,newsletter,578,true
+100696,Transport sparks local debate,News,Avery Stone,2026-06-22 06:12:00,search,1672,false
+100697,Schools faces fresh scrutiny,Culture,Jamie Lee,2026-06-23 07:19:00,social,1744,false
+100698,Schools finds a wider audience,Business,Morgan Patel,2026-06-24 08:26:00,newsletter,945,true
+100699,Football sets new agenda,Sports,Riley Brooks,2026-06-25 09:33:00,search,1329,false
+100700,Housing finds a wider audience,Media,Taylor Morgan,2026-06-26 10:40:00,social,1172,true
+100701,Theatre finds a wider audience,Entertainment,Casey Reed,2026-06-27 11:47:00,newsletter,1303,false
+100702,Football signals cautious optimism,News,Jordan Quinn,2026-06-28 12:54:00,search,1818,false
+100703,Transport finds a wider audience,Culture,Sam Rivera,2026-06-29 13:01:00,social,1188,false
+100704,Transport finds a wider audience,Business,Avery Stone,2026-06-30 14:08:00,newsletter,1564,true
+100705,Schools finds a wider audience,Sports,Jamie Lee,2026-07-01 15:15:00,search,1584,true
+100706,Housing sparks local debate,Media,Morgan Patel,2026-07-02 16:22:00,social,2238,true
+100707,Startups faces fresh scrutiny,Entertainment,Riley Brooks,2026-07-03 17:29:00,newsletter,1751,false
+100708,Elections sets new agenda,News,Taylor Morgan,2026-07-04 06:36:00,search,969,false
+100709,Housing sets new agenda,Culture,Casey Reed,2026-07-05 07:43:00,social,2064,false
+100710,Transport sets new agenda,Business,Jordan Quinn,2026-07-06 08:50:00,newsletter,943,true
+100711,Transport finds a wider audience,Sports,Sam Rivera,2026-07-07 09:57:00,search,1955,false
+100712,Markets draws record interest,Media,Avery Stone,2026-07-08 10:04:00,social,540,true
+100713,Markets finds a wider audience,Entertainment,Jamie Lee,2026-07-09 11:11:00,newsletter,1143,false
+100714,Football signals cautious optimism,News,Morgan Patel,2026-07-10 12:18:00,search,1401,false
+100715,Startups signals cautious optimism,Culture,Riley Brooks,2026-07-11 13:25:00,social,823,true
+100716,Football faces fresh scrutiny,Business,Taylor Morgan,2026-07-12 14:32:00,newsletter,1916,true
+100717,Startups faces fresh scrutiny,Sports,Casey Reed,2026-07-13 15:39:00,search,1050,false
+100718,Theatre faces fresh scrutiny,Media,Jordan Quinn,2026-07-14 16:46:00,social,2070,true
+100719,Theatre faces fresh scrutiny,Entertainment,Sam Rivera,2026-07-15 17:53:00,newsletter,1096,false
+100720,Streaming finds a wider audience,News,Avery Stone,2026-06-01 06:00:00,search,1265,true
+100721,Schools sparks local debate,Culture,Jamie Lee,2026-06-02 07:07:00,social,968,false
+100722,Housing signals cautious optimism,Business,Morgan Patel,2026-06-03 08:14:00,newsletter,841,true
+100723,Streaming sets new agenda,Sports,Riley Brooks,2026-06-04 09:21:00,search,2215,false
+100724,Housing signals cautious optimism,Media,Taylor Morgan,2026-06-05 10:28:00,social,1129,true
+100725,Streaming faces fresh scrutiny,Entertainment,Casey Reed,2026-06-06 11:35:00,newsletter,2087,true
+100726,Markets sparks local debate,News,Jordan Quinn,2026-06-07 12:42:00,search,2271,false
+100727,Elections signals cautious optimism,Culture,Sam Rivera,2026-06-08 13:49:00,social,1350,false
+100728,Elections sets new agenda,Business,Avery Stone,2026-06-09 14:56:00,newsletter,832,true
+100729,Startups signals cautious optimism,Sports,Jamie Lee,2026-06-10 15:03:00,search,1468,false
+100730,Markets finds a wider audience,Media,Morgan Patel,2026-06-11 16:10:00,social,996,true
+100731,Transport signals cautious optimism,Entertainment,Riley Brooks,2026-06-12 17:17:00,newsletter,1319,false
+100732,Transport sparks local debate,News,Taylor Morgan,2026-06-13 06:24:00,search,1683,false
+100733,Football finds a wider audience,Culture,Casey Reed,2026-06-14 07:31:00,social,1051,false
+100734,Markets faces fresh scrutiny,Business,Jordan Quinn,2026-06-15 08:38:00,newsletter,613,true
+100735,Markets signals cautious optimism,Sports,Sam Rivera,2026-06-16 09:45:00,search,1055,true
+100736,Streaming sparks local debate,Media,Avery Stone,2026-06-17 10:52:00,social,1684,true
+100737,Elections draws record interest,Entertainment,Jamie Lee,2026-06-18 11:59:00,newsletter,1862,false
+100738,Startups sets new agenda,News,Morgan Patel,2026-06-19 12:06:00,search,1365,false
+100739,Housing signals cautious optimism,Culture,Riley Brooks,2026-06-20 13:13:00,social,2231,false
+100740,Markets finds a wider audience,Business,Taylor Morgan,2026-06-21 14:20:00,newsletter,1340,true
+100741,Streaming signals cautious optimism,Sports,Casey Reed,2026-06-22 15:27:00,search,2070,false
+100742,Housing faces fresh scrutiny,Media,Jordan Quinn,2026-06-23 16:34:00,social,1824,true
+100743,Elections sets new agenda,Entertainment,Sam Rivera,2026-06-24 17:41:00,newsletter,1500,false
+100744,Football faces fresh scrutiny,News,Avery Stone,2026-06-25 06:48:00,search,742,false
+100745,Restaurants signals cautious optimism,Culture,Jamie Lee,2026-06-26 07:55:00,social,2050,true
+100746,Startups faces fresh scrutiny,Business,Morgan Patel,2026-06-27 08:02:00,newsletter,708,true
+100747,Transport draws record interest,Sports,Riley Brooks,2026-06-28 09:09:00,search,2044,false
+100748,Markets sets new agenda,Media,Taylor Morgan,2026-06-29 10:16:00,social,1234,true
+100749,Restaurants faces fresh scrutiny,Entertainment,Casey Reed,2026-06-30 11:23:00,newsletter,1689,false
+100750,Football signals cautious optimism,News,Jordan Quinn,2026-07-01 12:30:00,search,1371,true
+100751,Markets sets new agenda,Culture,Sam Rivera,2026-07-02 13:37:00,social,1359,false
+100752,Transport finds a wider audience,Business,Avery Stone,2026-07-03 14:44:00,newsletter,731,true
+100753,Schools sets new agenda,Sports,Jamie Lee,2026-07-04 15:51:00,search,1265,false
+100754,Markets signals cautious optimism,Media,Morgan Patel,2026-07-05 16:58:00,social,1020,true
+100755,Theatre faces fresh scrutiny,Entertainment,Riley Brooks,2026-07-06 17:05:00,newsletter,503,true
+100756,Football sparks local debate,News,Taylor Morgan,2026-07-07 06:12:00,search,1510,false
+100757,Elections finds a wider audience,Culture,Casey Reed,2026-07-08 07:19:00,social,691,false
+100758,Streaming sets new agenda,Business,Jordan Quinn,2026-07-09 08:26:00,newsletter,1891,true
+100759,Startups draws record interest,Sports,Sam Rivera,2026-07-10 09:33:00,search,1703,false
+100760,Streaming signals cautious optimism,Media,Avery Stone,2026-07-11 10:40:00,social,2326,true
+100761,Startups draws record interest,Entertainment,Jamie Lee,2026-07-12 11:47:00,newsletter,701,false
+100762,Football faces fresh scrutiny,News,Morgan Patel,2026-07-13 12:54:00,search,1375,false
+100763,Football signals cautious optimism,Culture,Riley Brooks,2026-07-14 13:01:00,social,1361,false
+100764,Transport signals cautious optimism,Business,Taylor Morgan,2026-07-15 14:08:00,newsletter,2181,true
+100765,Markets signals cautious optimism,Sports,Casey Reed,2026-06-01 15:15:00,search,1161,true
+100766,Transport finds a wider audience,Media,Jordan Quinn,2026-06-02 16:22:00,social,1560,true
+100767,Streaming sets new agenda,Entertainment,Sam Rivera,2026-06-03 17:29:00,newsletter,2193,false
+100768,Football signals cautious optimism,News,Avery Stone,2026-06-04 06:36:00,search,1903,false
+100769,Football sets new agenda,Culture,Jamie Lee,2026-06-05 07:43:00,social,1491,false
+100770,Theatre faces fresh scrutiny,Business,Morgan Patel,2026-06-06 08:50:00,newsletter,861,true
+100771,Football draws record interest,Sports,Riley Brooks,2026-06-07 09:57:00,search,2068,false
+100772,Startups faces fresh scrutiny,Media,Taylor Morgan,2026-06-08 10:04:00,social,1189,true
+100773,Schools finds a wider audience,Entertainment,Casey Reed,2026-06-09 11:11:00,newsletter,1205,false
+100774,Startups finds a wider audience,News,Jordan Quinn,2026-06-10 12:18:00,search,715,false
+100775,Restaurants faces fresh scrutiny,Culture,Sam Rivera,2026-06-11 13:25:00,social,584,true
+100776,Streaming sparks local debate,Business,Avery Stone,2026-06-12 14:32:00,newsletter,1918,true
+100777,Startups finds a wider audience,Sports,Jamie Lee,2026-06-13 15:39:00,search,1291,false
+100778,Elections finds a wider audience,Media,Morgan Patel,2026-06-14 16:46:00,social,601,true
+100779,Football sets new agenda,Entertainment,Riley Brooks,2026-06-15 17:53:00,newsletter,1765,false
+100780,Transport sparks local debate,News,Taylor Morgan,2026-06-16 06:00:00,search,1404,true
+100781,Schools sets new agenda,Culture,Casey Reed,2026-06-17 07:07:00,social,712,false
+100782,Schools signals cautious optimism,Business,Jordan Quinn,2026-06-18 08:14:00,newsletter,1653,true
+100783,Football draws record interest,Sports,Sam Rivera,2026-06-19 09:21:00,search,1336,false
+100784,Schools faces fresh scrutiny,Media,Avery Stone,2026-06-20 10:28:00,social,2152,true
+100785,Transport finds a wider audience,Entertainment,Jamie Lee,2026-06-21 11:35:00,newsletter,763,true
+100786,Streaming draws record interest,News,Morgan Patel,2026-06-22 12:42:00,search,781,false
+100787,Markets signals cautious optimism,Culture,Riley Brooks,2026-06-23 13:49:00,social,911,false
+100788,Markets finds a wider audience,Business,Taylor Morgan,2026-06-24 14:56:00,newsletter,2282,true
+100789,Streaming faces fresh scrutiny,Sports,Casey Reed,2026-06-25 15:03:00,search,963,false
+100790,Theatre signals cautious optimism,Media,Jordan Quinn,2026-06-26 16:10:00,social,1578,true
+100791,Streaming draws record interest,Entertainment,Sam Rivera,2026-06-27 17:17:00,newsletter,1730,false
+100792,Streaming finds a wider audience,News,Avery Stone,2026-06-28 06:24:00,search,1542,false
+100793,Transport finds a wider audience,Culture,Jamie Lee,2026-06-29 07:31:00,social,1762,false
+100794,Football finds a wider audience,Business,Morgan Patel,2026-06-30 08:38:00,newsletter,2378,true
+100795,Restaurants draws record interest,Sports,Riley Brooks,2026-07-01 09:45:00,search,800,true
+100796,Restaurants signals cautious optimism,Media,Taylor Morgan,2026-07-02 10:52:00,social,2297,true
+100797,Restaurants sets new agenda,Entertainment,Casey Reed,2026-07-03 11:59:00,newsletter,2175,false
+100798,Restaurants faces fresh scrutiny,News,Jordan Quinn,2026-07-04 12:06:00,search,2140,false
+100799,Housing faces fresh scrutiny,Culture,Sam Rivera,2026-07-05 13:13:00,social,543,false
+100800,Restaurants sets new agenda,Business,Avery Stone,2026-07-06 14:20:00,newsletter,1783,true
+100801,Theatre finds a wider audience,Sports,Jamie Lee,2026-07-07 15:27:00,search,1303,false
+100802,Restaurants signals cautious optimism,Media,Morgan Patel,2026-07-08 16:34:00,social,512,true
+100803,Startups signals cautious optimism,Entertainment,Riley Brooks,2026-07-09 17:41:00,newsletter,1567,false
+100804,Streaming signals cautious optimism,News,Taylor Morgan,2026-07-10 06:48:00,search,1068,false
+100805,Startups draws record interest,Culture,Casey Reed,2026-07-11 07:55:00,social,2098,true
+100806,Elections sets new agenda,Business,Jordan Quinn,2026-07-12 08:02:00,newsletter,1378,true
+100807,Transport signals cautious optimism,Sports,Sam Rivera,2026-07-13 09:09:00,search,572,false
+100808,Football sparks local debate,Media,Avery Stone,2026-07-14 10:16:00,social,1301,true
+100809,Startups sparks local debate,Entertainment,Jamie Lee,2026-07-15 11:23:00,newsletter,867,false
+100810,Markets finds a wider audience,News,Morgan Patel,2026-06-01 12:30:00,search,744,true
+100811,Markets signals cautious optimism,Culture,Riley Brooks,2026-06-02 13:37:00,social,1103,false
+100812,Markets sparks local debate,Business,Taylor Morgan,2026-06-03 14:44:00,newsletter,717,true
+100813,Markets finds a wider audience,Sports,Casey Reed,2026-06-04 15:51:00,search,1600,false
+100814,Transport sets new agenda,Media,Jordan Quinn,2026-06-05 16:58:00,social,945,true
+100815,Startups faces fresh scrutiny,Entertainment,Sam Rivera,2026-06-06 17:05:00,newsletter,997,true
+100816,Startups draws record interest,News,Avery Stone,2026-06-07 06:12:00,search,738,false
+100817,Transport faces fresh scrutiny,Culture,Jamie Lee,2026-06-08 07:19:00,social,1044,false
+100818,Elections finds a wider audience,Business,Morgan Patel,2026-06-09 08:26:00,newsletter,1306,true
+100819,Theatre draws record interest,Sports,Riley Brooks,2026-06-10 09:33:00,search,2116,false
+100820,Markets finds a wider audience,Media,Taylor Morgan,2026-06-11 10:40:00,social,1926,true
+100821,Markets draws record interest,Entertainment,Casey Reed,2026-06-12 11:47:00,newsletter,2012,false
+100822,Football sparks local debate,News,Jordan Quinn,2026-06-13 12:54:00,search,1504,false
+100823,Startups sparks local debate,Culture,Sam Rivera,2026-06-14 13:01:00,social,2250,false
+100824,Streaming sparks local debate,Business,Avery Stone,2026-06-15 14:08:00,newsletter,497,true
+100825,Transport sparks local debate,Sports,Jamie Lee,2026-06-16 15:15:00,search,1485,true
+100826,Startups draws record interest,Media,Morgan Patel,2026-06-17 16:22:00,social,890,true
+100827,Restaurants sets new agenda,Entertainment,Riley Brooks,2026-06-18 17:29:00,newsletter,549,false
+100828,Housing sets new agenda,News,Taylor Morgan,2026-06-19 06:36:00,search,1463,false
+100829,Restaurants signals cautious optimism,Culture,Casey Reed,2026-06-20 07:43:00,social,1827,false
+100830,Startups sets new agenda,Business,Jordan Quinn,2026-06-21 08:50:00,newsletter,1549,true
+100831,Housing faces fresh scrutiny,Sports,Sam Rivera,2026-06-22 09:57:00,search,1332,false
+100832,Football sets new agenda,Media,Avery Stone,2026-06-23 10:04:00,social,1939,true
+100833,Markets sparks local debate,Entertainment,Jamie Lee,2026-06-24 11:11:00,newsletter,1199,false
+100834,Housing sparks local debate,News,Morgan Patel,2026-06-25 12:18:00,search,554,false
+100835,Restaurants finds a wider audience,Culture,Riley Brooks,2026-06-26 13:25:00,social,848,true
+100836,Markets finds a wider audience,Business,Taylor Morgan,2026-06-27 14:32:00,newsletter,1041,true
+100837,Transport sparks local debate,Sports,Casey Reed,2026-06-28 15:39:00,search,1482,false
+100838,Startups finds a wider audience,Media,Jordan Quinn,2026-06-29 16:46:00,social,1022,true
+100839,Restaurants signals cautious optimism,Entertainment,Sam Rivera,2026-06-30 17:53:00,newsletter,1701,false
+100840,Transport draws record interest,News,Avery Stone,2026-07-01 06:00:00,search,648,true
+100841,Elections sets new agenda,Culture,Jamie Lee,2026-07-02 07:07:00,social,2077,false
+100842,Markets finds a wider audience,Business,Morgan Patel,2026-07-03 08:14:00,newsletter,2372,true
+100843,Markets draws record interest,Sports,Riley Brooks,2026-07-04 09:21:00,search,857,false
+100844,Restaurants finds a wider audience,Media,Taylor Morgan,2026-07-05 10:28:00,social,1272,true
+100845,Schools faces fresh scrutiny,Entertainment,Casey Reed,2026-07-06 11:35:00,newsletter,542,true
+100846,Housing draws record interest,News,Jordan Quinn,2026-07-07 12:42:00,search,1911,false
+100847,Markets sparks local debate,Culture,Sam Rivera,2026-07-08 13:49:00,social,1513,false
+100848,Startups draws record interest,Business,Avery Stone,2026-07-09 14:56:00,newsletter,1691,true
+100849,Schools draws record interest,Sports,Jamie Lee,2026-07-10 15:03:00,search,1121,false
+100850,Restaurants sets new agenda,Media,Morgan Patel,2026-07-11 16:10:00,social,782,true
+100851,Elections finds a wider audience,Entertainment,Riley Brooks,2026-07-12 17:17:00,newsletter,1964,false
+100852,Streaming finds a wider audience,News,Taylor Morgan,2026-07-13 06:24:00,search,1138,false
+100853,Schools finds a wider audience,Culture,Casey Reed,2026-07-14 07:31:00,social,1540,false
+100854,Startups signals cautious optimism,Business,Jordan Quinn,2026-07-15 08:38:00,newsletter,1602,true
+100855,Streaming sparks local debate,Sports,Sam Rivera,2026-06-01 09:45:00,search,2120,true
+100856,Housing sets new agenda,Media,Avery Stone,2026-06-02 10:52:00,social,1128,true
+100857,Transport sparks local debate,Entertainment,Jamie Lee,2026-06-03 11:59:00,newsletter,1645,false
+100858,Streaming signals cautious optimism,News,Morgan Patel,2026-06-04 12:06:00,search,2236,false
+100859,Housing finds a wider audience,Culture,Riley Brooks,2026-06-05 13:13:00,social,1421,false
+100860,Streaming signals cautious optimism,Business,Taylor Morgan,2026-06-06 14:20:00,newsletter,2053,true
+100861,Restaurants finds a wider audience,Sports,Casey Reed,2026-06-07 15:27:00,search,916,false
+100862,Housing finds a wider audience,Media,Jordan Quinn,2026-06-08 16:34:00,social,1433,true
+100863,Football finds a wider audience,Entertainment,Sam Rivera,2026-06-09 17:41:00,newsletter,1738,false
+100864,Restaurants sparks local debate,News,Avery Stone,2026-06-10 06:48:00,search,752,false
+100865,Theatre faces fresh scrutiny,Culture,Jamie Lee,2026-06-11 07:55:00,social,1622,true
+100866,Transport draws record interest,Business,Morgan Patel,2026-06-12 08:02:00,newsletter,488,true
+100867,Startups sets new agenda,Sports,Riley Brooks,2026-06-13 09:09:00,search,1307,false
+100868,Football sparks local debate,Media,Taylor Morgan,2026-06-14 10:16:00,social,1864,true
+100869,Theatre sparks local debate,Entertainment,Casey Reed,2026-06-15 11:23:00,newsletter,1477,false
+100870,Restaurants sparks local debate,News,Jordan Quinn,2026-06-16 12:30:00,search,2237,true
+100871,Housing signals cautious optimism,Culture,Sam Rivera,2026-06-17 13:37:00,social,732,false
+100872,Schools draws record interest,Business,Avery Stone,2026-06-18 14:44:00,newsletter,1598,true
+100873,Markets signals cautious optimism,Sports,Jamie Lee,2026-06-19 15:51:00,search,1429,false
+100874,Schools sparks local debate,Media,Morgan Patel,2026-06-20 16:58:00,social,1092,true
+100875,Football sparks local debate,Entertainment,Riley Brooks,2026-06-21 17:05:00,newsletter,2318,true
+100876,Schools sets new agenda,News,Taylor Morgan,2026-06-22 06:12:00,search,1568,false
+100877,Markets signals cautious optimism,Culture,Casey Reed,2026-06-23 07:19:00,social,2031,false
+100878,Streaming finds a wider audience,Business,Jordan Quinn,2026-06-24 08:26:00,newsletter,1441,true
+100879,Theatre draws record interest,Sports,Sam Rivera,2026-06-25 09:33:00,search,1021,false
+100880,Schools sets new agenda,Media,Avery Stone,2026-06-26 10:40:00,social,910,true
+100881,Streaming sets new agenda,Entertainment,Jamie Lee,2026-06-27 11:47:00,newsletter,1893,false
+100882,Theatre signals cautious optimism,News,Morgan Patel,2026-06-28 12:54:00,search,1893,false
+100883,Startups sets new agenda,Culture,Riley Brooks,2026-06-29 13:01:00,social,1432,false
+100884,Markets finds a wider audience,Business,Taylor Morgan,2026-06-30 14:08:00,newsletter,2362,true
+100885,Streaming sets new agenda,Sports,Casey Reed,2026-07-01 15:15:00,search,699,true
+100886,Restaurants signals cautious optimism,Media,Jordan Quinn,2026-07-02 16:22:00,social,1562,true
+100887,Elections sparks local debate,Entertainment,Sam Rivera,2026-07-03 17:29:00,newsletter,2126,false
+100888,Markets draws record interest,News,Avery Stone,2026-07-04 06:36:00,search,1044,false
+100889,Housing sets new agenda,Culture,Jamie Lee,2026-07-05 07:43:00,social,1912,false
+100890,Transport sets new agenda,Business,Morgan Patel,2026-07-06 08:50:00,newsletter,2342,true
+100891,Startups signals cautious optimism,Sports,Riley Brooks,2026-07-07 09:57:00,search,975,false
+100892,Startups draws record interest,Media,Taylor Morgan,2026-07-08 10:04:00,social,863,true
+100893,Schools sets new agenda,Entertainment,Casey Reed,2026-07-09 11:11:00,newsletter,2360,false
+100894,Schools signals cautious optimism,News,Jordan Quinn,2026-07-10 12:18:00,search,1006,false
+100895,Football faces fresh scrutiny,Culture,Sam Rivera,2026-07-11 13:25:00,social,1710,true
+100896,Restaurants draws record interest,Business,Avery Stone,2026-07-12 14:32:00,newsletter,946,true
+100897,Housing signals cautious optimism,Sports,Jamie Lee,2026-07-13 15:39:00,search,2303,false
+100898,Schools draws record interest,Media,Morgan Patel,2026-07-14 16:46:00,social,1756,true
+100899,Theatre faces fresh scrutiny,Entertainment,Riley Brooks,2026-07-15 17:53:00,newsletter,655,false
+100900,Elections sets new agenda,News,Taylor Morgan,2026-06-01 06:00:00,search,1919,true
+100901,Startups faces fresh scrutiny,Culture,Casey Reed,2026-06-02 07:07:00,social,1845,false
+100902,Football faces fresh scrutiny,Business,Jordan Quinn,2026-06-03 08:14:00,newsletter,1577,true
+100903,Football sparks local debate,Sports,Sam Rivera,2026-06-04 09:21:00,search,1787,false
+100904,Startups sparks local debate,Media,Avery Stone,2026-06-05 10:28:00,social,1782,true
+100905,Theatre sets new agenda,Entertainment,Jamie Lee,2026-06-06 11:35:00,newsletter,1107,true
+100906,Streaming signals cautious optimism,News,Morgan Patel,2026-06-07 12:42:00,search,571,false
+100907,Transport signals cautious optimism,Culture,Riley Brooks,2026-06-08 13:49:00,social,1625,false
+100908,Theatre finds a wider audience,Business,Taylor Morgan,2026-06-09 14:56:00,newsletter,1962,true
+100909,Housing draws record interest,Sports,Casey Reed,2026-06-10 15:03:00,search,1305,false
+100910,Football faces fresh scrutiny,Media,Jordan Quinn,2026-06-11 16:10:00,social,2162,true
+100911,Elections sparks local debate,Entertainment,Sam Rivera,2026-06-12 17:17:00,newsletter,831,false
+100912,Streaming faces fresh scrutiny,News,Avery Stone,2026-06-13 06:24:00,search,468,false
+100913,Streaming finds a wider audience,Culture,Jamie Lee,2026-06-14 07:31:00,social,1684,false
+100914,Transport sets new agenda,Business,Morgan Patel,2026-06-15 08:38:00,newsletter,1032,true
+100915,Startups signals cautious optimism,Sports,Riley Brooks,2026-06-16 09:45:00,search,1562,true
+100916,Schools sparks local debate,Media,Taylor Morgan,2026-06-17 10:52:00,social,2271,true
+100917,Football finds a wider audience,Entertainment,Casey Reed,2026-06-18 11:59:00,newsletter,1408,false
+100918,Streaming draws record interest,News,Jordan Quinn,2026-06-19 12:06:00,search,2106,false
+100919,Transport sets new agenda,Culture,Sam Rivera,2026-06-20 13:13:00,social,782,false
+100920,Startups signals cautious optimism,Business,Avery Stone,2026-06-21 14:20:00,newsletter,976,true
+100921,Football faces fresh scrutiny,Sports,Jamie Lee,2026-06-22 15:27:00,search,1958,false
+100922,Markets sets new agenda,Media,Morgan Patel,2026-06-23 16:34:00,social,1612,true
+100923,Theatre draws record interest,Entertainment,Riley Brooks,2026-06-24 17:41:00,newsletter,1701,false
+100924,Elections sparks local debate,News,Taylor Morgan,2026-06-25 06:48:00,search,1505,false
+100925,Markets faces fresh scrutiny,Culture,Casey Reed,2026-06-26 07:55:00,social,1270,true
+100926,Transport draws record interest,Business,Jordan Quinn,2026-06-27 08:02:00,newsletter,737,true
+100927,Startups sets new agenda,Sports,Sam Rivera,2026-06-28 09:09:00,search,2366,false
+100928,Theatre faces fresh scrutiny,Media,Avery Stone,2026-06-29 10:16:00,social,984,true
+100929,Elections draws record interest,Entertainment,Jamie Lee,2026-06-30 11:23:00,newsletter,1364,false
+100930,Streaming sets new agenda,News,Morgan Patel,2026-07-01 12:30:00,search,1068,true
+100931,Restaurants signals cautious optimism,Culture,Riley Brooks,2026-07-02 13:37:00,social,1623,false
+100932,Housing sets new agenda,Business,Taylor Morgan,2026-07-03 14:44:00,newsletter,1788,true
+100933,Markets signals cautious optimism,Sports,Casey Reed,2026-07-04 15:51:00,search,933,false
+100934,Housing signals cautious optimism,Media,Jordan Quinn,2026-07-05 16:58:00,social,692,true
+100935,Startups sets new agenda,Entertainment,Sam Rivera,2026-07-06 17:05:00,newsletter,777,true
+100936,Elections signals cautious optimism,News,Avery Stone,2026-07-07 06:12:00,search,1479,false
+100937,Streaming signals cautious optimism,Culture,Jamie Lee,2026-07-08 07:19:00,social,690,false
+100938,Streaming sets new agenda,Business,Morgan Patel,2026-07-09 08:26:00,newsletter,1708,true
+100939,Theatre draws record interest,Sports,Riley Brooks,2026-07-10 09:33:00,search,723,false
+100940,Startups draws record interest,Media,Taylor Morgan,2026-07-11 10:40:00,social,1381,true
+100941,Restaurants sets new agenda,Entertainment,Casey Reed,2026-07-12 11:47:00,newsletter,1301,false
+100942,Schools sparks local debate,News,Jordan Quinn,2026-07-13 12:54:00,search,2001,false
+100943,Schools signals cautious optimism,Culture,Sam Rivera,2026-07-14 13:01:00,social,2140,false
+100944,Theatre draws record interest,Business,Avery Stone,2026-07-15 14:08:00,newsletter,1843,true
+100945,Restaurants faces fresh scrutiny,Sports,Jamie Lee,2026-06-01 15:15:00,search,1526,true
+100946,Startups finds a wider audience,Media,Morgan Patel,2026-06-02 16:22:00,social,1891,true
+100947,Markets faces fresh scrutiny,Entertainment,Riley Brooks,2026-06-03 17:29:00,newsletter,2328,false
+100948,Restaurants faces fresh scrutiny,News,Taylor Morgan,2026-06-04 06:36:00,search,576,false
+100949,Schools finds a wider audience,Culture,Casey Reed,2026-06-05 07:43:00,social,864,false
+100950,Restaurants finds a wider audience,Business,Jordan Quinn,2026-06-06 08:50:00,newsletter,756,true
+100951,Football sets new agenda,Sports,Sam Rivera,2026-06-07 09:57:00,search,2199,false
+100952,Schools sparks local debate,Media,Avery Stone,2026-06-08 10:04:00,social,688,true
+100953,Theatre signals cautious optimism,Entertainment,Jamie Lee,2026-06-09 11:11:00,newsletter,1644,false
+100954,Startups faces fresh scrutiny,News,Morgan Patel,2026-06-10 12:18:00,search,2290,false
+100955,Schools sparks local debate,Culture,Riley Brooks,2026-06-11 13:25:00,social,2106,true
+100956,Housing sparks local debate,Business,Taylor Morgan,2026-06-12 14:32:00,newsletter,720,true
+100957,Schools sparks local debate,Sports,Casey Reed,2026-06-13 15:39:00,search,1385,false
+100958,Restaurants faces fresh scrutiny,Media,Jordan Quinn,2026-06-14 16:46:00,social,1594,true
+100959,Startups signals cautious optimism,Entertainment,Sam Rivera,2026-06-15 17:53:00,newsletter,2102,false
+100960,Streaming signals cautious optimism,News,Avery Stone,2026-06-16 06:00:00,search,494,true
+100961,Elections sets new agenda,Culture,Jamie Lee,2026-06-17 07:07:00,social,2122,false
+100962,Housing signals cautious optimism,Business,Morgan Patel,2026-06-18 08:14:00,newsletter,896,true
+100963,Restaurants faces fresh scrutiny,Sports,Riley Brooks,2026-06-19 09:21:00,search,542,false
+100964,Elections sets new agenda,Media,Taylor Morgan,2026-06-20 10:28:00,social,1884,true
+100965,Transport finds a wider audience,Entertainment,Casey Reed,2026-06-21 11:35:00,newsletter,573,true
+100966,Transport sparks local debate,News,Jordan Quinn,2026-06-22 12:42:00,search,514,false
+100967,Streaming sparks local debate,Culture,Sam Rivera,2026-06-23 13:49:00,social,818,false
+100968,Football signals cautious optimism,Business,Avery Stone,2026-06-24 14:56:00,newsletter,1943,true
+100969,Elections sets new agenda,Sports,Jamie Lee,2026-06-25 15:03:00,search,2275,false
+100970,Elections sparks local debate,Media,Morgan Patel,2026-06-26 16:10:00,social,2230,true
+100971,Elections sparks local debate,Entertainment,Riley Brooks,2026-06-27 17:17:00,newsletter,614,false
+100972,Schools draws record interest,News,Taylor Morgan,2026-06-28 06:24:00,search,1788,false
+100973,Markets faces fresh scrutiny,Culture,Casey Reed,2026-06-29 07:31:00,social,815,false
+100974,Schools sparks local debate,Business,Jordan Quinn,2026-06-30 08:38:00,newsletter,1533,true
+100975,Football signals cautious optimism,Sports,Sam Rivera,2026-07-01 09:45:00,search,906,true
+100976,Housing faces fresh scrutiny,Media,Avery Stone,2026-07-02 10:52:00,social,1061,true
+100977,Startups signals cautious optimism,Entertainment,Jamie Lee,2026-07-03 11:59:00,newsletter,1922,false
+100978,Schools sparks local debate,News,Morgan Patel,2026-07-04 12:06:00,search,1539,false
+100979,Elections draws record interest,Culture,Riley Brooks,2026-07-05 13:13:00,social,956,false
+100980,Startups sets new agenda,Business,Taylor Morgan,2026-07-06 14:20:00,newsletter,767,true
+100981,Streaming draws record interest,Sports,Casey Reed,2026-07-07 15:27:00,search,2369,false
+100982,Transport faces fresh scrutiny,Media,Jordan Quinn,2026-07-08 16:34:00,social,2107,true
+100983,Elections finds a wider audience,Entertainment,Sam Rivera,2026-07-09 17:41:00,newsletter,2018,false
+100984,Housing draws record interest,News,Avery Stone,2026-07-10 06:48:00,search,872,false
+100985,Transport faces fresh scrutiny,Culture,Jamie Lee,2026-07-11 07:55:00,social,1666,true
+100986,Housing sparks local debate,Business,Morgan Patel,2026-07-12 08:02:00,newsletter,1674,true
+100987,Housing draws record interest,Sports,Riley Brooks,2026-07-13 09:09:00,search,1966,false
+100988,Housing sparks local debate,Media,Taylor Morgan,2026-07-14 10:16:00,social,1348,true
+100989,Theatre finds a wider audience,Entertainment,Casey Reed,2026-07-15 11:23:00,newsletter,894,false
+100990,Housing draws record interest,News,Jordan Quinn,2026-06-01 12:30:00,search,1481,true
+100991,Streaming draws record interest,Culture,Sam Rivera,2026-06-02 13:37:00,social,2120,false
+100992,Restaurants sets new agenda,Business,Avery Stone,2026-06-03 14:44:00,newsletter,1632,true
+100993,Restaurants signals cautious optimism,Sports,Jamie Lee,2026-06-04 15:51:00,search,2126,false
+100994,Markets draws record interest,Media,Morgan Patel,2026-06-05 16:58:00,social,1068,true
+100995,Football signals cautious optimism,Entertainment,Riley Brooks,2026-06-06 17:05:00,newsletter,1517,true
+100996,Theatre sparks local debate,News,Taylor Morgan,2026-06-07 06:12:00,search,1065,false
+100997,Streaming faces fresh scrutiny,Culture,Casey Reed,2026-06-08 07:19:00,social,1590,false
+100998,Restaurants signals cautious optimism,Business,Jordan Quinn,2026-06-09 08:26:00,newsletter,2316,true
+100999,Football signals cautious optimism,Sports,Sam Rivera,2026-06-10 09:33:00,search,1840,false
+101000,Elections finds a wider audience,Media,Avery Stone,2026-06-11 10:40:00,social,1465,true

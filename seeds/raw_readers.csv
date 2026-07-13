@@ -7,3 +7,1003 @@ reader_id,email_domain,signup_date,acquisition_channel,country,age_band,marketin
 2006,mail.com,2026-05-21,search,United States,25-34,true
 2007,inbox.com,2026-05-25,social,Ireland,55-64,false
 2008,example.com,2026-05-29,newsletter,United Kingdom,45-54,true
+200001,mail.com,2026-04-23,search,United States,25-34,true
+200002,news.test,2026-04-24,social,Ireland,35-44,true
+200003,reader.net,2026-04-25,referral,Canada,45-54,false
+200004,demo.org,2026-04-26,newsletter,Australia,55-64,true
+200005,example.com,2026-04-27,search,United Kingdom,65+,true
+200006,mail.com,2026-04-28,social,United States,18-24,false
+200007,news.test,2026-04-29,referral,Ireland,25-34,true
+200008,reader.net,2026-04-30,newsletter,Canada,35-44,true
+200009,demo.org,2026-05-01,search,Australia,45-54,true
+200010,example.com,2026-05-02,social,United Kingdom,55-64,true
+200011,mail.com,2026-05-03,referral,United States,65+,true
+200012,news.test,2026-05-04,newsletter,Ireland,18-24,true
+200013,reader.net,2026-05-05,search,Canada,25-34,false
+200014,demo.org,2026-05-06,social,Australia,35-44,true
+200015,example.com,2026-05-07,referral,United Kingdom,45-54,true
+200016,mail.com,2026-05-08,newsletter,United States,55-64,true
+200017,news.test,2026-05-09,search,Ireland,65+,true
+200018,reader.net,2026-05-10,social,Canada,18-24,true
+200019,demo.org,2026-05-11,referral,Australia,25-34,true
+200020,example.com,2026-05-12,newsletter,United Kingdom,35-44,true
+200021,mail.com,2026-05-13,search,United States,45-54,true
+200022,news.test,2026-05-14,social,Ireland,55-64,true
+200023,reader.net,2026-05-15,referral,Canada,65+,true
+200024,demo.org,2026-05-16,newsletter,Australia,18-24,true
+200025,example.com,2026-05-17,search,United Kingdom,25-34,true
+200026,mail.com,2026-05-18,social,United States,35-44,true
+200027,news.test,2026-05-19,referral,Ireland,45-54,false
+200028,reader.net,2026-05-20,newsletter,Canada,55-64,true
+200029,demo.org,2026-05-21,search,Australia,65+,true
+200030,example.com,2026-05-22,social,United Kingdom,18-24,true
+200031,mail.com,2026-05-23,referral,United States,25-34,true
+200032,news.test,2026-05-24,newsletter,Ireland,35-44,true
+200033,reader.net,2026-05-25,search,Canada,45-54,false
+200034,demo.org,2026-05-26,social,Australia,55-64,true
+200035,example.com,2026-05-27,referral,United Kingdom,65+,false
+200036,mail.com,2026-05-28,newsletter,United States,18-24,true
+200037,news.test,2026-05-29,search,Ireland,25-34,true
+200038,reader.net,2026-05-30,social,Canada,35-44,false
+200039,demo.org,2026-05-31,referral,Australia,45-54,true
+200040,example.com,2026-06-01,newsletter,United Kingdom,55-64,false
+200041,mail.com,2026-06-02,search,United States,65+,true
+200042,news.test,2026-06-03,social,Ireland,18-24,true
+200043,reader.net,2026-06-04,referral,Canada,25-34,false
+200044,demo.org,2026-06-05,newsletter,Australia,35-44,false
+200045,example.com,2026-06-06,search,United Kingdom,45-54,false
+200046,mail.com,2026-06-07,social,United States,55-64,false
+200047,news.test,2026-06-08,referral,Ireland,65+,false
+200048,reader.net,2026-06-09,newsletter,Canada,18-24,false
+200049,demo.org,2026-06-10,search,Australia,25-34,true
+200050,example.com,2026-06-11,social,United Kingdom,35-44,true
+200051,mail.com,2026-06-12,referral,United States,45-54,true
+200052,news.test,2026-06-13,newsletter,Ireland,55-64,true
+200053,reader.net,2026-06-14,search,Canada,65+,true
+200054,demo.org,2026-06-15,social,Australia,18-24,false
+200055,example.com,2026-04-22,referral,United Kingdom,25-34,true
+200056,mail.com,2026-04-23,newsletter,United States,35-44,true
+200057,news.test,2026-04-24,search,Ireland,45-54,false
+200058,reader.net,2026-04-25,social,Canada,55-64,true
+200059,demo.org,2026-04-26,referral,Australia,65+,false
+200060,example.com,2026-04-27,newsletter,United Kingdom,18-24,false
+200061,mail.com,2026-04-28,search,United States,25-34,false
+200062,news.test,2026-04-29,social,Ireland,35-44,true
+200063,reader.net,2026-04-30,referral,Canada,45-54,true
+200064,demo.org,2026-05-01,newsletter,Australia,55-64,true
+200065,example.com,2026-05-02,search,United Kingdom,65+,true
+200066,mail.com,2026-05-03,social,United States,18-24,false
+200067,news.test,2026-05-04,referral,Ireland,25-34,false
+200068,reader.net,2026-05-05,newsletter,Canada,35-44,true
+200069,demo.org,2026-05-06,search,Australia,45-54,true
+200070,example.com,2026-05-07,social,United Kingdom,55-64,true
+200071,mail.com,2026-05-08,referral,United States,65+,false
+200072,news.test,2026-05-09,newsletter,Ireland,18-24,true
+200073,reader.net,2026-05-10,search,Canada,25-34,true
+200074,demo.org,2026-05-11,social,Australia,35-44,true
+200075,example.com,2026-05-12,referral,United Kingdom,45-54,true
+200076,mail.com,2026-05-13,newsletter,United States,55-64,true
+200077,news.test,2026-05-14,search,Ireland,65+,true
+200078,reader.net,2026-05-15,social,Canada,18-24,false
+200079,demo.org,2026-05-16,referral,Australia,25-34,true
+200080,example.com,2026-05-17,newsletter,United Kingdom,35-44,false
+200081,mail.com,2026-05-18,search,United States,45-54,true
+200082,news.test,2026-05-19,social,Ireland,55-64,false
+200083,reader.net,2026-05-20,referral,Canada,65+,false
+200084,demo.org,2026-05-21,newsletter,Australia,18-24,true
+200085,example.com,2026-05-22,search,United Kingdom,25-34,false
+200086,mail.com,2026-05-23,social,United States,35-44,true
+200087,news.test,2026-05-24,referral,Ireland,45-54,true
+200088,reader.net,2026-05-25,newsletter,Canada,55-64,true
+200089,demo.org,2026-05-26,search,Australia,65+,true
+200090,example.com,2026-05-27,social,United Kingdom,18-24,false
+200091,mail.com,2026-05-28,referral,United States,25-34,false
+200092,news.test,2026-05-29,newsletter,Ireland,35-44,false
+200093,reader.net,2026-05-30,search,Canada,45-54,true
+200094,demo.org,2026-05-31,social,Australia,55-64,false
+200095,example.com,2026-06-01,referral,United Kingdom,65+,true
+200096,mail.com,2026-06-02,newsletter,United States,18-24,false
+200097,news.test,2026-06-03,search,Ireland,25-34,true
+200098,reader.net,2026-06-04,social,Canada,35-44,true
+200099,demo.org,2026-06-05,referral,Australia,45-54,true
+200100,example.com,2026-06-06,newsletter,United Kingdom,55-64,false
+200101,mail.com,2026-06-07,search,United States,65+,true
+200102,news.test,2026-06-08,social,Ireland,18-24,true
+200103,reader.net,2026-06-09,referral,Canada,25-34,true
+200104,demo.org,2026-06-10,newsletter,Australia,35-44,true
+200105,example.com,2026-06-11,search,United Kingdom,45-54,true
+200106,mail.com,2026-06-12,social,United States,55-64,false
+200107,news.test,2026-06-13,referral,Ireland,65+,false
+200108,reader.net,2026-06-14,newsletter,Canada,18-24,false
+200109,demo.org,2026-06-15,search,Australia,25-34,false
+200110,example.com,2026-04-22,social,United Kingdom,35-44,true
+200111,mail.com,2026-04-23,referral,United States,45-54,true
+200112,news.test,2026-04-24,newsletter,Ireland,55-64,true
+200113,reader.net,2026-04-25,search,Canada,65+,true
+200114,demo.org,2026-04-26,social,Australia,18-24,false
+200115,example.com,2026-04-27,referral,United Kingdom,25-34,true
+200116,mail.com,2026-04-28,newsletter,United States,35-44,true
+200117,news.test,2026-04-29,search,Ireland,45-54,true
+200118,reader.net,2026-04-30,social,Canada,55-64,false
+200119,demo.org,2026-05-01,referral,Australia,65+,true
+200120,example.com,2026-05-02,newsletter,United Kingdom,18-24,false
+200121,mail.com,2026-05-03,search,United States,25-34,true
+200122,news.test,2026-05-04,social,Ireland,35-44,false
+200123,reader.net,2026-05-05,referral,Canada,45-54,true
+200124,demo.org,2026-05-06,newsletter,Australia,55-64,true
+200125,example.com,2026-05-07,search,United Kingdom,65+,true
+200126,mail.com,2026-05-08,social,United States,18-24,true
+200127,news.test,2026-05-09,referral,Ireland,25-34,true
+200128,reader.net,2026-05-10,newsletter,Canada,35-44,false
+200129,demo.org,2026-05-11,search,Australia,45-54,true
+200130,example.com,2026-05-12,social,United Kingdom,55-64,false
+200131,mail.com,2026-05-13,referral,United States,65+,true
+200132,news.test,2026-05-14,newsletter,Ireland,18-24,true
+200133,reader.net,2026-05-15,search,Canada,25-34,false
+200134,demo.org,2026-05-16,social,Australia,35-44,true
+200135,example.com,2026-05-17,referral,United Kingdom,45-54,false
+200136,mail.com,2026-05-18,newsletter,United States,55-64,true
+200137,news.test,2026-05-19,search,Ireland,65+,false
+200138,reader.net,2026-05-20,social,Canada,18-24,false
+200139,demo.org,2026-05-21,referral,Australia,25-34,true
+200140,example.com,2026-05-22,newsletter,United Kingdom,35-44,true
+200141,mail.com,2026-05-23,search,United States,45-54,true
+200142,news.test,2026-05-24,social,Ireland,55-64,true
+200143,reader.net,2026-05-25,referral,Canada,65+,false
+200144,demo.org,2026-05-26,newsletter,Australia,18-24,false
+200145,example.com,2026-05-27,search,United Kingdom,25-34,true
+200146,mail.com,2026-05-28,social,United States,35-44,false
+200147,news.test,2026-05-29,referral,Ireland,45-54,false
+200148,reader.net,2026-05-30,newsletter,Canada,55-64,true
+200149,demo.org,2026-05-31,search,Australia,65+,false
+200150,example.com,2026-06-01,social,United Kingdom,18-24,false
+200151,mail.com,2026-06-02,referral,United States,25-34,false
+200152,news.test,2026-06-03,newsletter,Ireland,35-44,false
+200153,reader.net,2026-06-04,search,Canada,45-54,true
+200154,demo.org,2026-06-05,social,Australia,55-64,false
+200155,example.com,2026-06-06,referral,United Kingdom,65+,false
+200156,mail.com,2026-06-07,newsletter,United States,18-24,true
+200157,news.test,2026-06-08,search,Ireland,25-34,true
+200158,reader.net,2026-06-09,social,Canada,35-44,false
+200159,demo.org,2026-06-10,referral,Australia,45-54,false
+200160,example.com,2026-06-11,newsletter,United Kingdom,55-64,true
+200161,mail.com,2026-06-12,search,United States,65+,true
+200162,news.test,2026-06-13,social,Ireland,18-24,false
+200163,reader.net,2026-06-14,referral,Canada,25-34,true
+200164,demo.org,2026-06-15,newsletter,Australia,35-44,false
+200165,example.com,2026-04-22,search,United Kingdom,45-54,true
+200166,mail.com,2026-04-23,social,United States,55-64,true
+200167,news.test,2026-04-24,referral,Ireland,65+,true
+200168,reader.net,2026-04-25,newsletter,Canada,18-24,false
+200169,demo.org,2026-04-26,search,Australia,25-34,false
+200170,example.com,2026-04-27,social,United Kingdom,35-44,false
+200171,mail.com,2026-04-28,referral,United States,45-54,true
+200172,news.test,2026-04-29,newsletter,Ireland,55-64,true
+200173,reader.net,2026-04-30,search,Canada,65+,true
+200174,demo.org,2026-05-01,social,Australia,18-24,false
+200175,example.com,2026-05-02,referral,United Kingdom,25-34,false
+200176,mail.com,2026-05-03,newsletter,United States,35-44,true
+200177,news.test,2026-05-04,search,Ireland,45-54,true
+200178,reader.net,2026-05-05,social,Canada,55-64,false
+200179,demo.org,2026-05-06,referral,Australia,65+,false
+200180,example.com,2026-05-07,newsletter,United Kingdom,18-24,false
+200181,mail.com,2026-05-08,search,United States,25-34,true
+200182,news.test,2026-05-09,social,Ireland,35-44,false
+200183,reader.net,2026-05-10,referral,Canada,45-54,true
+200184,demo.org,2026-05-11,newsletter,Australia,55-64,true
+200185,example.com,2026-05-12,search,United Kingdom,65+,true
+200186,mail.com,2026-05-13,social,United States,18-24,true
+200187,news.test,2026-05-14,referral,Ireland,25-34,true
+200188,reader.net,2026-05-15,newsletter,Canada,35-44,true
+200189,demo.org,2026-05-16,search,Australia,45-54,true
+200190,example.com,2026-05-17,social,United Kingdom,55-64,false
+200191,mail.com,2026-05-18,referral,United States,65+,true
+200192,news.test,2026-05-19,newsletter,Ireland,18-24,false
+200193,reader.net,2026-05-20,search,Canada,25-34,false
+200194,demo.org,2026-05-21,social,Australia,35-44,true
+200195,example.com,2026-05-22,referral,United Kingdom,45-54,true
+200196,mail.com,2026-05-23,newsletter,United States,55-64,true
+200197,news.test,2026-05-24,search,Ireland,65+,true
+200198,reader.net,2026-05-25,social,Canada,18-24,true
+200199,demo.org,2026-05-26,referral,Australia,25-34,true
+200200,example.com,2026-05-27,newsletter,United Kingdom,35-44,true
+200201,mail.com,2026-05-28,search,United States,45-54,false
+200202,news.test,2026-05-29,social,Ireland,55-64,true
+200203,reader.net,2026-05-30,referral,Canada,65+,true
+200204,demo.org,2026-05-31,newsletter,Australia,18-24,true
+200205,example.com,2026-06-01,search,United Kingdom,25-34,true
+200206,mail.com,2026-06-02,social,United States,35-44,true
+200207,news.test,2026-06-03,referral,Ireland,45-54,false
+200208,reader.net,2026-06-04,newsletter,Canada,55-64,true
+200209,demo.org,2026-06-05,search,Australia,65+,true
+200210,example.com,2026-06-06,social,United Kingdom,18-24,true
+200211,mail.com,2026-06-07,referral,United States,25-34,true
+200212,news.test,2026-06-08,newsletter,Ireland,35-44,false
+200213,reader.net,2026-06-09,search,Canada,45-54,true
+200214,demo.org,2026-06-10,social,Australia,55-64,false
+200215,example.com,2026-06-11,referral,United Kingdom,65+,true
+200216,mail.com,2026-06-12,newsletter,United States,18-24,true
+200217,news.test,2026-06-13,search,Ireland,25-34,true
+200218,reader.net,2026-06-14,social,Canada,35-44,true
+200219,demo.org,2026-06-15,referral,Australia,45-54,true
+200220,example.com,2026-04-22,newsletter,United Kingdom,55-64,true
+200221,mail.com,2026-04-23,search,United States,65+,true
+200222,news.test,2026-04-24,social,Ireland,18-24,true
+200223,reader.net,2026-04-25,referral,Canada,25-34,true
+200224,demo.org,2026-04-26,newsletter,Australia,35-44,false
+200225,example.com,2026-04-27,search,United Kingdom,45-54,false
+200226,mail.com,2026-04-28,social,United States,55-64,true
+200227,news.test,2026-04-29,referral,Ireland,65+,true
+200228,reader.net,2026-04-30,newsletter,Canada,18-24,false
+200229,demo.org,2026-05-01,search,Australia,25-34,false
+200230,example.com,2026-05-02,social,United Kingdom,35-44,true
+200231,mail.com,2026-05-03,referral,United States,45-54,false
+200232,news.test,2026-05-04,newsletter,Ireland,55-64,true
+200233,reader.net,2026-05-05,search,Canada,65+,true
+200234,demo.org,2026-05-06,social,Australia,18-24,false
+200235,example.com,2026-05-07,referral,United Kingdom,25-34,true
+200236,mail.com,2026-05-08,newsletter,United States,35-44,true
+200237,news.test,2026-05-09,search,Ireland,45-54,true
+200238,reader.net,2026-05-10,social,Canada,55-64,true
+200239,demo.org,2026-05-11,referral,Australia,65+,true
+200240,example.com,2026-05-12,newsletter,United Kingdom,18-24,true
+200241,mail.com,2026-05-13,search,United States,25-34,true
+200242,news.test,2026-05-14,social,Ireland,35-44,false
+200243,reader.net,2026-05-15,referral,Canada,45-54,true
+200244,demo.org,2026-05-16,newsletter,Australia,55-64,false
+200245,example.com,2026-05-17,search,United Kingdom,65+,false
+200246,mail.com,2026-05-18,social,United States,18-24,true
+200247,news.test,2026-05-19,referral,Ireland,25-34,true
+200248,reader.net,2026-05-20,newsletter,Canada,35-44,true
+200249,demo.org,2026-05-21,search,Australia,45-54,true
+200250,example.com,2026-05-22,social,United Kingdom,55-64,true
+200251,mail.com,2026-05-23,referral,United States,65+,true
+200252,news.test,2026-05-24,newsletter,Ireland,18-24,false
+200253,reader.net,2026-05-25,search,Canada,25-34,true
+200254,demo.org,2026-05-26,social,Australia,35-44,false
+200255,example.com,2026-05-27,referral,United Kingdom,45-54,true
+200256,mail.com,2026-05-28,newsletter,United States,55-64,true
+200257,news.test,2026-05-29,search,Ireland,65+,false
+200258,reader.net,2026-05-30,social,Canada,18-24,false
+200259,demo.org,2026-05-31,referral,Australia,25-34,true
+200260,example.com,2026-06-01,newsletter,United Kingdom,35-44,true
+200261,mail.com,2026-06-02,search,United States,45-54,true
+200262,news.test,2026-06-03,social,Ireland,55-64,false
+200263,reader.net,2026-06-04,referral,Canada,65+,true
+200264,demo.org,2026-06-05,newsletter,Australia,18-24,true
+200265,example.com,2026-06-06,search,United Kingdom,25-34,true
+200266,mail.com,2026-06-07,social,United States,35-44,true
+200267,news.test,2026-06-08,referral,Ireland,45-54,false
+200268,reader.net,2026-06-09,newsletter,Canada,55-64,false
+200269,demo.org,2026-06-10,search,Australia,65+,false
+200270,example.com,2026-06-11,social,United Kingdom,18-24,false
+200271,mail.com,2026-06-12,referral,United States,25-34,true
+200272,news.test,2026-06-13,newsletter,Ireland,35-44,true
+200273,reader.net,2026-06-14,search,Canada,45-54,false
+200274,demo.org,2026-06-15,social,Australia,55-64,true
+200275,example.com,2026-04-22,referral,United Kingdom,65+,false
+200276,mail.com,2026-04-23,newsletter,United States,18-24,true
+200277,news.test,2026-04-24,search,Ireland,25-34,false
+200278,reader.net,2026-04-25,social,Canada,35-44,true
+200279,demo.org,2026-04-26,referral,Australia,45-54,false
+200280,example.com,2026-04-27,newsletter,United Kingdom,55-64,true
+200281,mail.com,2026-04-28,search,United States,65+,false
+200282,news.test,2026-04-29,social,Ireland,18-24,false
+200283,reader.net,2026-04-30,referral,Canada,25-34,true
+200284,demo.org,2026-05-01,newsletter,Australia,35-44,false
+200285,example.com,2026-05-02,search,United Kingdom,45-54,false
+200286,mail.com,2026-05-03,social,United States,55-64,true
+200287,news.test,2026-05-04,referral,Ireland,65+,false
+200288,reader.net,2026-05-05,newsletter,Canada,18-24,false
+200289,demo.org,2026-05-06,search,Australia,25-34,false
+200290,example.com,2026-05-07,social,United Kingdom,35-44,true
+200291,mail.com,2026-05-08,referral,United States,45-54,true
+200292,news.test,2026-05-09,newsletter,Ireland,55-64,true
+200293,reader.net,2026-05-10,search,Canada,65+,true
+200294,demo.org,2026-05-11,social,Australia,18-24,true
+200295,example.com,2026-05-12,referral,United Kingdom,25-34,true
+200296,mail.com,2026-05-13,newsletter,United States,35-44,true
+200297,news.test,2026-05-14,search,Ireland,45-54,true
+200298,reader.net,2026-05-15,social,Canada,55-64,true
+200299,demo.org,2026-05-16,referral,Australia,65+,true
+200300,example.com,2026-05-17,newsletter,United Kingdom,18-24,false
+200301,mail.com,2026-05-18,search,United States,25-34,false
+200302,news.test,2026-05-19,social,Ireland,35-44,true
+200303,reader.net,2026-05-20,referral,Canada,45-54,true
+200304,demo.org,2026-05-21,newsletter,Australia,55-64,false
+200305,example.com,2026-05-22,search,United Kingdom,65+,false
+200306,mail.com,2026-05-23,social,United States,18-24,false
+200307,news.test,2026-05-24,referral,Ireland,25-34,true
+200308,reader.net,2026-05-25,newsletter,Canada,35-44,false
+200309,demo.org,2026-05-26,search,Australia,45-54,true
+200310,example.com,2026-05-27,social,United Kingdom,55-64,true
+200311,mail.com,2026-05-28,referral,United States,65+,false
+200312,news.test,2026-05-29,newsletter,Ireland,18-24,true
+200313,reader.net,2026-05-30,search,Canada,25-34,true
+200314,demo.org,2026-05-31,social,Australia,35-44,true
+200315,example.com,2026-06-01,referral,United Kingdom,45-54,false
+200316,mail.com,2026-06-02,newsletter,United States,55-64,false
+200317,news.test,2026-06-03,search,Ireland,65+,false
+200318,reader.net,2026-06-04,social,Canada,18-24,true
+200319,demo.org,2026-06-05,referral,Australia,25-34,false
+200320,example.com,2026-06-06,newsletter,United Kingdom,35-44,true
+200321,mail.com,2026-06-07,search,United States,45-54,true
+200322,news.test,2026-06-08,social,Ireland,55-64,true
+200323,reader.net,2026-06-09,referral,Canada,65+,false
+200324,demo.org,2026-06-10,newsletter,Australia,18-24,true
+200325,example.com,2026-06-11,search,United Kingdom,25-34,false
+200326,mail.com,2026-06-12,social,United States,35-44,true
+200327,news.test,2026-06-13,referral,Ireland,45-54,true
+200328,reader.net,2026-06-14,newsletter,Canada,55-64,true
+200329,demo.org,2026-06-15,search,Australia,65+,false
+200330,example.com,2026-04-22,social,United Kingdom,18-24,false
+200331,mail.com,2026-04-23,referral,United States,25-34,true
+200332,news.test,2026-04-24,newsletter,Ireland,35-44,false
+200333,reader.net,2026-04-25,search,Canada,45-54,true
+200334,demo.org,2026-04-26,social,Australia,55-64,true
+200335,example.com,2026-04-27,referral,United Kingdom,65+,false
+200336,mail.com,2026-04-28,newsletter,United States,18-24,true
+200337,news.test,2026-04-29,search,Ireland,25-34,false
+200338,reader.net,2026-04-30,social,Canada,35-44,false
+200339,demo.org,2026-05-01,referral,Australia,45-54,true
+200340,example.com,2026-05-02,newsletter,United Kingdom,55-64,true
+200341,mail.com,2026-05-03,search,United States,65+,false
+200342,news.test,2026-05-04,social,Ireland,18-24,true
+200343,reader.net,2026-05-05,referral,Canada,25-34,true
+200344,demo.org,2026-05-06,newsletter,Australia,35-44,true
+200345,example.com,2026-05-07,search,United Kingdom,45-54,false
+200346,mail.com,2026-05-08,social,United States,55-64,true
+200347,news.test,2026-05-09,referral,Ireland,65+,true
+200348,reader.net,2026-05-10,newsletter,Canada,18-24,true
+200349,demo.org,2026-05-11,search,Australia,25-34,false
+200350,example.com,2026-05-12,social,United Kingdom,35-44,true
+200351,mail.com,2026-05-13,referral,United States,45-54,true
+200352,news.test,2026-05-14,newsletter,Ireland,55-64,true
+200353,reader.net,2026-05-15,search,Canada,65+,false
+200354,demo.org,2026-05-16,social,Australia,18-24,false
+200355,example.com,2026-05-17,referral,United Kingdom,25-34,false
+200356,mail.com,2026-05-18,newsletter,United States,35-44,true
+200357,news.test,2026-05-19,search,Ireland,45-54,true
+200358,reader.net,2026-05-20,social,Canada,55-64,true
+200359,demo.org,2026-05-21,referral,Australia,65+,true
+200360,example.com,2026-05-22,newsletter,United Kingdom,18-24,true
+200361,mail.com,2026-05-23,search,United States,25-34,false
+200362,news.test,2026-05-24,social,Ireland,35-44,false
+200363,reader.net,2026-05-25,referral,Canada,45-54,true
+200364,demo.org,2026-05-26,newsletter,Australia,55-64,false
+200365,example.com,2026-05-27,search,United Kingdom,65+,true
+200366,mail.com,2026-05-28,social,United States,18-24,false
+200367,news.test,2026-05-29,referral,Ireland,25-34,false
+200368,reader.net,2026-05-30,newsletter,Canada,35-44,true
+200369,demo.org,2026-05-31,search,Australia,45-54,true
+200370,example.com,2026-06-01,social,United Kingdom,55-64,true
+200371,mail.com,2026-06-02,referral,United States,65+,true
+200372,news.test,2026-06-03,newsletter,Ireland,18-24,true
+200373,reader.net,2026-06-04,search,Canada,25-34,false
+200374,demo.org,2026-06-05,social,Australia,35-44,false
+200375,example.com,2026-06-06,referral,United Kingdom,45-54,true
+200376,mail.com,2026-06-07,newsletter,United States,55-64,false
+200377,news.test,2026-06-08,search,Ireland,65+,true
+200378,reader.net,2026-06-09,social,Canada,18-24,true
+200379,demo.org,2026-06-10,referral,Australia,25-34,true
+200380,example.com,2026-06-11,newsletter,United Kingdom,35-44,true
+200381,mail.com,2026-06-12,search,United States,45-54,false
+200382,news.test,2026-06-13,social,Ireland,55-64,true
+200383,reader.net,2026-06-14,referral,Canada,65+,false
+200384,demo.org,2026-06-15,newsletter,Australia,18-24,true
+200385,example.com,2026-04-22,search,United Kingdom,25-34,true
+200386,mail.com,2026-04-23,social,United States,35-44,true
+200387,news.test,2026-04-24,referral,Ireland,45-54,true
+200388,reader.net,2026-04-25,newsletter,Canada,55-64,true
+200389,demo.org,2026-04-26,search,Australia,65+,true
+200390,example.com,2026-04-27,social,United Kingdom,18-24,true
+200391,mail.com,2026-04-28,referral,United States,25-34,false
+200392,news.test,2026-04-29,newsletter,Ireland,35-44,false
+200393,reader.net,2026-04-30,search,Canada,45-54,false
+200394,demo.org,2026-05-01,social,Australia,55-64,true
+200395,example.com,2026-05-02,referral,United Kingdom,65+,false
+200396,mail.com,2026-05-03,newsletter,United States,18-24,true
+200397,news.test,2026-05-04,search,Ireland,25-34,true
+200398,reader.net,2026-05-05,social,Canada,35-44,true
+200399,demo.org,2026-05-06,referral,Australia,45-54,true
+200400,example.com,2026-05-07,newsletter,United Kingdom,55-64,true
+200401,mail.com,2026-05-08,search,United States,65+,true
+200402,news.test,2026-05-09,social,Ireland,18-24,true
+200403,reader.net,2026-05-10,referral,Canada,25-34,true
+200404,demo.org,2026-05-11,newsletter,Australia,35-44,true
+200405,example.com,2026-05-12,search,United Kingdom,45-54,true
+200406,mail.com,2026-05-13,social,United States,55-64,true
+200407,news.test,2026-05-14,referral,Ireland,65+,false
+200408,reader.net,2026-05-15,newsletter,Canada,18-24,false
+200409,demo.org,2026-05-16,search,Australia,25-34,true
+200410,example.com,2026-05-17,social,United Kingdom,35-44,true
+200411,mail.com,2026-05-18,referral,United States,45-54,true
+200412,news.test,2026-05-19,newsletter,Ireland,55-64,true
+200413,reader.net,2026-05-20,search,Canada,65+,false
+200414,demo.org,2026-05-21,social,Australia,18-24,true
+200415,example.com,2026-05-22,referral,United Kingdom,25-34,false
+200416,mail.com,2026-05-23,newsletter,United States,35-44,false
+200417,news.test,2026-05-24,search,Ireland,45-54,true
+200418,reader.net,2026-05-25,social,Canada,55-64,true
+200419,demo.org,2026-05-26,referral,Australia,65+,true
+200420,example.com,2026-05-27,newsletter,United Kingdom,18-24,true
+200421,mail.com,2026-05-28,search,United States,25-34,false
+200422,news.test,2026-05-29,social,Ireland,35-44,true
+200423,reader.net,2026-05-30,referral,Canada,45-54,true
+200424,demo.org,2026-05-31,newsletter,Australia,55-64,false
+200425,example.com,2026-06-01,search,United Kingdom,65+,true
+200426,mail.com,2026-06-02,social,United States,18-24,true
+200427,news.test,2026-06-03,referral,Ireland,25-34,true
+200428,reader.net,2026-06-04,newsletter,Canada,35-44,false
+200429,demo.org,2026-06-05,search,Australia,45-54,true
+200430,example.com,2026-06-06,social,United Kingdom,55-64,true
+200431,mail.com,2026-06-07,referral,United States,65+,true
+200432,news.test,2026-06-08,newsletter,Ireland,18-24,true
+200433,reader.net,2026-06-09,search,Canada,25-34,false
+200434,demo.org,2026-06-10,social,Australia,35-44,true
+200435,example.com,2026-06-11,referral,United Kingdom,45-54,false
+200436,mail.com,2026-06-12,newsletter,United States,55-64,true
+200437,news.test,2026-06-13,search,Ireland,65+,true
+200438,reader.net,2026-06-14,social,Canada,18-24,true
+200439,demo.org,2026-06-15,referral,Australia,25-34,true
+200440,example.com,2026-04-22,newsletter,United Kingdom,35-44,true
+200441,mail.com,2026-04-23,search,United States,45-54,false
+200442,news.test,2026-04-24,social,Ireland,55-64,true
+200443,reader.net,2026-04-25,referral,Canada,65+,false
+200444,demo.org,2026-04-26,newsletter,Australia,18-24,false
+200445,example.com,2026-04-27,search,United Kingdom,25-34,true
+200446,mail.com,2026-04-28,social,United States,35-44,true
+200447,news.test,2026-04-29,referral,Ireland,45-54,true
+200448,reader.net,2026-04-30,newsletter,Canada,55-64,false
+200449,demo.org,2026-05-01,search,Australia,65+,false
+200450,example.com,2026-05-02,social,United Kingdom,18-24,true
+200451,mail.com,2026-05-03,referral,United States,25-34,false
+200452,news.test,2026-05-04,newsletter,Ireland,35-44,true
+200453,reader.net,2026-05-05,search,Canada,45-54,true
+200454,demo.org,2026-05-06,social,Australia,55-64,false
+200455,example.com,2026-05-07,referral,United Kingdom,65+,true
+200456,mail.com,2026-05-08,newsletter,United States,18-24,false
+200457,news.test,2026-05-09,search,Ireland,25-34,true
+200458,reader.net,2026-05-10,social,Canada,35-44,false
+200459,demo.org,2026-05-11,referral,Australia,45-54,true
+200460,example.com,2026-05-12,newsletter,United Kingdom,55-64,false
+200461,mail.com,2026-05-13,search,United States,65+,false
+200462,news.test,2026-05-14,social,Ireland,18-24,false
+200463,reader.net,2026-05-15,referral,Canada,25-34,true
+200464,demo.org,2026-05-16,newsletter,Australia,35-44,true
+200465,example.com,2026-05-17,search,United Kingdom,45-54,true
+200466,mail.com,2026-05-18,social,United States,55-64,false
+200467,news.test,2026-05-19,referral,Ireland,65+,false
+200468,reader.net,2026-05-20,newsletter,Canada,18-24,false
+200469,demo.org,2026-05-21,search,Australia,25-34,true
+200470,example.com,2026-05-22,social,United Kingdom,35-44,true
+200471,mail.com,2026-05-23,referral,United States,45-54,true
+200472,news.test,2026-05-24,newsletter,Ireland,55-64,true
+200473,reader.net,2026-05-25,search,Canada,65+,false
+200474,demo.org,2026-05-26,social,Australia,18-24,true
+200475,example.com,2026-05-27,referral,United Kingdom,25-34,true
+200476,mail.com,2026-05-28,newsletter,United States,35-44,false
+200477,news.test,2026-05-29,search,Ireland,45-54,true
+200478,reader.net,2026-05-30,social,Canada,55-64,false
+200479,demo.org,2026-05-31,referral,Australia,65+,false
+200480,example.com,2026-06-01,newsletter,United Kingdom,18-24,true
+200481,mail.com,2026-06-02,search,United States,25-34,false
+200482,news.test,2026-06-03,social,Ireland,35-44,true
+200483,reader.net,2026-06-04,referral,Canada,45-54,true
+200484,demo.org,2026-06-05,newsletter,Australia,55-64,true
+200485,example.com,2026-06-06,search,United Kingdom,65+,false
+200486,mail.com,2026-06-07,social,United States,18-24,false
+200487,news.test,2026-06-08,referral,Ireland,25-34,true
+200488,reader.net,2026-06-09,newsletter,Canada,35-44,true
+200489,demo.org,2026-06-10,search,Australia,45-54,true
+200490,example.com,2026-06-11,social,United Kingdom,55-64,true
+200491,mail.com,2026-06-12,referral,United States,65+,false
+200492,news.test,2026-06-13,newsletter,Ireland,18-24,true
+200493,reader.net,2026-06-14,search,Canada,25-34,true
+200494,demo.org,2026-06-15,social,Australia,35-44,false
+200495,example.com,2026-04-22,referral,United Kingdom,45-54,false
+200496,mail.com,2026-04-23,newsletter,United States,55-64,true
+200497,news.test,2026-04-24,search,Ireland,65+,true
+200498,reader.net,2026-04-25,social,Canada,18-24,false
+200499,demo.org,2026-04-26,referral,Australia,25-34,false
+200500,example.com,2026-04-27,newsletter,United Kingdom,35-44,true
+200501,mail.com,2026-04-28,search,United States,45-54,false
+200502,news.test,2026-04-29,social,Ireland,55-64,false
+200503,reader.net,2026-04-30,referral,Canada,65+,false
+200504,demo.org,2026-05-01,newsletter,Australia,18-24,true
+200505,example.com,2026-05-02,search,United Kingdom,25-34,true
+200506,mail.com,2026-05-03,social,United States,35-44,true
+200507,news.test,2026-05-04,referral,Ireland,45-54,false
+200508,reader.net,2026-05-05,newsletter,Canada,55-64,false
+200509,demo.org,2026-05-06,search,Australia,65+,true
+200510,example.com,2026-05-07,social,United Kingdom,18-24,false
+200511,mail.com,2026-05-08,referral,United States,25-34,false
+200512,news.test,2026-05-09,newsletter,Ireland,35-44,false
+200513,reader.net,2026-05-10,search,Canada,45-54,false
+200514,demo.org,2026-05-11,social,Australia,55-64,false
+200515,example.com,2026-05-12,referral,United Kingdom,65+,true
+200516,mail.com,2026-05-13,newsletter,United States,18-24,false
+200517,news.test,2026-05-14,search,Ireland,25-34,false
+200518,reader.net,2026-05-15,social,Canada,35-44,true
+200519,demo.org,2026-05-16,referral,Australia,45-54,true
+200520,example.com,2026-05-17,newsletter,United Kingdom,55-64,true
+200521,mail.com,2026-05-18,search,United States,65+,true
+200522,news.test,2026-05-19,social,Ireland,18-24,true
+200523,reader.net,2026-05-20,referral,Canada,25-34,false
+200524,demo.org,2026-05-21,newsletter,Australia,35-44,false
+200525,example.com,2026-05-22,search,United Kingdom,45-54,false
+200526,mail.com,2026-05-23,social,United States,55-64,false
+200527,news.test,2026-05-24,referral,Ireland,65+,true
+200528,reader.net,2026-05-25,newsletter,Canada,18-24,false
+200529,demo.org,2026-05-26,search,Australia,25-34,false
+200530,example.com,2026-05-27,social,United Kingdom,35-44,true
+200531,mail.com,2026-05-28,referral,United States,45-54,false
+200532,news.test,2026-05-29,newsletter,Ireland,55-64,true
+200533,reader.net,2026-05-30,search,Canada,65+,true
+200534,demo.org,2026-05-31,social,Australia,18-24,false
+200535,example.com,2026-06-01,referral,United Kingdom,25-34,true
+200536,mail.com,2026-06-02,newsletter,United States,35-44,false
+200537,news.test,2026-06-03,search,Ireland,45-54,false
+200538,reader.net,2026-06-04,social,Canada,55-64,false
+200539,demo.org,2026-06-05,referral,Australia,65+,true
+200540,example.com,2026-06-06,newsletter,United Kingdom,18-24,false
+200541,mail.com,2026-06-07,search,United States,25-34,false
+200542,news.test,2026-06-08,social,Ireland,35-44,true
+200543,reader.net,2026-06-09,referral,Canada,45-54,true
+200544,demo.org,2026-06-10,newsletter,Australia,55-64,true
+200545,example.com,2026-06-11,search,United Kingdom,65+,false
+200546,mail.com,2026-06-12,social,United States,18-24,false
+200547,news.test,2026-06-13,referral,Ireland,25-34,true
+200548,reader.net,2026-06-14,newsletter,Canada,35-44,false
+200549,demo.org,2026-06-15,search,Australia,45-54,false
+200550,example.com,2026-04-22,social,United Kingdom,55-64,false
+200551,mail.com,2026-04-23,referral,United States,65+,true
+200552,news.test,2026-04-24,newsletter,Ireland,18-24,true
+200553,reader.net,2026-04-25,search,Canada,25-34,true
+200554,demo.org,2026-04-26,social,Australia,35-44,true
+200555,example.com,2026-04-27,referral,United Kingdom,45-54,true
+200556,mail.com,2026-04-28,newsletter,United States,55-64,true
+200557,news.test,2026-04-29,search,Ireland,65+,true
+200558,reader.net,2026-04-30,social,Canada,18-24,true
+200559,demo.org,2026-05-01,referral,Australia,25-34,true
+200560,example.com,2026-05-02,newsletter,United Kingdom,35-44,true
+200561,mail.com,2026-05-03,search,United States,45-54,true
+200562,news.test,2026-05-04,social,Ireland,55-64,false
+200563,reader.net,2026-05-05,referral,Canada,65+,false
+200564,demo.org,2026-05-06,newsletter,Australia,18-24,true
+200565,example.com,2026-05-07,search,United Kingdom,25-34,true
+200566,mail.com,2026-05-08,social,United States,35-44,true
+200567,news.test,2026-05-09,referral,Ireland,45-54,false
+200568,reader.net,2026-05-10,newsletter,Canada,55-64,true
+200569,demo.org,2026-05-11,search,Australia,65+,true
+200570,example.com,2026-05-12,social,United Kingdom,18-24,true
+200571,mail.com,2026-05-13,referral,United States,25-34,true
+200572,news.test,2026-05-14,newsletter,Ireland,35-44,false
+200573,reader.net,2026-05-15,search,Canada,45-54,false
+200574,demo.org,2026-05-16,social,Australia,55-64,false
+200575,example.com,2026-05-17,referral,United Kingdom,65+,false
+200576,mail.com,2026-05-18,newsletter,United States,18-24,true
+200577,news.test,2026-05-19,search,Ireland,25-34,true
+200578,reader.net,2026-05-20,social,Canada,35-44,true
+200579,demo.org,2026-05-21,referral,Australia,45-54,true
+200580,example.com,2026-05-22,newsletter,United Kingdom,55-64,true
+200581,mail.com,2026-05-23,search,United States,65+,true
+200582,news.test,2026-05-24,social,Ireland,18-24,false
+200583,reader.net,2026-05-25,referral,Canada,25-34,false
+200584,demo.org,2026-05-26,newsletter,Australia,35-44,true
+200585,example.com,2026-05-27,search,United Kingdom,45-54,true
+200586,mail.com,2026-05-28,social,United States,55-64,true
+200587,news.test,2026-05-29,referral,Ireland,65+,false
+200588,reader.net,2026-05-30,newsletter,Canada,18-24,true
+200589,demo.org,2026-05-31,search,Australia,25-34,true
+200590,example.com,2026-06-01,social,United Kingdom,35-44,false
+200591,mail.com,2026-06-02,referral,United States,45-54,true
+200592,news.test,2026-06-03,newsletter,Ireland,55-64,true
+200593,reader.net,2026-06-04,search,Canada,65+,false
+200594,demo.org,2026-06-05,social,Australia,18-24,true
+200595,example.com,2026-06-06,referral,United Kingdom,25-34,false
+200596,mail.com,2026-06-07,newsletter,United States,35-44,true
+200597,news.test,2026-06-08,search,Ireland,45-54,true
+200598,reader.net,2026-06-09,social,Canada,55-64,false
+200599,demo.org,2026-06-10,referral,Australia,65+,true
+200600,example.com,2026-06-11,newsletter,United Kingdom,18-24,false
+200601,mail.com,2026-06-12,search,United States,25-34,true
+200602,news.test,2026-06-13,social,Ireland,35-44,false
+200603,reader.net,2026-06-14,referral,Canada,45-54,false
+200604,demo.org,2026-06-15,newsletter,Australia,55-64,true
+200605,example.com,2026-04-22,search,United Kingdom,65+,true
+200606,mail.com,2026-04-23,social,United States,18-24,true
+200607,news.test,2026-04-24,referral,Ireland,25-34,true
+200608,reader.net,2026-04-25,newsletter,Canada,35-44,false
+200609,demo.org,2026-04-26,search,Australia,45-54,false
+200610,example.com,2026-04-27,social,United Kingdom,55-64,false
+200611,mail.com,2026-04-28,referral,United States,65+,true
+200612,news.test,2026-04-29,newsletter,Ireland,18-24,true
+200613,reader.net,2026-04-30,search,Canada,25-34,true
+200614,demo.org,2026-05-01,social,Australia,35-44,false
+200615,example.com,2026-05-02,referral,United Kingdom,45-54,true
+200616,mail.com,2026-05-03,newsletter,United States,55-64,false
+200617,news.test,2026-05-04,search,Ireland,65+,true
+200618,reader.net,2026-05-05,social,Canada,18-24,true
+200619,demo.org,2026-05-06,referral,Australia,25-34,true
+200620,example.com,2026-05-07,newsletter,United Kingdom,35-44,true
+200621,mail.com,2026-05-08,search,United States,45-54,false
+200622,news.test,2026-05-09,social,Ireland,55-64,true
+200623,reader.net,2026-05-10,referral,Canada,65+,true
+200624,demo.org,2026-05-11,newsletter,Australia,18-24,true
+200625,example.com,2026-05-12,search,United Kingdom,25-34,true
+200626,mail.com,2026-05-13,social,United States,35-44,false
+200627,news.test,2026-05-14,referral,Ireland,45-54,true
+200628,reader.net,2026-05-15,newsletter,Canada,55-64,true
+200629,demo.org,2026-05-16,search,Australia,65+,true
+200630,example.com,2026-05-17,social,United Kingdom,18-24,true
+200631,mail.com,2026-05-18,referral,United States,25-34,false
+200632,news.test,2026-05-19,newsletter,Ireland,35-44,false
+200633,reader.net,2026-05-20,search,Canada,45-54,true
+200634,demo.org,2026-05-21,social,Australia,55-64,true
+200635,example.com,2026-05-22,referral,United Kingdom,65+,false
+200636,mail.com,2026-05-23,newsletter,United States,18-24,false
+200637,news.test,2026-05-24,search,Ireland,25-34,true
+200638,reader.net,2026-05-25,social,Canada,35-44,true
+200639,demo.org,2026-05-26,referral,Australia,45-54,false
+200640,example.com,2026-05-27,newsletter,United Kingdom,55-64,true
+200641,mail.com,2026-05-28,search,United States,65+,true
+200642,news.test,2026-05-29,social,Ireland,18-24,true
+200643,reader.net,2026-05-30,referral,Canada,25-34,true
+200644,demo.org,2026-05-31,newsletter,Australia,35-44,false
+200645,example.com,2026-06-01,search,United Kingdom,45-54,false
+200646,mail.com,2026-06-02,social,United States,55-64,true
+200647,news.test,2026-06-03,referral,Ireland,65+,true
+200648,reader.net,2026-06-04,newsletter,Canada,18-24,true
+200649,demo.org,2026-06-05,search,Australia,25-34,false
+200650,example.com,2026-06-06,social,United Kingdom,35-44,false
+200651,mail.com,2026-06-07,referral,United States,45-54,false
+200652,news.test,2026-06-08,newsletter,Ireland,55-64,true
+200653,reader.net,2026-06-09,search,Canada,65+,true
+200654,demo.org,2026-06-10,social,Australia,18-24,false
+200655,example.com,2026-06-11,referral,United Kingdom,25-34,true
+200656,mail.com,2026-06-12,newsletter,United States,35-44,true
+200657,news.test,2026-06-13,search,Ireland,45-54,false
+200658,reader.net,2026-06-14,social,Canada,55-64,true
+200659,demo.org,2026-06-15,referral,Australia,65+,true
+200660,example.com,2026-04-22,newsletter,United Kingdom,18-24,true
+200661,mail.com,2026-04-23,search,United States,25-34,false
+200662,news.test,2026-04-24,social,Ireland,35-44,false
+200663,reader.net,2026-04-25,referral,Canada,45-54,true
+200664,demo.org,2026-04-26,newsletter,Australia,55-64,true
+200665,example.com,2026-04-27,search,United Kingdom,65+,true
+200666,mail.com,2026-04-28,social,United States,18-24,true
+200667,news.test,2026-04-29,referral,Ireland,25-34,true
+200668,reader.net,2026-04-30,newsletter,Canada,35-44,true
+200669,demo.org,2026-05-01,search,Australia,45-54,true
+200670,example.com,2026-05-02,social,United Kingdom,55-64,false
+200671,mail.com,2026-05-03,referral,United States,65+,true
+200672,news.test,2026-05-04,newsletter,Ireland,18-24,true
+200673,reader.net,2026-05-05,search,Canada,25-34,false
+200674,demo.org,2026-05-06,social,Australia,35-44,false
+200675,example.com,2026-05-07,referral,United Kingdom,45-54,false
+200676,mail.com,2026-05-08,newsletter,United States,55-64,true
+200677,news.test,2026-05-09,search,Ireland,65+,false
+200678,reader.net,2026-05-10,social,Canada,18-24,true
+200679,demo.org,2026-05-11,referral,Australia,25-34,true
+200680,example.com,2026-05-12,newsletter,United Kingdom,35-44,true
+200681,mail.com,2026-05-13,search,United States,45-54,true
+200682,news.test,2026-05-14,social,Ireland,55-64,false
+200683,reader.net,2026-05-15,referral,Canada,65+,false
+200684,demo.org,2026-05-16,newsletter,Australia,18-24,true
+200685,example.com,2026-05-17,search,United Kingdom,25-34,true
+200686,mail.com,2026-05-18,social,United States,35-44,true
+200687,news.test,2026-05-19,referral,Ireland,45-54,false
+200688,reader.net,2026-05-20,newsletter,Canada,55-64,true
+200689,demo.org,2026-05-21,search,Australia,65+,true
+200690,example.com,2026-05-22,social,United Kingdom,18-24,false
+200691,mail.com,2026-05-23,referral,United States,25-34,false
+200692,news.test,2026-05-24,newsletter,Ireland,35-44,false
+200693,reader.net,2026-05-25,search,Canada,45-54,true
+200694,demo.org,2026-05-26,social,Australia,55-64,false
+200695,example.com,2026-05-27,referral,United Kingdom,65+,true
+200696,mail.com,2026-05-28,newsletter,United States,18-24,false
+200697,news.test,2026-05-29,search,Ireland,25-34,true
+200698,reader.net,2026-05-30,social,Canada,35-44,true
+200699,demo.org,2026-05-31,referral,Australia,45-54,true
+200700,example.com,2026-06-01,newsletter,United Kingdom,55-64,false
+200701,mail.com,2026-06-02,search,United States,65+,true
+200702,news.test,2026-06-03,social,Ireland,18-24,false
+200703,reader.net,2026-06-04,referral,Canada,25-34,true
+200704,demo.org,2026-06-05,newsletter,Australia,35-44,false
+200705,example.com,2026-06-06,search,United Kingdom,45-54,false
+200706,mail.com,2026-06-07,social,United States,55-64,false
+200707,news.test,2026-06-08,referral,Ireland,65+,true
+200708,reader.net,2026-06-09,newsletter,Canada,18-24,true
+200709,demo.org,2026-06-10,search,Australia,25-34,false
+200710,example.com,2026-06-11,social,United Kingdom,35-44,true
+200711,mail.com,2026-06-12,referral,United States,45-54,false
+200712,news.test,2026-06-13,newsletter,Ireland,55-64,true
+200713,reader.net,2026-06-14,search,Canada,65+,true
+200714,demo.org,2026-06-15,social,Australia,18-24,false
+200715,example.com,2026-04-22,referral,United Kingdom,25-34,true
+200716,mail.com,2026-04-23,newsletter,United States,35-44,true
+200717,news.test,2026-04-24,search,Ireland,45-54,true
+200718,reader.net,2026-04-25,social,Canada,55-64,true
+200719,demo.org,2026-04-26,referral,Australia,65+,true
+200720,example.com,2026-04-27,newsletter,United Kingdom,18-24,false
+200721,mail.com,2026-04-28,search,United States,25-34,false
+200722,news.test,2026-04-29,social,Ireland,35-44,false
+200723,reader.net,2026-04-30,referral,Canada,45-54,true
+200724,demo.org,2026-05-01,newsletter,Australia,55-64,true
+200725,example.com,2026-05-02,search,United Kingdom,65+,true
+200726,mail.com,2026-05-03,social,United States,18-24,true
+200727,news.test,2026-05-04,referral,Ireland,25-34,true
+200728,reader.net,2026-05-05,newsletter,Canada,35-44,false
+200729,demo.org,2026-05-06,search,Australia,45-54,false
+200730,example.com,2026-05-07,social,United Kingdom,55-64,true
+200731,mail.com,2026-05-08,referral,United States,65+,true
+200732,news.test,2026-05-09,newsletter,Ireland,18-24,false
+200733,reader.net,2026-05-10,search,Canada,25-34,false
+200734,demo.org,2026-05-11,social,Australia,35-44,false
+200735,example.com,2026-05-12,referral,United Kingdom,45-54,false
+200736,mail.com,2026-05-13,newsletter,United States,55-64,true
+200737,news.test,2026-05-14,search,Ireland,65+,false
+200738,reader.net,2026-05-15,social,Canada,18-24,true
+200739,demo.org,2026-05-16,referral,Australia,25-34,false
+200740,example.com,2026-05-17,newsletter,United Kingdom,35-44,true
+200741,mail.com,2026-05-18,search,United States,45-54,true
+200742,news.test,2026-05-19,social,Ireland,55-64,false
+200743,reader.net,2026-05-20,referral,Canada,65+,false
+200744,demo.org,2026-05-21,newsletter,Australia,18-24,true
+200745,example.com,2026-05-22,search,United Kingdom,25-34,true
+200746,mail.com,2026-05-23,social,United States,35-44,false
+200747,news.test,2026-05-24,referral,Ireland,45-54,true
+200748,reader.net,2026-05-25,newsletter,Canada,55-64,false
+200749,demo.org,2026-05-26,search,Australia,65+,true
+200750,example.com,2026-05-27,social,United Kingdom,18-24,true
+200751,mail.com,2026-05-28,referral,United States,25-34,false
+200752,news.test,2026-05-29,newsletter,Ireland,35-44,true
+200753,reader.net,2026-05-30,search,Canada,45-54,false
+200754,demo.org,2026-05-31,social,Australia,55-64,false
+200755,example.com,2026-06-01,referral,United Kingdom,65+,true
+200756,mail.com,2026-06-02,newsletter,United States,18-24,true
+200757,news.test,2026-06-03,search,Ireland,25-34,true
+200758,reader.net,2026-06-04,social,Canada,35-44,true
+200759,demo.org,2026-06-05,referral,Australia,45-54,false
+200760,example.com,2026-06-06,newsletter,United Kingdom,55-64,true
+200761,mail.com,2026-06-07,search,United States,65+,false
+200762,news.test,2026-06-08,social,Ireland,18-24,true
+200763,reader.net,2026-06-09,referral,Canada,25-34,false
+200764,demo.org,2026-06-10,newsletter,Australia,35-44,true
+200765,example.com,2026-06-11,search,United Kingdom,45-54,true
+200766,mail.com,2026-06-12,social,United States,55-64,false
+200767,news.test,2026-06-13,referral,Ireland,65+,true
+200768,reader.net,2026-06-14,newsletter,Canada,18-24,true
+200769,demo.org,2026-06-15,search,Australia,25-34,true
+200770,example.com,2026-04-22,social,United Kingdom,35-44,false
+200771,mail.com,2026-04-23,referral,United States,45-54,true
+200772,news.test,2026-04-24,newsletter,Ireland,55-64,true
+200773,reader.net,2026-04-25,search,Canada,65+,false
+200774,demo.org,2026-04-26,social,Australia,18-24,false
+200775,example.com,2026-04-27,referral,United Kingdom,25-34,true
+200776,mail.com,2026-04-28,newsletter,United States,35-44,false
+200777,news.test,2026-04-29,search,Ireland,45-54,true
+200778,reader.net,2026-04-30,social,Canada,55-64,true
+200779,demo.org,2026-05-01,referral,Australia,65+,true
+200780,example.com,2026-05-02,newsletter,United Kingdom,18-24,false
+200781,mail.com,2026-05-03,search,United States,25-34,true
+200782,news.test,2026-05-04,social,Ireland,35-44,false
+200783,reader.net,2026-05-05,referral,Canada,45-54,true
+200784,demo.org,2026-05-06,newsletter,Australia,55-64,true
+200785,example.com,2026-05-07,search,United Kingdom,65+,true
+200786,mail.com,2026-05-08,social,United States,18-24,true
+200787,news.test,2026-05-09,referral,Ireland,25-34,true
+200788,reader.net,2026-05-10,newsletter,Canada,35-44,true
+200789,demo.org,2026-05-11,search,Australia,45-54,false
+200790,example.com,2026-05-12,social,United Kingdom,55-64,true
+200791,mail.com,2026-05-13,referral,United States,65+,true
+200792,news.test,2026-05-14,newsletter,Ireland,18-24,false
+200793,reader.net,2026-05-15,search,Canada,25-34,true
+200794,demo.org,2026-05-16,social,Australia,35-44,false
+200795,example.com,2026-05-17,referral,United Kingdom,45-54,true
+200796,mail.com,2026-05-18,newsletter,United States,55-64,false
+200797,news.test,2026-05-19,search,Ireland,65+,true
+200798,reader.net,2026-05-20,social,Canada,18-24,true
+200799,demo.org,2026-05-21,referral,Australia,25-34,false
+200800,example.com,2026-05-22,newsletter,United Kingdom,35-44,true
+200801,mail.com,2026-05-23,search,United States,45-54,false
+200802,news.test,2026-05-24,social,Ireland,55-64,false
+200803,reader.net,2026-05-25,referral,Canada,65+,true
+200804,demo.org,2026-05-26,newsletter,Australia,18-24,true
+200805,example.com,2026-05-27,search,United Kingdom,25-34,true
+200806,mail.com,2026-05-28,social,United States,35-44,false
+200807,news.test,2026-05-29,referral,Ireland,45-54,true
+200808,reader.net,2026-05-30,newsletter,Canada,55-64,false
+200809,demo.org,2026-05-31,search,Australia,65+,false
+200810,example.com,2026-06-01,social,United Kingdom,18-24,true
+200811,mail.com,2026-06-02,referral,United States,25-34,true
+200812,news.test,2026-06-03,newsletter,Ireland,35-44,true
+200813,reader.net,2026-06-04,search,Canada,45-54,true
+200814,demo.org,2026-06-05,social,Australia,55-64,false
+200815,example.com,2026-06-06,referral,United Kingdom,65+,true
+200816,mail.com,2026-06-07,newsletter,United States,18-24,true
+200817,news.test,2026-06-08,search,Ireland,25-34,false
+200818,reader.net,2026-06-09,social,Canada,35-44,true
+200819,demo.org,2026-06-10,referral,Australia,45-54,true
+200820,example.com,2026-06-11,newsletter,United Kingdom,55-64,true
+200821,mail.com,2026-06-12,search,United States,65+,false
+200822,news.test,2026-06-13,social,Ireland,18-24,false
+200823,reader.net,2026-06-14,referral,Canada,25-34,true
+200824,demo.org,2026-06-15,newsletter,Australia,35-44,true
+200825,example.com,2026-04-22,search,United Kingdom,45-54,false
+200826,mail.com,2026-04-23,social,United States,55-64,true
+200827,news.test,2026-04-24,referral,Ireland,65+,false
+200828,reader.net,2026-04-25,newsletter,Canada,18-24,true
+200829,demo.org,2026-04-26,search,Australia,25-34,false
+200830,example.com,2026-04-27,social,United Kingdom,35-44,false
+200831,mail.com,2026-04-28,referral,United States,45-54,true
+200832,news.test,2026-04-29,newsletter,Ireland,55-64,false
+200833,reader.net,2026-04-30,search,Canada,65+,false
+200834,demo.org,2026-05-01,social,Australia,18-24,true
+200835,example.com,2026-05-02,referral,United Kingdom,25-34,false
+200836,mail.com,2026-05-03,newsletter,United States,35-44,true
+200837,news.test,2026-05-04,search,Ireland,45-54,false
+200838,reader.net,2026-05-05,social,Canada,55-64,true
+200839,demo.org,2026-05-06,referral,Australia,65+,false
+200840,example.com,2026-05-07,newsletter,United Kingdom,18-24,true
+200841,mail.com,2026-05-08,search,United States,25-34,true
+200842,news.test,2026-05-09,social,Ireland,35-44,true
+200843,reader.net,2026-05-10,referral,Canada,45-54,true
+200844,demo.org,2026-05-11,newsletter,Australia,55-64,false
+200845,example.com,2026-05-12,search,United Kingdom,65+,true
+200846,mail.com,2026-05-13,social,United States,18-24,true
+200847,news.test,2026-05-14,referral,Ireland,25-34,true
+200848,reader.net,2026-05-15,newsletter,Canada,35-44,true
+200849,demo.org,2026-05-16,search,Australia,45-54,true
+200850,example.com,2026-05-17,social,United Kingdom,55-64,false
+200851,mail.com,2026-05-18,referral,United States,65+,true
+200852,news.test,2026-05-19,newsletter,Ireland,18-24,false
+200853,reader.net,2026-05-20,search,Canada,25-34,true
+200854,demo.org,2026-05-21,social,Australia,35-44,true
+200855,example.com,2026-05-22,referral,United Kingdom,45-54,true
+200856,mail.com,2026-05-23,newsletter,United States,55-64,true
+200857,news.test,2026-05-24,search,Ireland,65+,false
+200858,reader.net,2026-05-25,social,Canada,18-24,false
+200859,demo.org,2026-05-26,referral,Australia,25-34,true
+200860,example.com,2026-05-27,newsletter,United Kingdom,35-44,false
+200861,mail.com,2026-05-28,search,United States,45-54,true
+200862,news.test,2026-05-29,social,Ireland,55-64,true
+200863,reader.net,2026-05-30,referral,Canada,65+,true
+200864,demo.org,2026-05-31,newsletter,Australia,18-24,false
+200865,example.com,2026-06-01,search,United Kingdom,25-34,true
+200866,mail.com,2026-06-02,social,United States,35-44,false
+200867,news.test,2026-06-03,referral,Ireland,45-54,true
+200868,reader.net,2026-06-04,newsletter,Canada,55-64,true
+200869,demo.org,2026-06-05,search,Australia,65+,true
+200870,example.com,2026-06-06,social,United Kingdom,18-24,true
+200871,mail.com,2026-06-07,referral,United States,25-34,true
+200872,news.test,2026-06-08,newsletter,Ireland,35-44,true
+200873,reader.net,2026-06-09,search,Canada,45-54,true
+200874,demo.org,2026-06-10,social,Australia,55-64,false
+200875,example.com,2026-06-11,referral,United Kingdom,65+,true
+200876,mail.com,2026-06-12,newsletter,United States,18-24,false
+200877,news.test,2026-06-13,search,Ireland,25-34,true
+200878,reader.net,2026-06-14,social,Canada,35-44,true
+200879,demo.org,2026-06-15,referral,Australia,45-54,true
+200880,example.com,2026-04-22,newsletter,United Kingdom,55-64,true
+200881,mail.com,2026-04-23,search,United States,65+,true
+200882,news.test,2026-04-24,social,Ireland,18-24,true
+200883,reader.net,2026-04-25,referral,Canada,25-34,true
+200884,demo.org,2026-04-26,newsletter,Australia,35-44,true
+200885,example.com,2026-04-27,search,United Kingdom,45-54,false
+200886,mail.com,2026-04-28,social,United States,55-64,false
+200887,news.test,2026-04-29,referral,Ireland,65+,false
+200888,reader.net,2026-04-30,newsletter,Canada,18-24,false
+200889,demo.org,2026-05-01,search,Australia,25-34,true
+200890,example.com,2026-05-02,social,United Kingdom,35-44,false
+200891,mail.com,2026-05-03,referral,United States,45-54,true
+200892,news.test,2026-05-04,newsletter,Ireland,55-64,false
+200893,reader.net,2026-05-05,search,Canada,65+,false
+200894,demo.org,2026-05-06,social,Australia,18-24,true
+200895,example.com,2026-05-07,referral,United Kingdom,25-34,true
+200896,mail.com,2026-05-08,newsletter,United States,35-44,true
+200897,news.test,2026-05-09,search,Ireland,45-54,false
+200898,reader.net,2026-05-10,social,Canada,55-64,true
+200899,demo.org,2026-05-11,referral,Australia,65+,true
+200900,example.com,2026-05-12,newsletter,United Kingdom,18-24,false
+200901,mail.com,2026-05-13,search,United States,25-34,true
+200902,news.test,2026-05-14,social,Ireland,35-44,true
+200903,reader.net,2026-05-15,referral,Canada,45-54,true
+200904,demo.org,2026-05-16,newsletter,Australia,55-64,false
+200905,example.com,2026-05-17,search,United Kingdom,65+,false
+200906,mail.com,2026-05-18,social,United States,18-24,false
+200907,news.test,2026-05-19,referral,Ireland,25-34,false
+200908,reader.net,2026-05-20,newsletter,Canada,35-44,true
+200909,demo.org,2026-05-21,search,Australia,45-54,true
+200910,example.com,2026-05-22,social,United Kingdom,55-64,true
+200911,mail.com,2026-05-23,referral,United States,65+,true
+200912,news.test,2026-05-24,newsletter,Ireland,18-24,true
+200913,reader.net,2026-05-25,search,Canada,25-34,true
+200914,demo.org,2026-05-26,social,Australia,35-44,true
+200915,example.com,2026-05-27,referral,United Kingdom,45-54,true
+200916,mail.com,2026-05-28,newsletter,United States,55-64,true
+200917,news.test,2026-05-29,search,Ireland,65+,false
+200918,reader.net,2026-05-30,social,Canada,18-24,true
+200919,demo.org,2026-05-31,referral,Australia,25-34,true
+200920,example.com,2026-06-01,newsletter,United Kingdom,35-44,false
+200921,mail.com,2026-06-02,search,United States,45-54,false
+200922,news.test,2026-06-03,social,Ireland,55-64,true
+200923,reader.net,2026-06-04,referral,Canada,65+,true
+200924,demo.org,2026-06-05,newsletter,Australia,18-24,false
+200925,example.com,2026-06-06,search,United Kingdom,25-34,true
+200926,mail.com,2026-06-07,social,United States,35-44,true
+200927,news.test,2026-06-08,referral,Ireland,45-54,true
+200928,reader.net,2026-06-09,newsletter,Canada,55-64,true
+200929,demo.org,2026-06-10,search,Australia,65+,true
+200930,example.com,2026-06-11,social,United Kingdom,18-24,false
+200931,mail.com,2026-06-12,referral,United States,25-34,false
+200932,news.test,2026-06-13,newsletter,Ireland,35-44,true
+200933,reader.net,2026-06-14,search,Canada,45-54,true
+200934,demo.org,2026-06-15,social,Australia,55-64,true
+200935,example.com,2026-04-22,referral,United Kingdom,65+,false
+200936,mail.com,2026-04-23,newsletter,United States,18-24,false
+200937,news.test,2026-04-24,search,Ireland,25-34,true
+200938,reader.net,2026-04-25,social,Canada,35-44,false
+200939,demo.org,2026-04-26,referral,Australia,45-54,true
+200940,example.com,2026-04-27,newsletter,United Kingdom,55-64,true
+200941,mail.com,2026-04-28,search,United States,65+,false
+200942,news.test,2026-04-29,social,Ireland,18-24,true
+200943,reader.net,2026-04-30,referral,Canada,25-34,false
+200944,demo.org,2026-05-01,newsletter,Australia,35-44,true
+200945,example.com,2026-05-02,search,United Kingdom,45-54,true
+200946,mail.com,2026-05-03,social,United States,55-64,false
+200947,news.test,2026-05-04,referral,Ireland,65+,false
+200948,reader.net,2026-05-05,newsletter,Canada,18-24,true
+200949,demo.org,2026-05-06,search,Australia,25-34,false
+200950,example.com,2026-05-07,social,United Kingdom,35-44,true
+200951,mail.com,2026-05-08,referral,United States,45-54,true
+200952,news.test,2026-05-09,newsletter,Ireland,55-64,true
+200953,reader.net,2026-05-10,search,Canada,65+,false
+200954,demo.org,2026-05-11,social,Australia,18-24,true
+200955,example.com,2026-05-12,referral,United Kingdom,25-34,false
+200956,mail.com,2026-05-13,newsletter,United States,35-44,false
+200957,news.test,2026-05-14,search,Ireland,45-54,true
+200958,reader.net,2026-05-15,social,Canada,55-64,true
+200959,demo.org,2026-05-16,referral,Australia,65+,true
+200960,example.com,2026-05-17,newsletter,United Kingdom,18-24,false
+200961,mail.com,2026-05-18,search,United States,25-34,true
+200962,news.test,2026-05-19,social,Ireland,35-44,false
+200963,reader.net,2026-05-20,referral,Canada,45-54,true
+200964,demo.org,2026-05-21,newsletter,Australia,55-64,true
+200965,example.com,2026-05-22,search,United Kingdom,65+,true
+200966,mail.com,2026-05-23,social,United States,18-24,true
+200967,news.test,2026-05-24,referral,Ireland,25-34,true
+200968,reader.net,2026-05-25,newsletter,Canada,35-44,true
+200969,demo.org,2026-05-26,search,Australia,45-54,false
+200970,example.com,2026-05-27,social,United Kingdom,55-64,false
+200971,mail.com,2026-05-28,referral,United States,65+,false
+200972,news.test,2026-05-29,newsletter,Ireland,18-24,false
+200973,reader.net,2026-05-30,search,Canada,25-34,false
+200974,demo.org,2026-05-31,social,Australia,35-44,true
+200975,example.com,2026-06-01,referral,United Kingdom,45-54,true
+200976,mail.com,2026-06-02,newsletter,United States,55-64,true
+200977,news.test,2026-06-03,search,Ireland,65+,false
+200978,reader.net,2026-06-04,social,Canada,18-24,true
+200979,demo.org,2026-06-05,referral,Australia,25-34,false
+200980,example.com,2026-06-06,newsletter,United Kingdom,35-44,false
+200981,mail.com,2026-06-07,search,United States,45-54,true
+200982,news.test,2026-06-08,social,Ireland,55-64,true
+200983,reader.net,2026-06-09,referral,Canada,65+,true
+200984,demo.org,2026-06-10,newsletter,Australia,18-24,true
+200985,example.com,2026-06-11,search,United Kingdom,25-34,true
+200986,mail.com,2026-06-12,social,United States,35-44,false
+200987,news.test,2026-06-13,referral,Ireland,45-54,true
+200988,reader.net,2026-06-14,newsletter,Canada,55-64,true
+200989,demo.org,2026-06-15,search,Australia,65+,false
+200990,example.com,2026-04-22,social,United Kingdom,18-24,false
+200991,mail.com,2026-04-23,referral,United States,25-34,true
+200992,news.test,2026-04-24,newsletter,Ireland,35-44,false
+200993,reader.net,2026-04-25,search,Canada,45-54,true
+200994,demo.org,2026-04-26,social,Australia,55-64,true
+200995,example.com,2026-04-27,referral,United Kingdom,65+,false
+200996,mail.com,2026-04-28,newsletter,United States,18-24,true
+200997,news.test,2026-04-29,search,Ireland,25-34,true
+200998,reader.net,2026-04-30,social,Canada,35-44,true
+200999,demo.org,2026-05-01,referral,Australia,45-54,true
+201000,example.com,2026-05-02,newsletter,United Kingdom,55-64,true

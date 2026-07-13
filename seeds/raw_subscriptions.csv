@@ -4,3 +4,1003 @@ subscription_id,reader_id,started_at,ended_at,plan_name,billing_period,monthly_p
 4003,2005,2026-06-03,2026-06-20,Digital,monthly,899,cancelled
 4004,2008,2026-06-05,,Premium,annual,1999,active
 4005,2002,2026-06-06,,Digital Plus,monthly,1299,trial
+40000001,200652,2026-06-02,2026-07-03,Digital Plus,annual,1299,cancelled
+40000002,200467,2026-06-03,,Print + Digital,monthly,2499,trial
+40000003,200952,2026-06-04,,Digital,annual,899,active
+40000004,200296,2026-06-05,2026-07-09,Digital Plus,monthly,1299,cancelled
+40000005,200805,2026-06-06,,Print + Digital,annual,2499,trial
+40000006,200460,2026-06-07,,Digital,monthly,899,active
+40000007,200736,2026-06-08,2026-07-15,Digital Plus,annual,1299,cancelled
+40000008,200958,2026-06-09,,Print + Digital,monthly,2499,trial
+40000009,200721,2026-06-10,,Digital,annual,899,active
+40000010,200831,2026-06-11,2026-07-21,Digital Plus,monthly,1299,cancelled
+40000011,200836,2026-06-12,,Print + Digital,annual,2499,trial
+40000012,200384,2026-06-13,,Digital,monthly,899,active
+40000013,200321,2026-06-14,2026-07-27,Digital Plus,annual,1299,cancelled
+40000014,200228,2026-06-15,,Print + Digital,monthly,2499,trial
+40000015,200867,2026-06-16,,Digital,annual,899,active
+40000016,200148,2026-06-17,2026-08-02,Digital Plus,monthly,1299,cancelled
+40000017,200361,2026-06-18,,Print + Digital,annual,2499,trial
+40000018,200878,2026-06-19,,Digital,monthly,899,active
+40000019,200151,2026-06-20,2026-08-08,Digital Plus,annual,1299,cancelled
+40000020,200484,2026-06-21,,Print + Digital,monthly,2499,trial
+40000021,200495,2026-06-22,,Digital,annual,899,active
+40000022,200443,2026-06-23,2026-08-14,Digital Plus,monthly,1299,cancelled
+40000023,200169,2026-06-24,,Print + Digital,annual,2499,trial
+40000024,200377,2026-06-25,,Digital,monthly,899,active
+40000025,200088,2026-06-26,2026-08-20,Digital Plus,annual,1299,cancelled
+40000026,200955,2026-06-27,,Print + Digital,monthly,2499,trial
+40000027,200399,2026-06-28,,Digital,annual,899,active
+40000028,200315,2026-06-29,2026-08-26,Digital Plus,monthly,1299,cancelled
+40000029,200589,2026-06-30,,Print + Digital,annual,2499,trial
+40000030,200214,2026-07-01,,Digital,monthly,899,active
+40000031,200651,2026-07-02,2026-09-01,Digital Plus,annual,1299,cancelled
+40000032,200147,2026-07-03,,Print + Digital,monthly,2499,trial
+40000033,200100,2026-07-04,,Digital,annual,899,active
+40000034,200368,2026-07-05,2026-09-07,Digital Plus,monthly,1299,cancelled
+40000035,200792,2026-07-06,,Print + Digital,annual,2499,trial
+40000036,200575,2026-07-07,,Digital,monthly,899,active
+40000037,200360,2026-07-08,2026-09-13,Digital Plus,annual,1299,cancelled
+40000038,200843,2026-07-09,,Print + Digital,monthly,2499,trial
+40000039,200691,2026-07-10,,Digital,annual,899,active
+40000040,200304,2026-07-11,2026-09-19,Digital Plus,monthly,1299,cancelled
+40000041,200345,2026-07-12,,Print + Digital,annual,2499,trial
+40000042,200756,2026-07-13,,Digital,monthly,899,active
+40000043,200995,2026-07-14,2026-09-25,Digital Plus,annual,1299,cancelled
+40000044,200654,2026-07-15,,Print + Digital,monthly,2499,trial
+40000045,200441,2026-07-16,,Digital,annual,899,active
+40000046,200851,2026-07-17,2026-08-17,Digital Plus,monthly,1299,cancelled
+40000047,200886,2026-07-18,,Print + Digital,annual,2499,trial
+40000048,200341,2026-07-19,,Digital,monthly,899,active
+40000049,200164,2026-07-20,2026-08-23,Digital Plus,annual,1299,cancelled
+40000050,200695,2026-07-21,,Print + Digital,monthly,2499,trial
+40000051,200980,2026-07-22,,Digital,annual,899,active
+40000052,200518,2026-07-23,2026-08-29,Digital Plus,monthly,1299,cancelled
+40000053,200363,2026-07-24,,Print + Digital,annual,2499,trial
+40000054,200298,2026-07-25,,Digital,monthly,899,active
+40000055,200342,2026-07-26,2026-09-04,Digital Plus,annual,1299,cancelled
+40000056,200345,2026-07-27,,Print + Digital,monthly,2499,trial
+40000057,200863,2026-07-28,,Digital,annual,899,active
+40000058,200020,2026-07-29,2026-09-10,Digital Plus,monthly,1299,cancelled
+40000059,200544,2026-07-30,,Print + Digital,annual,2499,trial
+40000060,200080,2026-06-01,,Digital,monthly,899,active
+40000061,200754,2026-06-02,2026-07-18,Digital Plus,annual,1299,cancelled
+40000062,200322,2026-06-03,,Print + Digital,monthly,2499,trial
+40000063,200218,2026-06-04,,Digital,annual,899,active
+40000064,200822,2026-06-05,2026-07-24,Digital Plus,monthly,1299,cancelled
+40000065,200470,2026-06-06,,Print + Digital,annual,2499,trial
+40000066,200991,2026-06-07,,Digital,monthly,899,active
+40000067,200983,2026-06-08,2026-07-30,Digital Plus,annual,1299,cancelled
+40000068,200333,2026-06-09,,Print + Digital,monthly,2499,trial
+40000069,200285,2026-06-10,,Digital,annual,899,active
+40000070,200381,2026-06-11,2026-08-05,Digital Plus,monthly,1299,cancelled
+40000071,200020,2026-06-12,,Print + Digital,annual,2499,trial
+40000072,200752,2026-06-13,,Digital,monthly,899,active
+40000073,200630,2026-06-14,2026-08-11,Digital Plus,annual,1299,cancelled
+40000074,200518,2026-06-15,,Print + Digital,monthly,2499,trial
+40000075,200076,2026-06-16,,Digital,annual,899,active
+40000076,200710,2026-06-17,2026-08-17,Digital Plus,monthly,1299,cancelled
+40000077,200296,2026-06-18,,Print + Digital,annual,2499,trial
+40000078,200783,2026-06-19,,Digital,monthly,899,active
+40000079,200976,2026-06-20,2026-08-23,Digital Plus,annual,1299,cancelled
+40000080,200396,2026-06-21,,Print + Digital,monthly,2499,trial
+40000081,200925,2026-06-22,,Digital,annual,899,active
+40000082,200119,2026-06-23,2026-08-29,Digital Plus,monthly,1299,cancelled
+40000083,200362,2026-06-24,,Print + Digital,annual,2499,trial
+40000084,200194,2026-06-25,,Digital,monthly,899,active
+40000085,200920,2026-06-26,2026-09-04,Digital Plus,annual,1299,cancelled
+40000086,200912,2026-06-27,,Print + Digital,monthly,2499,trial
+40000087,200874,2026-06-28,,Digital,annual,899,active
+40000088,200846,2026-06-29,2026-09-10,Digital Plus,monthly,1299,cancelled
+40000089,200294,2026-06-30,,Print + Digital,annual,2499,trial
+40000090,200180,2026-07-01,,Digital,monthly,899,active
+40000091,200239,2026-07-02,2026-08-02,Digital Plus,annual,1299,cancelled
+40000092,200276,2026-07-03,,Print + Digital,monthly,2499,trial
+40000093,200254,2026-07-04,,Digital,annual,899,active
+40000094,200534,2026-07-05,2026-08-08,Digital Plus,monthly,1299,cancelled
+40000095,200013,2026-07-06,,Print + Digital,annual,2499,trial
+40000096,200704,2026-07-07,,Digital,monthly,899,active
+40000097,200481,2026-07-08,2026-08-14,Digital Plus,annual,1299,cancelled
+40000098,200876,2026-07-09,,Print + Digital,monthly,2499,trial
+40000099,200457,2026-07-10,,Digital,annual,899,active
+40000100,200190,2026-07-11,2026-08-20,Digital Plus,monthly,1299,cancelled
+40000101,200327,2026-07-12,,Print + Digital,annual,2499,trial
+40000102,200293,2026-07-13,,Digital,monthly,899,active
+40000103,2001,2026-07-14,2026-08-26,Digital Plus,annual,1299,cancelled
+40000104,200637,2026-07-15,,Print + Digital,monthly,2499,trial
+40000105,200090,2026-07-16,,Digital,annual,899,active
+40000106,200063,2026-07-17,2026-09-01,Digital Plus,monthly,1299,cancelled
+40000107,200477,2026-07-18,,Print + Digital,annual,2499,trial
+40000108,200900,2026-07-19,,Digital,monthly,899,active
+40000109,200879,2026-07-20,2026-09-07,Digital Plus,annual,1299,cancelled
+40000110,200233,2026-07-21,,Print + Digital,monthly,2499,trial
+40000111,200858,2026-07-22,,Digital,annual,899,active
+40000112,200963,2026-07-23,2026-09-13,Digital Plus,monthly,1299,cancelled
+40000113,200614,2026-07-24,,Print + Digital,annual,2499,trial
+40000114,200202,2026-07-25,,Digital,monthly,899,active
+40000115,200541,2026-07-26,2026-09-19,Digital Plus,annual,1299,cancelled
+40000116,200227,2026-07-27,,Print + Digital,monthly,2499,trial
+40000117,200670,2026-07-28,,Digital,annual,899,active
+40000118,200957,2026-07-29,2026-09-25,Digital Plus,monthly,1299,cancelled
+40000119,200127,2026-07-30,,Print + Digital,annual,2499,trial
+40000120,200458,2026-06-01,,Digital,monthly,899,active
+40000121,200573,2026-06-02,2026-08-02,Digital Plus,annual,1299,cancelled
+40000122,200951,2026-06-03,,Print + Digital,monthly,2499,trial
+40000123,200690,2026-06-04,,Digital,annual,899,active
+40000124,200466,2026-06-05,2026-08-08,Digital Plus,monthly,1299,cancelled
+40000125,200080,2026-06-06,,Print + Digital,annual,2499,trial
+40000126,200393,2026-06-07,,Digital,monthly,899,active
+40000127,200404,2026-06-08,2026-08-14,Digital Plus,annual,1299,cancelled
+40000128,200929,2026-06-09,,Print + Digital,monthly,2499,trial
+40000129,200293,2026-06-10,,Digital,annual,899,active
+40000130,200850,2026-06-11,2026-08-20,Digital Plus,monthly,1299,cancelled
+40000131,200828,2026-06-12,,Print + Digital,annual,2499,trial
+40000132,200212,2026-06-13,,Digital,monthly,899,active
+40000133,200698,2026-06-14,2026-08-26,Digital Plus,annual,1299,cancelled
+40000134,200645,2026-06-15,,Print + Digital,monthly,2499,trial
+40000135,200053,2026-06-16,,Digital,annual,899,active
+40000136,200341,2026-06-17,2026-07-18,Digital Plus,monthly,1299,cancelled
+40000137,200873,2026-06-18,,Print + Digital,annual,2499,trial
+40000138,200989,2026-06-19,,Digital,monthly,899,active
+40000139,200392,2026-06-20,2026-07-24,Digital Plus,annual,1299,cancelled
+40000140,200084,2026-06-21,,Print + Digital,monthly,2499,trial
+40000141,200607,2026-06-22,,Digital,annual,899,active
+40000142,200812,2026-06-23,2026-07-30,Digital Plus,monthly,1299,cancelled
+40000143,200345,2026-06-24,,Print + Digital,annual,2499,trial
+40000144,200410,2026-06-25,,Digital,monthly,899,active
+40000145,200077,2026-06-26,2026-08-05,Digital Plus,annual,1299,cancelled
+40000146,200213,2026-06-27,,Print + Digital,monthly,2499,trial
+40000147,200814,2026-06-28,,Digital,annual,899,active
+40000148,200631,2026-06-29,2026-08-11,Digital Plus,monthly,1299,cancelled
+40000149,200377,2026-06-30,,Print + Digital,annual,2499,trial
+40000150,200183,2026-07-01,,Digital,monthly,899,active
+40000151,200492,2026-07-02,2026-08-17,Digital Plus,annual,1299,cancelled
+40000152,200947,2026-07-03,,Print + Digital,monthly,2499,trial
+40000153,200901,2026-07-04,,Digital,annual,899,active
+40000154,200799,2026-07-05,2026-08-23,Digital Plus,monthly,1299,cancelled
+40000155,200965,2026-07-06,,Print + Digital,annual,2499,trial
+40000156,200798,2026-07-07,,Digital,monthly,899,active
+40000157,200507,2026-07-08,2026-08-29,Digital Plus,annual,1299,cancelled
+40000158,200382,2026-07-09,,Print + Digital,monthly,2499,trial
+40000159,200024,2026-07-10,,Digital,annual,899,active
+40000160,200285,2026-07-11,2026-09-04,Digital Plus,monthly,1299,cancelled
+40000161,200188,2026-07-12,,Print + Digital,annual,2499,trial
+40000162,200867,2026-07-13,,Digital,monthly,899,active
+40000163,200611,2026-07-14,2026-09-10,Digital Plus,annual,1299,cancelled
+40000164,200358,2026-07-15,,Print + Digital,monthly,2499,trial
+40000165,200468,2026-07-16,,Digital,annual,899,active
+40000166,200130,2026-07-17,2026-09-16,Digital Plus,monthly,1299,cancelled
+40000167,200331,2026-07-18,,Print + Digital,annual,2499,trial
+40000168,200371,2026-07-19,,Digital,monthly,899,active
+40000169,200818,2026-07-20,2026-09-22,Digital Plus,annual,1299,cancelled
+40000170,200689,2026-07-21,,Print + Digital,monthly,2499,trial
+40000171,200671,2026-07-22,,Digital,annual,899,active
+40000172,200305,2026-07-23,2026-09-28,Digital Plus,monthly,1299,cancelled
+40000173,200839,2026-07-24,,Print + Digital,annual,2499,trial
+40000174,200879,2026-07-25,,Digital,monthly,899,active
+40000175,200905,2026-07-26,2026-10-04,Digital Plus,annual,1299,cancelled
+40000176,200212,2026-07-27,,Print + Digital,monthly,2499,trial
+40000177,200935,2026-07-28,,Digital,annual,899,active
+40000178,200220,2026-07-29,2026-10-10,Digital Plus,monthly,1299,cancelled
+40000179,200686,2026-07-30,,Print + Digital,annual,2499,trial
+40000180,200623,2026-06-01,,Digital,monthly,899,active
+40000181,200941,2026-06-02,2026-07-03,Digital Plus,annual,1299,cancelled
+40000182,200310,2026-06-03,,Print + Digital,monthly,2499,trial
+40000183,200021,2026-06-04,,Digital,annual,899,active
+40000184,200121,2026-06-05,2026-07-09,Digital Plus,monthly,1299,cancelled
+40000185,200736,2026-06-06,,Print + Digital,annual,2499,trial
+40000186,200584,2026-06-07,,Digital,monthly,899,active
+40000187,200603,2026-06-08,2026-07-15,Digital Plus,annual,1299,cancelled
+40000188,200460,2026-06-09,,Print + Digital,monthly,2499,trial
+40000189,200399,2026-06-10,,Digital,annual,899,active
+40000190,200897,2026-06-11,2026-07-21,Digital Plus,monthly,1299,cancelled
+40000191,200634,2026-06-12,,Print + Digital,annual,2499,trial
+40000192,200836,2026-06-13,,Digital,monthly,899,active
+40000193,200845,2026-06-14,2026-07-27,Digital Plus,annual,1299,cancelled
+40000194,200504,2026-06-15,,Print + Digital,monthly,2499,trial
+40000195,200112,2026-06-16,,Digital,annual,899,active
+40000196,200723,2026-06-17,2026-08-02,Digital Plus,monthly,1299,cancelled
+40000197,200563,2026-06-18,,Print + Digital,annual,2499,trial
+40000198,200213,2026-06-19,,Digital,monthly,899,active
+40000199,200927,2026-06-20,2026-08-08,Digital Plus,annual,1299,cancelled
+40000200,200058,2026-06-21,,Print + Digital,monthly,2499,trial
+40000201,200027,2026-06-22,,Digital,annual,899,active
+40000202,200748,2026-06-23,2026-08-14,Digital Plus,monthly,1299,cancelled
+40000203,200144,2026-06-24,,Print + Digital,annual,2499,trial
+40000204,200505,2026-06-25,,Digital,monthly,899,active
+40000205,200679,2026-06-26,2026-08-20,Digital Plus,annual,1299,cancelled
+40000206,200034,2026-06-27,,Print + Digital,monthly,2499,trial
+40000207,200502,2026-06-28,,Digital,annual,899,active
+40000208,200953,2026-06-29,2026-08-26,Digital Plus,monthly,1299,cancelled
+40000209,200970,2026-06-30,,Print + Digital,annual,2499,trial
+40000210,200668,2026-07-01,,Digital,monthly,899,active
+40000211,200086,2026-07-02,2026-09-01,Digital Plus,annual,1299,cancelled
+40000212,200293,2026-07-03,,Print + Digital,monthly,2499,trial
+40000213,200768,2026-07-04,,Digital,annual,899,active
+40000214,200719,2026-07-05,2026-09-07,Digital Plus,monthly,1299,cancelled
+40000215,200193,2026-07-06,,Print + Digital,annual,2499,trial
+40000216,200079,2026-07-07,,Digital,monthly,899,active
+40000217,200246,2026-07-08,2026-09-13,Digital Plus,annual,1299,cancelled
+40000218,200722,2026-07-09,,Print + Digital,monthly,2499,trial
+40000219,200131,2026-07-10,,Digital,annual,899,active
+40000220,200003,2026-07-11,2026-09-19,Digital Plus,monthly,1299,cancelled
+40000221,200404,2026-07-12,,Print + Digital,annual,2499,trial
+40000222,200935,2026-07-13,,Digital,monthly,899,active
+40000223,200912,2026-07-14,2026-09-25,Digital Plus,annual,1299,cancelled
+40000224,200204,2026-07-15,,Print + Digital,monthly,2499,trial
+40000225,200577,2026-07-16,,Digital,annual,899,active
+40000226,200740,2026-07-17,2026-08-17,Digital Plus,monthly,1299,cancelled
+40000227,200294,2026-07-18,,Print + Digital,annual,2499,trial
+40000228,200980,2026-07-19,,Digital,monthly,899,active
+40000229,200735,2026-07-20,2026-08-23,Digital Plus,annual,1299,cancelled
+40000230,200200,2026-07-21,,Print + Digital,monthly,2499,trial
+40000231,200977,2026-07-22,,Digital,annual,899,active
+40000232,200982,2026-07-23,2026-08-29,Digital Plus,monthly,1299,cancelled
+40000233,200258,2026-07-24,,Print + Digital,annual,2499,trial
+40000234,200271,2026-07-25,,Digital,monthly,899,active
+40000235,200669,2026-07-26,2026-09-04,Digital Plus,annual,1299,cancelled
+40000236,200774,2026-07-27,,Print + Digital,monthly,2499,trial
+40000237,200988,2026-07-28,,Digital,annual,899,active
+40000238,200805,2026-07-29,2026-09-10,Digital Plus,monthly,1299,cancelled
+40000239,200405,2026-07-30,,Print + Digital,annual,2499,trial
+40000240,200249,2026-06-01,,Digital,monthly,899,active
+40000241,200005,2026-06-02,2026-07-18,Digital Plus,annual,1299,cancelled
+40000242,200402,2026-06-03,,Print + Digital,monthly,2499,trial
+40000243,200636,2026-06-04,,Digital,annual,899,active
+40000244,200550,2026-06-05,2026-07-24,Digital Plus,monthly,1299,cancelled
+40000245,200032,2026-06-06,,Print + Digital,annual,2499,trial
+40000246,200062,2026-06-07,,Digital,monthly,899,active
+40000247,200217,2026-06-08,2026-07-30,Digital Plus,annual,1299,cancelled
+40000248,200980,2026-06-09,,Print + Digital,monthly,2499,trial
+40000249,200924,2026-06-10,,Digital,annual,899,active
+40000250,200646,2026-06-11,2026-08-05,Digital Plus,monthly,1299,cancelled
+40000251,200572,2026-06-12,,Print + Digital,annual,2499,trial
+40000252,200368,2026-06-13,,Digital,monthly,899,active
+40000253,200241,2026-06-14,2026-08-11,Digital Plus,annual,1299,cancelled
+40000254,200955,2026-06-15,,Print + Digital,monthly,2499,trial
+40000255,200849,2026-06-16,,Digital,annual,899,active
+40000256,200823,2026-06-17,2026-08-17,Digital Plus,monthly,1299,cancelled
+40000257,200410,2026-06-18,,Print + Digital,annual,2499,trial
+40000258,200604,2026-06-19,,Digital,monthly,899,active
+40000259,200128,2026-06-20,2026-08-23,Digital Plus,annual,1299,cancelled
+40000260,200264,2026-06-21,,Print + Digital,monthly,2499,trial
+40000261,200094,2026-06-22,,Digital,annual,899,active
+40000262,200513,2026-06-23,2026-08-29,Digital Plus,monthly,1299,cancelled
+40000263,200074,2026-06-24,,Print + Digital,annual,2499,trial
+40000264,200351,2026-06-25,,Digital,monthly,899,active
+40000265,200917,2026-06-26,2026-09-04,Digital Plus,annual,1299,cancelled
+40000266,200492,2026-06-27,,Print + Digital,monthly,2499,trial
+40000267,200663,2026-06-28,,Digital,annual,899,active
+40000268,200389,2026-06-29,2026-09-10,Digital Plus,monthly,1299,cancelled
+40000269,200453,2026-06-30,,Print + Digital,annual,2499,trial
+40000270,200615,2026-07-01,,Digital,monthly,899,active
+40000271,200484,2026-07-02,2026-08-02,Digital Plus,annual,1299,cancelled
+40000272,200112,2026-07-03,,Print + Digital,monthly,2499,trial
+40000273,200775,2026-07-04,,Digital,annual,899,active
+40000274,200527,2026-07-05,2026-08-08,Digital Plus,monthly,1299,cancelled
+40000275,200065,2026-07-06,,Print + Digital,annual,2499,trial
+40000276,200743,2026-07-07,,Digital,monthly,899,active
+40000277,200936,2026-07-08,2026-08-14,Digital Plus,annual,1299,cancelled
+40000278,200543,2026-07-09,,Print + Digital,monthly,2499,trial
+40000279,200829,2026-07-10,,Digital,annual,899,active
+40000280,200634,2026-07-11,2026-08-20,Digital Plus,monthly,1299,cancelled
+40000281,200329,2026-07-12,,Print + Digital,annual,2499,trial
+40000282,200990,2026-07-13,,Digital,monthly,899,active
+40000283,200441,2026-07-14,2026-08-26,Digital Plus,annual,1299,cancelled
+40000284,200541,2026-07-15,,Print + Digital,monthly,2499,trial
+40000285,200512,2026-07-16,,Digital,annual,899,active
+40000286,200217,2026-07-17,2026-09-01,Digital Plus,monthly,1299,cancelled
+40000287,200279,2026-07-18,,Print + Digital,annual,2499,trial
+40000288,200064,2026-07-19,,Digital,monthly,899,active
+40000289,200049,2026-07-20,2026-09-07,Digital Plus,annual,1299,cancelled
+40000290,200820,2026-07-21,,Print + Digital,monthly,2499,trial
+40000291,200228,2026-07-22,,Digital,annual,899,active
+40000292,200606,2026-07-23,2026-09-13,Digital Plus,monthly,1299,cancelled
+40000293,200466,2026-07-24,,Print + Digital,annual,2499,trial
+40000294,200347,2026-07-25,,Digital,monthly,899,active
+40000295,200958,2026-07-26,2026-09-19,Digital Plus,annual,1299,cancelled
+40000296,200547,2026-07-27,,Print + Digital,monthly,2499,trial
+40000297,200476,2026-07-28,,Digital,annual,899,active
+40000298,200482,2026-07-29,2026-09-25,Digital Plus,monthly,1299,cancelled
+40000299,200663,2026-07-30,,Print + Digital,annual,2499,trial
+40000300,200425,2026-06-01,,Digital,monthly,899,active
+40000301,200581,2026-06-02,2026-08-02,Digital Plus,annual,1299,cancelled
+40000302,200210,2026-06-03,,Print + Digital,monthly,2499,trial
+40000303,200159,2026-06-04,,Digital,annual,899,active
+40000304,200104,2026-06-05,2026-08-08,Digital Plus,monthly,1299,cancelled
+40000305,200410,2026-06-06,,Print + Digital,annual,2499,trial
+40000306,200805,2026-06-07,,Digital,monthly,899,active
+40000307,200946,2026-06-08,2026-08-14,Digital Plus,annual,1299,cancelled
+40000308,200227,2026-06-09,,Print + Digital,monthly,2499,trial
+40000309,200348,2026-06-10,,Digital,annual,899,active
+40000310,200338,2026-06-11,2026-08-20,Digital Plus,monthly,1299,cancelled
+40000311,200323,2026-06-12,,Print + Digital,annual,2499,trial
+40000312,200024,2026-06-13,,Digital,monthly,899,active
+40000313,200250,2026-06-14,2026-08-26,Digital Plus,annual,1299,cancelled
+40000314,200684,2026-06-15,,Print + Digital,monthly,2499,trial
+40000315,200771,2026-06-16,,Digital,annual,899,active
+40000316,200711,2026-06-17,2026-07-18,Digital Plus,monthly,1299,cancelled
+40000317,200217,2026-06-18,,Print + Digital,annual,2499,trial
+40000318,200852,2026-06-19,,Digital,monthly,899,active
+40000319,200107,2026-06-20,2026-07-24,Digital Plus,annual,1299,cancelled
+40000320,200038,2026-06-21,,Print + Digital,monthly,2499,trial
+40000321,200003,2026-06-22,,Digital,annual,899,active
+40000322,200839,2026-06-23,2026-07-30,Digital Plus,monthly,1299,cancelled
+40000323,200552,2026-06-24,,Print + Digital,annual,2499,trial
+40000324,200783,2026-06-25,,Digital,monthly,899,active
+40000325,200227,2026-06-26,2026-08-05,Digital Plus,annual,1299,cancelled
+40000326,200315,2026-06-27,,Print + Digital,monthly,2499,trial
+40000327,200658,2026-06-28,,Digital,annual,899,active
+40000328,200227,2026-06-29,2026-08-11,Digital Plus,monthly,1299,cancelled
+40000329,200814,2026-06-30,,Print + Digital,annual,2499,trial
+40000330,200361,2026-07-01,,Digital,monthly,899,active
+40000331,200143,2026-07-02,2026-08-17,Digital Plus,annual,1299,cancelled
+40000332,200263,2026-07-03,,Print + Digital,monthly,2499,trial
+40000333,200615,2026-07-04,,Digital,annual,899,active
+40000334,200745,2026-07-05,2026-08-23,Digital Plus,monthly,1299,cancelled
+40000335,200294,2026-07-06,,Print + Digital,annual,2499,trial
+40000336,200503,2026-07-07,,Digital,monthly,899,active
+40000337,200463,2026-07-08,2026-08-29,Digital Plus,annual,1299,cancelled
+40000338,200983,2026-07-09,,Print + Digital,monthly,2499,trial
+40000339,200028,2026-07-10,,Digital,annual,899,active
+40000340,200105,2026-07-11,2026-09-04,Digital Plus,monthly,1299,cancelled
+40000341,200694,2026-07-12,,Print + Digital,annual,2499,trial
+40000342,200258,2026-07-13,,Digital,monthly,899,active
+40000343,200941,2026-07-14,2026-09-10,Digital Plus,annual,1299,cancelled
+40000344,200901,2026-07-15,,Print + Digital,monthly,2499,trial
+40000345,200830,2026-07-16,,Digital,annual,899,active
+40000346,200249,2026-07-17,2026-09-16,Digital Plus,monthly,1299,cancelled
+40000347,200712,2026-07-18,,Print + Digital,annual,2499,trial
+40000348,200822,2026-07-19,,Digital,monthly,899,active
+40000349,200355,2026-07-20,2026-09-22,Digital Plus,annual,1299,cancelled
+40000350,200097,2026-07-21,,Print + Digital,monthly,2499,trial
+40000351,200615,2026-07-22,,Digital,annual,899,active
+40000352,200516,2026-07-23,2026-09-28,Digital Plus,monthly,1299,cancelled
+40000353,200294,2026-07-24,,Print + Digital,annual,2499,trial
+40000354,200266,2026-07-25,,Digital,monthly,899,active
+40000355,200984,2026-07-26,2026-10-04,Digital Plus,annual,1299,cancelled
+40000356,200232,2026-07-27,,Print + Digital,monthly,2499,trial
+40000357,200550,2026-07-28,,Digital,annual,899,active
+40000358,200408,2026-07-29,2026-10-10,Digital Plus,monthly,1299,cancelled
+40000359,200447,2026-07-30,,Print + Digital,annual,2499,trial
+40000360,200998,2026-06-01,,Digital,monthly,899,active
+40000361,200065,2026-06-02,2026-07-03,Digital Plus,annual,1299,cancelled
+40000362,200849,2026-06-03,,Print + Digital,monthly,2499,trial
+40000363,200998,2026-06-04,,Digital,annual,899,active
+40000364,200920,2026-06-05,2026-07-09,Digital Plus,monthly,1299,cancelled
+40000365,200617,2026-06-06,,Print + Digital,annual,2499,trial
+40000366,200967,2026-06-07,,Digital,monthly,899,active
+40000367,200513,2026-06-08,2026-07-15,Digital Plus,annual,1299,cancelled
+40000368,200681,2026-06-09,,Print + Digital,monthly,2499,trial
+40000369,200813,2026-06-10,,Digital,annual,899,active
+40000370,200760,2026-06-11,2026-07-21,Digital Plus,monthly,1299,cancelled
+40000371,200317,2026-06-12,,Print + Digital,annual,2499,trial
+40000372,200346,2026-06-13,,Digital,monthly,899,active
+40000373,200022,2026-06-14,2026-07-27,Digital Plus,annual,1299,cancelled
+40000374,200010,2026-06-15,,Print + Digital,monthly,2499,trial
+40000375,200538,2026-06-16,,Digital,annual,899,active
+40000376,200801,2026-06-17,2026-08-02,Digital Plus,monthly,1299,cancelled
+40000377,200914,2026-06-18,,Print + Digital,annual,2499,trial
+40000378,200930,2026-06-19,,Digital,monthly,899,active
+40000379,200532,2026-06-20,2026-08-08,Digital Plus,annual,1299,cancelled
+40000380,200249,2026-06-21,,Print + Digital,monthly,2499,trial
+40000381,200173,2026-06-22,,Digital,annual,899,active
+40000382,200101,2026-06-23,2026-08-14,Digital Plus,monthly,1299,cancelled
+40000383,200337,2026-06-24,,Print + Digital,annual,2499,trial
+40000384,200154,2026-06-25,,Digital,monthly,899,active
+40000385,200244,2026-06-26,2026-08-20,Digital Plus,annual,1299,cancelled
+40000386,200538,2026-06-27,,Print + Digital,monthly,2499,trial
+40000387,200736,2026-06-28,,Digital,annual,899,active
+40000388,200828,2026-06-29,2026-08-26,Digital Plus,monthly,1299,cancelled
+40000389,200698,2026-06-30,,Print + Digital,annual,2499,trial
+40000390,200391,2026-07-01,,Digital,monthly,899,active
+40000391,200984,2026-07-02,2026-09-01,Digital Plus,annual,1299,cancelled
+40000392,200043,2026-07-03,,Print + Digital,monthly,2499,trial
+40000393,200700,2026-07-04,,Digital,annual,899,active
+40000394,2008,2026-07-05,2026-09-07,Digital Plus,monthly,1299,cancelled
+40000395,200899,2026-07-06,,Print + Digital,annual,2499,trial
+40000396,200507,2026-07-07,,Digital,monthly,899,active
+40000397,200142,2026-07-08,2026-09-13,Digital Plus,annual,1299,cancelled
+40000398,200128,2026-07-09,,Print + Digital,monthly,2499,trial
+40000399,200776,2026-07-10,,Digital,annual,899,active
+40000400,200006,2026-07-11,2026-09-19,Digital Plus,monthly,1299,cancelled
+40000401,200478,2026-07-12,,Print + Digital,annual,2499,trial
+40000402,200514,2026-07-13,,Digital,monthly,899,active
+40000403,200110,2026-07-14,2026-09-25,Digital Plus,annual,1299,cancelled
+40000404,200069,2026-07-15,,Print + Digital,monthly,2499,trial
+40000405,200918,2026-07-16,,Digital,annual,899,active
+40000406,200247,2026-07-17,2026-08-17,Digital Plus,monthly,1299,cancelled
+40000407,200750,2026-07-18,,Print + Digital,annual,2499,trial
+40000408,200472,2026-07-19,,Digital,monthly,899,active
+40000409,200628,2026-07-20,2026-08-23,Digital Plus,annual,1299,cancelled
+40000410,200620,2026-07-21,,Print + Digital,monthly,2499,trial
+40000411,200365,2026-07-22,,Digital,annual,899,active
+40000412,200466,2026-07-23,2026-08-29,Digital Plus,monthly,1299,cancelled
+40000413,200245,2026-07-24,,Print + Digital,annual,2499,trial
+40000414,200812,2026-07-25,,Digital,monthly,899,active
+40000415,200745,2026-07-26,2026-09-04,Digital Plus,annual,1299,cancelled
+40000416,200976,2026-07-27,,Print + Digital,monthly,2499,trial
+40000417,200395,2026-07-28,,Digital,annual,899,active
+40000418,200302,2026-07-29,2026-09-10,Digital Plus,monthly,1299,cancelled
+40000419,200869,2026-07-30,,Print + Digital,annual,2499,trial
+40000420,200189,2026-06-01,,Digital,monthly,899,active
+40000421,200415,2026-06-02,2026-07-18,Digital Plus,annual,1299,cancelled
+40000422,200320,2026-06-03,,Print + Digital,monthly,2499,trial
+40000423,200192,2026-06-04,,Digital,annual,899,active
+40000424,200339,2026-06-05,2026-07-24,Digital Plus,monthly,1299,cancelled
+40000425,200857,2026-06-06,,Print + Digital,annual,2499,trial
+40000426,200529,2026-06-07,,Digital,monthly,899,active
+40000427,2002,2026-06-08,2026-07-30,Digital Plus,annual,1299,cancelled
+40000428,200321,2026-06-09,,Print + Digital,monthly,2499,trial
+40000429,200506,2026-06-10,,Digital,annual,899,active
+40000430,200031,2026-06-11,2026-08-05,Digital Plus,monthly,1299,cancelled
+40000431,200357,2026-06-12,,Print + Digital,annual,2499,trial
+40000432,200212,2026-06-13,,Digital,monthly,899,active
+40000433,200624,2026-06-14,2026-08-11,Digital Plus,annual,1299,cancelled
+40000434,200746,2026-06-15,,Print + Digital,monthly,2499,trial
+40000435,200648,2026-06-16,,Digital,annual,899,active
+40000436,200212,2026-06-17,2026-08-17,Digital Plus,monthly,1299,cancelled
+40000437,200065,2026-06-18,,Print + Digital,annual,2499,trial
+40000438,200613,2026-06-19,,Digital,monthly,899,active
+40000439,200320,2026-06-20,2026-08-23,Digital Plus,annual,1299,cancelled
+40000440,200398,2026-06-21,,Print + Digital,monthly,2499,trial
+40000441,200124,2026-06-22,,Digital,annual,899,active
+40000442,200811,2026-06-23,2026-08-29,Digital Plus,monthly,1299,cancelled
+40000443,200657,2026-06-24,,Print + Digital,annual,2499,trial
+40000444,200379,2026-06-25,,Digital,monthly,899,active
+40000445,200598,2026-06-26,2026-09-04,Digital Plus,annual,1299,cancelled
+40000446,200589,2026-06-27,,Print + Digital,monthly,2499,trial
+40000447,200351,2026-06-28,,Digital,annual,899,active
+40000448,200685,2026-06-29,2026-09-10,Digital Plus,monthly,1299,cancelled
+40000449,200959,2026-06-30,,Print + Digital,annual,2499,trial
+40000450,200425,2026-07-01,,Digital,monthly,899,active
+40000451,200879,2026-07-02,2026-08-02,Digital Plus,annual,1299,cancelled
+40000452,200604,2026-07-03,,Print + Digital,monthly,2499,trial
+40000453,200232,2026-07-04,,Digital,annual,899,active
+40000454,200523,2026-07-05,2026-08-08,Digital Plus,monthly,1299,cancelled
+40000455,200459,2026-07-06,,Print + Digital,annual,2499,trial
+40000456,200600,2026-07-07,,Digital,monthly,899,active
+40000457,200392,2026-07-08,2026-08-14,Digital Plus,annual,1299,cancelled
+40000458,200299,2026-07-09,,Print + Digital,monthly,2499,trial
+40000459,200980,2026-07-10,,Digital,annual,899,active
+40000460,200859,2026-07-11,2026-08-20,Digital Plus,monthly,1299,cancelled
+40000461,200343,2026-07-12,,Print + Digital,annual,2499,trial
+40000462,200574,2026-07-13,,Digital,monthly,899,active
+40000463,200431,2026-07-14,2026-08-26,Digital Plus,annual,1299,cancelled
+40000464,200410,2026-07-15,,Print + Digital,monthly,2499,trial
+40000465,200166,2026-07-16,,Digital,annual,899,active
+40000466,200783,2026-07-17,2026-09-01,Digital Plus,monthly,1299,cancelled
+40000467,200781,2026-07-18,,Print + Digital,annual,2499,trial
+40000468,200745,2026-07-19,,Digital,monthly,899,active
+40000469,200497,2026-07-20,2026-09-07,Digital Plus,annual,1299,cancelled
+40000470,200097,2026-07-21,,Print + Digital,monthly,2499,trial
+40000471,200683,2026-07-22,,Digital,annual,899,active
+40000472,200562,2026-07-23,2026-09-13,Digital Plus,monthly,1299,cancelled
+40000473,200241,2026-07-24,,Print + Digital,annual,2499,trial
+40000474,200649,2026-07-25,,Digital,monthly,899,active
+40000475,200970,2026-07-26,2026-09-19,Digital Plus,annual,1299,cancelled
+40000476,200517,2026-07-27,,Print + Digital,monthly,2499,trial
+40000477,200162,2026-07-28,,Digital,annual,899,active
+40000478,200172,2026-07-29,2026-09-25,Digital Plus,monthly,1299,cancelled
+40000479,200017,2026-07-30,,Print + Digital,annual,2499,trial
+40000480,200344,2026-06-01,,Digital,monthly,899,active
+40000481,2008,2026-06-02,2026-08-02,Digital Plus,annual,1299,cancelled
+40000482,200306,2026-06-03,,Print + Digital,monthly,2499,trial
+40000483,200566,2026-06-04,,Digital,annual,899,active
+40000484,200988,2026-06-05,2026-08-08,Digital Plus,monthly,1299,cancelled
+40000485,200387,2026-06-06,,Print + Digital,annual,2499,trial
+40000486,200973,2026-06-07,,Digital,monthly,899,active
+40000487,200279,2026-06-08,2026-08-14,Digital Plus,annual,1299,cancelled
+40000488,200652,2026-06-09,,Print + Digital,monthly,2499,trial
+40000489,200510,2026-06-10,,Digital,annual,899,active
+40000490,200848,2026-06-11,2026-08-20,Digital Plus,monthly,1299,cancelled
+40000491,200301,2026-06-12,,Print + Digital,annual,2499,trial
+40000492,200971,2026-06-13,,Digital,monthly,899,active
+40000493,200942,2026-06-14,2026-08-26,Digital Plus,annual,1299,cancelled
+40000494,200321,2026-06-15,,Print + Digital,monthly,2499,trial
+40000495,200673,2026-06-16,,Digital,annual,899,active
+40000496,200054,2026-06-17,2026-07-18,Digital Plus,monthly,1299,cancelled
+40000497,200946,2026-06-18,,Print + Digital,annual,2499,trial
+40000498,200316,2026-06-19,,Digital,monthly,899,active
+40000499,200945,2026-06-20,2026-07-24,Digital Plus,annual,1299,cancelled
+40000500,200762,2026-06-21,,Print + Digital,monthly,2499,trial
+40000501,200496,2026-06-22,,Digital,annual,899,active
+40000502,200226,2026-06-23,2026-07-30,Digital Plus,monthly,1299,cancelled
+40000503,200930,2026-06-24,,Print + Digital,annual,2499,trial
+40000504,200242,2026-06-25,,Digital,monthly,899,active
+40000505,200387,2026-06-26,2026-08-05,Digital Plus,annual,1299,cancelled
+40000506,200759,2026-06-27,,Print + Digital,monthly,2499,trial
+40000507,200765,2026-06-28,,Digital,annual,899,active
+40000508,200852,2026-06-29,2026-08-11,Digital Plus,monthly,1299,cancelled
+40000509,200966,2026-06-30,,Print + Digital,annual,2499,trial
+40000510,200112,2026-07-01,,Digital,monthly,899,active
+40000511,200759,2026-07-02,2026-08-17,Digital Plus,annual,1299,cancelled
+40000512,200442,2026-07-03,,Print + Digital,monthly,2499,trial
+40000513,200483,2026-07-04,,Digital,annual,899,active
+40000514,200144,2026-07-05,2026-08-23,Digital Plus,monthly,1299,cancelled
+40000515,200512,2026-07-06,,Print + Digital,annual,2499,trial
+40000516,200709,2026-07-07,,Digital,monthly,899,active
+40000517,200489,2026-07-08,2026-08-29,Digital Plus,annual,1299,cancelled
+40000518,200146,2026-07-09,,Print + Digital,monthly,2499,trial
+40000519,200483,2026-07-10,,Digital,annual,899,active
+40000520,200582,2026-07-11,2026-09-04,Digital Plus,monthly,1299,cancelled
+40000521,200001,2026-07-12,,Print + Digital,annual,2499,trial
+40000522,200582,2026-07-13,,Digital,monthly,899,active
+40000523,200637,2026-07-14,2026-09-10,Digital Plus,annual,1299,cancelled
+40000524,200638,2026-07-15,,Print + Digital,monthly,2499,trial
+40000525,200075,2026-07-16,,Digital,annual,899,active
+40000526,200350,2026-07-17,2026-09-16,Digital Plus,monthly,1299,cancelled
+40000527,200391,2026-07-18,,Print + Digital,annual,2499,trial
+40000528,200125,2026-07-19,,Digital,monthly,899,active
+40000529,200656,2026-07-20,2026-09-22,Digital Plus,annual,1299,cancelled
+40000530,200054,2026-07-21,,Print + Digital,monthly,2499,trial
+40000531,200167,2026-07-22,,Digital,annual,899,active
+40000532,200032,2026-07-23,2026-09-28,Digital Plus,monthly,1299,cancelled
+40000533,200124,2026-07-24,,Print + Digital,annual,2499,trial
+40000534,200468,2026-07-25,,Digital,monthly,899,active
+40000535,200461,2026-07-26,2026-10-04,Digital Plus,annual,1299,cancelled
+40000536,200362,2026-07-27,,Print + Digital,monthly,2499,trial
+40000537,200495,2026-07-28,,Digital,annual,899,active
+40000538,200767,2026-07-29,2026-10-10,Digital Plus,monthly,1299,cancelled
+40000539,200127,2026-07-30,,Print + Digital,annual,2499,trial
+40000540,200176,2026-06-01,,Digital,monthly,899,active
+40000541,200928,2026-06-02,2026-07-03,Digital Plus,annual,1299,cancelled
+40000542,200772,2026-06-03,,Print + Digital,monthly,2499,trial
+40000543,200255,2026-06-04,,Digital,annual,899,active
+40000544,200460,2026-06-05,2026-07-09,Digital Plus,monthly,1299,cancelled
+40000545,200714,2026-06-06,,Print + Digital,annual,2499,trial
+40000546,200408,2026-06-07,,Digital,monthly,899,active
+40000547,200453,2026-06-08,2026-07-15,Digital Plus,annual,1299,cancelled
+40000548,200125,2026-06-09,,Print + Digital,monthly,2499,trial
+40000549,200686,2026-06-10,,Digital,annual,899,active
+40000550,200950,2026-06-11,2026-07-21,Digital Plus,monthly,1299,cancelled
+40000551,200867,2026-06-12,,Print + Digital,annual,2499,trial
+40000552,200096,2026-06-13,,Digital,monthly,899,active
+40000553,200036,2026-06-14,2026-07-27,Digital Plus,annual,1299,cancelled
+40000554,200991,2026-06-15,,Print + Digital,monthly,2499,trial
+40000555,200407,2026-06-16,,Digital,annual,899,active
+40000556,200849,2026-06-17,2026-08-02,Digital Plus,monthly,1299,cancelled
+40000557,200778,2026-06-18,,Print + Digital,annual,2499,trial
+40000558,200250,2026-06-19,,Digital,monthly,899,active
+40000559,200449,2026-06-20,2026-08-08,Digital Plus,annual,1299,cancelled
+40000560,200081,2026-06-21,,Print + Digital,monthly,2499,trial
+40000561,200947,2026-06-22,,Digital,annual,899,active
+40000562,200499,2026-06-23,2026-08-14,Digital Plus,monthly,1299,cancelled
+40000563,200254,2026-06-24,,Print + Digital,annual,2499,trial
+40000564,200667,2026-06-25,,Digital,monthly,899,active
+40000565,200378,2026-06-26,2026-08-20,Digital Plus,annual,1299,cancelled
+40000566,200564,2026-06-27,,Print + Digital,monthly,2499,trial
+40000567,200401,2026-06-28,,Digital,annual,899,active
+40000568,200841,2026-06-29,2026-08-26,Digital Plus,monthly,1299,cancelled
+40000569,200813,2026-06-30,,Print + Digital,annual,2499,trial
+40000570,200284,2026-07-01,,Digital,monthly,899,active
+40000571,200298,2026-07-02,2026-09-01,Digital Plus,annual,1299,cancelled
+40000572,200619,2026-07-03,,Print + Digital,monthly,2499,trial
+40000573,200983,2026-07-04,,Digital,annual,899,active
+40000574,200734,2026-07-05,2026-09-07,Digital Plus,monthly,1299,cancelled
+40000575,200564,2026-07-06,,Print + Digital,annual,2499,trial
+40000576,200264,2026-07-07,,Digital,monthly,899,active
+40000577,200043,2026-07-08,2026-09-13,Digital Plus,annual,1299,cancelled
+40000578,200667,2026-07-09,,Print + Digital,monthly,2499,trial
+40000579,200756,2026-07-10,,Digital,annual,899,active
+40000580,200248,2026-07-11,2026-09-19,Digital Plus,monthly,1299,cancelled
+40000581,200515,2026-07-12,,Print + Digital,annual,2499,trial
+40000582,200354,2026-07-13,,Digital,monthly,899,active
+40000583,200604,2026-07-14,2026-09-25,Digital Plus,annual,1299,cancelled
+40000584,200537,2026-07-15,,Print + Digital,monthly,2499,trial
+40000585,200903,2026-07-16,,Digital,annual,899,active
+40000586,200780,2026-07-17,2026-08-17,Digital Plus,monthly,1299,cancelled
+40000587,200546,2026-07-18,,Print + Digital,annual,2499,trial
+40000588,200989,2026-07-19,,Digital,monthly,899,active
+40000589,200308,2026-07-20,2026-08-23,Digital Plus,annual,1299,cancelled
+40000590,200833,2026-07-21,,Print + Digital,monthly,2499,trial
+40000591,200631,2026-07-22,,Digital,annual,899,active
+40000592,200269,2026-07-23,2026-08-29,Digital Plus,monthly,1299,cancelled
+40000593,200477,2026-07-24,,Print + Digital,annual,2499,trial
+40000594,200980,2026-07-25,,Digital,monthly,899,active
+40000595,200247,2026-07-26,2026-09-04,Digital Plus,annual,1299,cancelled
+40000596,200385,2026-07-27,,Print + Digital,monthly,2499,trial
+40000597,200724,2026-07-28,,Digital,annual,899,active
+40000598,200235,2026-07-29,2026-09-10,Digital Plus,monthly,1299,cancelled
+40000599,200678,2026-07-30,,Print + Digital,annual,2499,trial
+40000600,200937,2026-06-01,,Digital,monthly,899,active
+40000601,200601,2026-06-02,2026-07-18,Digital Plus,annual,1299,cancelled
+40000602,200534,2026-06-03,,Print + Digital,monthly,2499,trial
+40000603,200573,2026-06-04,,Digital,annual,899,active
+40000604,200802,2026-06-05,2026-07-24,Digital Plus,monthly,1299,cancelled
+40000605,200206,2026-06-06,,Print + Digital,annual,2499,trial
+40000606,200805,2026-06-07,,Digital,monthly,899,active
+40000607,200705,2026-06-08,2026-07-30,Digital Plus,annual,1299,cancelled
+40000608,200091,2026-06-09,,Print + Digital,monthly,2499,trial
+40000609,200649,2026-06-10,,Digital,annual,899,active
+40000610,200920,2026-06-11,2026-08-05,Digital Plus,monthly,1299,cancelled
+40000611,200367,2026-06-12,,Print + Digital,annual,2499,trial
+40000612,200782,2026-06-13,,Digital,monthly,899,active
+40000613,200988,2026-06-14,2026-08-11,Digital Plus,annual,1299,cancelled
+40000614,200095,2026-06-15,,Print + Digital,monthly,2499,trial
+40000615,200571,2026-06-16,,Digital,annual,899,active
+40000616,200009,2026-06-17,2026-08-17,Digital Plus,monthly,1299,cancelled
+40000617,200985,2026-06-18,,Print + Digital,annual,2499,trial
+40000618,200749,2026-06-19,,Digital,monthly,899,active
+40000619,200436,2026-06-20,2026-08-23,Digital Plus,annual,1299,cancelled
+40000620,200978,2026-06-21,,Print + Digital,monthly,2499,trial
+40000621,200126,2026-06-22,,Digital,annual,899,active
+40000622,200192,2026-06-23,2026-08-29,Digital Plus,monthly,1299,cancelled
+40000623,200476,2026-06-24,,Print + Digital,annual,2499,trial
+40000624,200463,2026-06-25,,Digital,monthly,899,active
+40000625,200570,2026-06-26,2026-09-04,Digital Plus,annual,1299,cancelled
+40000626,200732,2026-06-27,,Print + Digital,monthly,2499,trial
+40000627,200145,2026-06-28,,Digital,annual,899,active
+40000628,200483,2026-06-29,2026-09-10,Digital Plus,monthly,1299,cancelled
+40000629,200489,2026-06-30,,Print + Digital,annual,2499,trial
+40000630,200298,2026-07-01,,Digital,monthly,899,active
+40000631,200787,2026-07-02,2026-08-02,Digital Plus,annual,1299,cancelled
+40000632,200701,2026-07-03,,Print + Digital,monthly,2499,trial
+40000633,200855,2026-07-04,,Digital,annual,899,active
+40000634,200207,2026-07-05,2026-08-08,Digital Plus,monthly,1299,cancelled
+40000635,200718,2026-07-06,,Print + Digital,annual,2499,trial
+40000636,200875,2026-07-07,,Digital,monthly,899,active
+40000637,200946,2026-07-08,2026-08-14,Digital Plus,annual,1299,cancelled
+40000638,200368,2026-07-09,,Print + Digital,monthly,2499,trial
+40000639,200305,2026-07-10,,Digital,annual,899,active
+40000640,200165,2026-07-11,2026-08-20,Digital Plus,monthly,1299,cancelled
+40000641,200516,2026-07-12,,Print + Digital,annual,2499,trial
+40000642,200423,2026-07-13,,Digital,monthly,899,active
+40000643,200736,2026-07-14,2026-08-26,Digital Plus,annual,1299,cancelled
+40000644,200305,2026-07-15,,Print + Digital,monthly,2499,trial
+40000645,200858,2026-07-16,,Digital,annual,899,active
+40000646,200688,2026-07-17,2026-09-01,Digital Plus,monthly,1299,cancelled
+40000647,200959,2026-07-18,,Print + Digital,annual,2499,trial
+40000648,200162,2026-07-19,,Digital,monthly,899,active
+40000649,200984,2026-07-20,2026-09-07,Digital Plus,annual,1299,cancelled
+40000650,200813,2026-07-21,,Print + Digital,monthly,2499,trial
+40000651,200108,2026-07-22,,Digital,annual,899,active
+40000652,200203,2026-07-23,2026-09-13,Digital Plus,monthly,1299,cancelled
+40000653,200953,2026-07-24,,Print + Digital,annual,2499,trial
+40000654,200453,2026-07-25,,Digital,monthly,899,active
+40000655,200007,2026-07-26,2026-09-19,Digital Plus,annual,1299,cancelled
+40000656,200003,2026-07-27,,Print + Digital,monthly,2499,trial
+40000657,200025,2026-07-28,,Digital,annual,899,active
+40000658,200489,2026-07-29,2026-09-25,Digital Plus,monthly,1299,cancelled
+40000659,200592,2026-07-30,,Print + Digital,annual,2499,trial
+40000660,200630,2026-06-01,,Digital,monthly,899,active
+40000661,200185,2026-06-02,2026-08-02,Digital Plus,annual,1299,cancelled
+40000662,200552,2026-06-03,,Print + Digital,monthly,2499,trial
+40000663,200799,2026-06-04,,Digital,annual,899,active
+40000664,200985,2026-06-05,2026-08-08,Digital Plus,monthly,1299,cancelled
+40000665,200727,2026-06-06,,Print + Digital,annual,2499,trial
+40000666,200582,2026-06-07,,Digital,monthly,899,active
+40000667,200359,2026-06-08,2026-08-14,Digital Plus,annual,1299,cancelled
+40000668,200373,2026-06-09,,Print + Digital,monthly,2499,trial
+40000669,200695,2026-06-10,,Digital,annual,899,active
+40000670,200672,2026-06-11,2026-08-20,Digital Plus,monthly,1299,cancelled
+40000671,200787,2026-06-12,,Print + Digital,annual,2499,trial
+40000672,200826,2026-06-13,,Digital,monthly,899,active
+40000673,200847,2026-06-14,2026-08-26,Digital Plus,annual,1299,cancelled
+40000674,200878,2026-06-15,,Print + Digital,monthly,2499,trial
+40000675,200185,2026-06-16,,Digital,annual,899,active
+40000676,200474,2026-06-17,2026-07-18,Digital Plus,monthly,1299,cancelled
+40000677,200835,2026-06-18,,Print + Digital,annual,2499,trial
+40000678,200077,2026-06-19,,Digital,monthly,899,active
+40000679,200908,2026-06-20,2026-07-24,Digital Plus,annual,1299,cancelled
+40000680,200055,2026-06-21,,Print + Digital,monthly,2499,trial
+40000681,200211,2026-06-22,,Digital,annual,899,active
+40000682,200924,2026-06-23,2026-07-30,Digital Plus,monthly,1299,cancelled
+40000683,200297,2026-06-24,,Print + Digital,annual,2499,trial
+40000684,200688,2026-06-25,,Digital,monthly,899,active
+40000685,200856,2026-06-26,2026-08-05,Digital Plus,annual,1299,cancelled
+40000686,200026,2026-06-27,,Print + Digital,monthly,2499,trial
+40000687,200780,2026-06-28,,Digital,annual,899,active
+40000688,200220,2026-06-29,2026-08-11,Digital Plus,monthly,1299,cancelled
+40000689,200095,2026-06-30,,Print + Digital,annual,2499,trial
+40000690,200379,2026-07-01,,Digital,monthly,899,active
+40000691,200125,2026-07-02,2026-08-17,Digital Plus,annual,1299,cancelled
+40000692,200249,2026-07-03,,Print + Digital,monthly,2499,trial
+40000693,200427,2026-07-04,,Digital,annual,899,active
+40000694,200394,2026-07-05,2026-08-23,Digital Plus,monthly,1299,cancelled
+40000695,200340,2026-07-06,,Print + Digital,annual,2499,trial
+40000696,200516,2026-07-07,,Digital,monthly,899,active
+40000697,200646,2026-07-08,2026-08-29,Digital Plus,annual,1299,cancelled
+40000698,200364,2026-07-09,,Print + Digital,monthly,2499,trial
+40000699,200361,2026-07-10,,Digital,annual,899,active
+40000700,200937,2026-07-11,2026-09-04,Digital Plus,monthly,1299,cancelled
+40000701,200563,2026-07-12,,Print + Digital,annual,2499,trial
+40000702,200561,2026-07-13,,Digital,monthly,899,active
+40000703,200884,2026-07-14,2026-09-10,Digital Plus,annual,1299,cancelled
+40000704,200400,2026-07-15,,Print + Digital,monthly,2499,trial
+40000705,200677,2026-07-16,,Digital,annual,899,active
+40000706,200794,2026-07-17,2026-09-16,Digital Plus,monthly,1299,cancelled
+40000707,200477,2026-07-18,,Print + Digital,annual,2499,trial
+40000708,200480,2026-07-19,,Digital,monthly,899,active
+40000709,200592,2026-07-20,2026-09-22,Digital Plus,annual,1299,cancelled
+40000710,200630,2026-07-21,,Print + Digital,monthly,2499,trial
+40000711,200692,2026-07-22,,Digital,annual,899,active
+40000712,200811,2026-07-23,2026-09-28,Digital Plus,monthly,1299,cancelled
+40000713,200648,2026-07-24,,Print + Digital,annual,2499,trial
+40000714,200244,2026-07-25,,Digital,monthly,899,active
+40000715,200695,2026-07-26,2026-10-04,Digital Plus,annual,1299,cancelled
+40000716,200049,2026-07-27,,Print + Digital,monthly,2499,trial
+40000717,200708,2026-07-28,,Digital,annual,899,active
+40000718,200446,2026-07-29,2026-10-10,Digital Plus,monthly,1299,cancelled
+40000719,200773,2026-07-30,,Print + Digital,annual,2499,trial
+40000720,200094,2026-06-01,,Digital,monthly,899,active
+40000721,200540,2026-06-02,2026-07-03,Digital Plus,annual,1299,cancelled
+40000722,200213,2026-06-03,,Print + Digital,monthly,2499,trial
+40000723,200607,2026-06-04,,Digital,annual,899,active
+40000724,200889,2026-06-05,2026-07-09,Digital Plus,monthly,1299,cancelled
+40000725,200012,2026-06-06,,Print + Digital,annual,2499,trial
+40000726,200583,2026-06-07,,Digital,monthly,899,active
+40000727,200294,2026-06-08,2026-07-15,Digital Plus,annual,1299,cancelled
+40000728,200155,2026-06-09,,Print + Digital,monthly,2499,trial
+40000729,200560,2026-06-10,,Digital,annual,899,active
+40000730,200754,2026-06-11,2026-07-21,Digital Plus,monthly,1299,cancelled
+40000731,200101,2026-06-12,,Print + Digital,annual,2499,trial
+40000732,200984,2026-06-13,,Digital,monthly,899,active
+40000733,200056,2026-06-14,2026-07-27,Digital Plus,annual,1299,cancelled
+40000734,200085,2026-06-15,,Print + Digital,monthly,2499,trial
+40000735,200391,2026-06-16,,Digital,annual,899,active
+40000736,200301,2026-06-17,2026-08-02,Digital Plus,monthly,1299,cancelled
+40000737,200675,2026-06-18,,Print + Digital,annual,2499,trial
+40000738,200957,2026-06-19,,Digital,monthly,899,active
+40000739,200857,2026-06-20,2026-08-08,Digital Plus,annual,1299,cancelled
+40000740,200733,2026-06-21,,Print + Digital,monthly,2499,trial
+40000741,200696,2026-06-22,,Digital,annual,899,active
+40000742,200563,2026-06-23,2026-08-14,Digital Plus,monthly,1299,cancelled
+40000743,200497,2026-06-24,,Print + Digital,annual,2499,trial
+40000744,200926,2026-06-25,,Digital,monthly,899,active
+40000745,200540,2026-06-26,2026-08-20,Digital Plus,annual,1299,cancelled
+40000746,200661,2026-06-27,,Print + Digital,monthly,2499,trial
+40000747,200228,2026-06-28,,Digital,annual,899,active
+40000748,200361,2026-06-29,2026-08-26,Digital Plus,monthly,1299,cancelled
+40000749,200049,2026-06-30,,Print + Digital,annual,2499,trial
+40000750,200132,2026-07-01,,Digital,monthly,899,active
+40000751,200308,2026-07-02,2026-09-01,Digital Plus,annual,1299,cancelled
+40000752,200072,2026-07-03,,Print + Digital,monthly,2499,trial
+40000753,200397,2026-07-04,,Digital,annual,899,active
+40000754,200392,2026-07-05,2026-09-07,Digital Plus,monthly,1299,cancelled
+40000755,200541,2026-07-06,,Print + Digital,annual,2499,trial
+40000756,200075,2026-07-07,,Digital,monthly,899,active
+40000757,200243,2026-07-08,2026-09-13,Digital Plus,annual,1299,cancelled
+40000758,200358,2026-07-09,,Print + Digital,monthly,2499,trial
+40000759,200437,2026-07-10,,Digital,annual,899,active
+40000760,200474,2026-07-11,2026-09-19,Digital Plus,monthly,1299,cancelled
+40000761,200308,2026-07-12,,Print + Digital,annual,2499,trial
+40000762,200633,2026-07-13,,Digital,monthly,899,active
+40000763,200337,2026-07-14,2026-09-25,Digital Plus,annual,1299,cancelled
+40000764,200236,2026-07-15,,Print + Digital,monthly,2499,trial
+40000765,200254,2026-07-16,,Digital,annual,899,active
+40000766,200102,2026-07-17,2026-08-17,Digital Plus,monthly,1299,cancelled
+40000767,200376,2026-07-18,,Print + Digital,annual,2499,trial
+40000768,200944,2026-07-19,,Digital,monthly,899,active
+40000769,200725,2026-07-20,2026-08-23,Digital Plus,annual,1299,cancelled
+40000770,200619,2026-07-21,,Print + Digital,monthly,2499,trial
+40000771,200129,2026-07-22,,Digital,annual,899,active
+40000772,2004,2026-07-23,2026-08-29,Digital Plus,monthly,1299,cancelled
+40000773,200634,2026-07-24,,Print + Digital,annual,2499,trial
+40000774,200097,2026-07-25,,Digital,monthly,899,active
+40000775,200068,2026-07-26,2026-09-04,Digital Plus,annual,1299,cancelled
+40000776,200336,2026-07-27,,Print + Digital,monthly,2499,trial
+40000777,200226,2026-07-28,,Digital,annual,899,active
+40000778,200845,2026-07-29,2026-09-10,Digital Plus,monthly,1299,cancelled
+40000779,200151,2026-07-30,,Print + Digital,annual,2499,trial
+40000780,200649,2026-06-01,,Digital,monthly,899,active
+40000781,200731,2026-06-02,2026-07-18,Digital Plus,annual,1299,cancelled
+40000782,200927,2026-06-03,,Print + Digital,monthly,2499,trial
+40000783,200027,2026-06-04,,Digital,annual,899,active
+40000784,200242,2026-06-05,2026-07-24,Digital Plus,monthly,1299,cancelled
+40000785,200177,2026-06-06,,Print + Digital,annual,2499,trial
+40000786,200357,2026-06-07,,Digital,monthly,899,active
+40000787,200875,2026-06-08,2026-07-30,Digital Plus,annual,1299,cancelled
+40000788,200071,2026-06-09,,Print + Digital,monthly,2499,trial
+40000789,200539,2026-06-10,,Digital,annual,899,active
+40000790,200857,2026-06-11,2026-08-05,Digital Plus,monthly,1299,cancelled
+40000791,200080,2026-06-12,,Print + Digital,annual,2499,trial
+40000792,200649,2026-06-13,,Digital,monthly,899,active
+40000793,200474,2026-06-14,2026-08-11,Digital Plus,annual,1299,cancelled
+40000794,200223,2026-06-15,,Print + Digital,monthly,2499,trial
+40000795,200122,2026-06-16,,Digital,annual,899,active
+40000796,200937,2026-06-17,2026-08-17,Digital Plus,monthly,1299,cancelled
+40000797,200125,2026-06-18,,Print + Digital,annual,2499,trial
+40000798,200810,2026-06-19,,Digital,monthly,899,active
+40000799,200681,2026-06-20,2026-08-23,Digital Plus,annual,1299,cancelled
+40000800,200670,2026-06-21,,Print + Digital,monthly,2499,trial
+40000801,200892,2026-06-22,,Digital,annual,899,active
+40000802,200653,2026-06-23,2026-08-29,Digital Plus,monthly,1299,cancelled
+40000803,200789,2026-06-24,,Print + Digital,annual,2499,trial
+40000804,200138,2026-06-25,,Digital,monthly,899,active
+40000805,200151,2026-06-26,2026-09-04,Digital Plus,annual,1299,cancelled
+40000806,200234,2026-06-27,,Print + Digital,monthly,2499,trial
+40000807,200115,2026-06-28,,Digital,annual,899,active
+40000808,200043,2026-06-29,2026-09-10,Digital Plus,monthly,1299,cancelled
+40000809,200330,2026-06-30,,Print + Digital,annual,2499,trial
+40000810,200599,2026-07-01,,Digital,monthly,899,active
+40000811,200145,2026-07-02,2026-08-02,Digital Plus,annual,1299,cancelled
+40000812,200472,2026-07-03,,Print + Digital,monthly,2499,trial
+40000813,200292,2026-07-04,,Digital,annual,899,active
+40000814,200409,2026-07-05,2026-08-08,Digital Plus,monthly,1299,cancelled
+40000815,200224,2026-07-06,,Print + Digital,annual,2499,trial
+40000816,200251,2026-07-07,,Digital,monthly,899,active
+40000817,200621,2026-07-08,2026-08-14,Digital Plus,annual,1299,cancelled
+40000818,200775,2026-07-09,,Print + Digital,monthly,2499,trial
+40000819,200091,2026-07-10,,Digital,annual,899,active
+40000820,200742,2026-07-11,2026-08-20,Digital Plus,monthly,1299,cancelled
+40000821,200390,2026-07-12,,Print + Digital,annual,2499,trial
+40000822,200064,2026-07-13,,Digital,monthly,899,active
+40000823,200428,2026-07-14,2026-08-26,Digital Plus,annual,1299,cancelled
+40000824,200232,2026-07-15,,Print + Digital,monthly,2499,trial
+40000825,200467,2026-07-16,,Digital,annual,899,active
+40000826,200550,2026-07-17,2026-09-01,Digital Plus,monthly,1299,cancelled
+40000827,200648,2026-07-18,,Print + Digital,annual,2499,trial
+40000828,200091,2026-07-19,,Digital,monthly,899,active
+40000829,200272,2026-07-20,2026-09-07,Digital Plus,annual,1299,cancelled
+40000830,200657,2026-07-21,,Print + Digital,monthly,2499,trial
+40000831,200424,2026-07-22,,Digital,annual,899,active
+40000832,200245,2026-07-23,2026-09-13,Digital Plus,monthly,1299,cancelled
+40000833,200060,2026-07-24,,Print + Digital,annual,2499,trial
+40000834,200156,2026-07-25,,Digital,monthly,899,active
+40000835,200550,2026-07-26,2026-09-19,Digital Plus,annual,1299,cancelled
+40000836,200086,2026-07-27,,Print + Digital,monthly,2499,trial
+40000837,200657,2026-07-28,,Digital,annual,899,active
+40000838,200937,2026-07-29,2026-09-25,Digital Plus,monthly,1299,cancelled
+40000839,200304,2026-07-30,,Print + Digital,annual,2499,trial
+40000840,200123,2026-06-01,,Digital,monthly,899,active
+40000841,200635,2026-06-02,2026-08-02,Digital Plus,annual,1299,cancelled
+40000842,200113,2026-06-03,,Print + Digital,monthly,2499,trial
+40000843,200503,2026-06-04,,Digital,annual,899,active
+40000844,200340,2026-06-05,2026-08-08,Digital Plus,monthly,1299,cancelled
+40000845,200190,2026-06-06,,Print + Digital,annual,2499,trial
+40000846,200176,2026-06-07,,Digital,monthly,899,active
+40000847,200952,2026-06-08,2026-08-14,Digital Plus,annual,1299,cancelled
+40000848,200760,2026-06-09,,Print + Digital,monthly,2499,trial
+40000849,200197,2026-06-10,,Digital,annual,899,active
+40000850,200730,2026-06-11,2026-08-20,Digital Plus,monthly,1299,cancelled
+40000851,200555,2026-06-12,,Print + Digital,annual,2499,trial
+40000852,200883,2026-06-13,,Digital,monthly,899,active
+40000853,200948,2026-06-14,2026-08-26,Digital Plus,annual,1299,cancelled
+40000854,200533,2026-06-15,,Print + Digital,monthly,2499,trial
+40000855,200721,2026-06-16,,Digital,annual,899,active
+40000856,200150,2026-06-17,2026-07-18,Digital Plus,monthly,1299,cancelled
+40000857,200542,2026-06-18,,Print + Digital,annual,2499,trial
+40000858,200235,2026-06-19,,Digital,monthly,899,active
+40000859,200214,2026-06-20,2026-07-24,Digital Plus,annual,1299,cancelled
+40000860,200025,2026-06-21,,Print + Digital,monthly,2499,trial
+40000861,200262,2026-06-22,,Digital,annual,899,active
+40000862,200858,2026-06-23,2026-07-30,Digital Plus,monthly,1299,cancelled
+40000863,200958,2026-06-24,,Print + Digital,annual,2499,trial
+40000864,200431,2026-06-25,,Digital,monthly,899,active
+40000865,200096,2026-06-26,2026-08-05,Digital Plus,annual,1299,cancelled
+40000866,200869,2026-06-27,,Print + Digital,monthly,2499,trial
+40000867,200034,2026-06-28,,Digital,annual,899,active
+40000868,200221,2026-06-29,2026-08-11,Digital Plus,monthly,1299,cancelled
+40000869,200242,2026-06-30,,Print + Digital,annual,2499,trial
+40000870,200763,2026-07-01,,Digital,monthly,899,active
+40000871,200662,2026-07-02,2026-08-17,Digital Plus,annual,1299,cancelled
+40000872,200018,2026-07-03,,Print + Digital,monthly,2499,trial
+40000873,200441,2026-07-04,,Digital,annual,899,active
+40000874,200072,2026-07-05,2026-08-23,Digital Plus,monthly,1299,cancelled
+40000875,200826,2026-07-06,,Print + Digital,annual,2499,trial
+40000876,200254,2026-07-07,,Digital,monthly,899,active
+40000877,200387,2026-07-08,2026-08-29,Digital Plus,annual,1299,cancelled
+40000878,200493,2026-07-09,,Print + Digital,monthly,2499,trial
+40000879,200042,2026-07-10,,Digital,annual,899,active
+40000880,200925,2026-07-11,2026-09-04,Digital Plus,monthly,1299,cancelled
+40000881,200485,2026-07-12,,Print + Digital,annual,2499,trial
+40000882,200686,2026-07-13,,Digital,monthly,899,active
+40000883,200401,2026-07-14,2026-09-10,Digital Plus,annual,1299,cancelled
+40000884,200792,2026-07-15,,Print + Digital,monthly,2499,trial
+40000885,200010,2026-07-16,,Digital,annual,899,active
+40000886,200244,2026-07-17,2026-09-16,Digital Plus,monthly,1299,cancelled
+40000887,200621,2026-07-18,,Print + Digital,annual,2499,trial
+40000888,200857,2026-07-19,,Digital,monthly,899,active
+40000889,200771,2026-07-20,2026-09-22,Digital Plus,annual,1299,cancelled
+40000890,200505,2026-07-21,,Print + Digital,monthly,2499,trial
+40000891,200750,2026-07-22,,Digital,annual,899,active
+40000892,200477,2026-07-23,2026-09-28,Digital Plus,monthly,1299,cancelled
+40000893,200040,2026-07-24,,Print + Digital,annual,2499,trial
+40000894,200079,2026-07-25,,Digital,monthly,899,active
+40000895,200635,2026-07-26,2026-10-04,Digital Plus,annual,1299,cancelled
+40000896,200030,2026-07-27,,Print + Digital,monthly,2499,trial
+40000897,200985,2026-07-28,,Digital,annual,899,active
+40000898,200678,2026-07-29,2026-10-10,Digital Plus,monthly,1299,cancelled
+40000899,200248,2026-07-30,,Print + Digital,annual,2499,trial
+40000900,200411,2026-06-01,,Digital,monthly,899,active
+40000901,200243,2026-06-02,2026-07-03,Digital Plus,annual,1299,cancelled
+40000902,200755,2026-06-03,,Print + Digital,monthly,2499,trial
+40000903,200676,2026-06-04,,Digital,annual,899,active
+40000904,200504,2026-06-05,2026-07-09,Digital Plus,monthly,1299,cancelled
+40000905,200571,2026-06-06,,Print + Digital,annual,2499,trial
+40000906,200034,2026-06-07,,Digital,monthly,899,active
+40000907,200357,2026-06-08,2026-07-15,Digital Plus,annual,1299,cancelled
+40000908,200957,2026-06-09,,Print + Digital,monthly,2499,trial
+40000909,200191,2026-06-10,,Digital,annual,899,active
+40000910,200190,2026-06-11,2026-07-21,Digital Plus,monthly,1299,cancelled
+40000911,200488,2026-06-12,,Print + Digital,annual,2499,trial
+40000912,200610,2026-06-13,,Digital,monthly,899,active
+40000913,200517,2026-06-14,2026-07-27,Digital Plus,annual,1299,cancelled
+40000914,200047,2026-06-15,,Print + Digital,monthly,2499,trial
+40000915,200939,2026-06-16,,Digital,annual,899,active
+40000916,200740,2026-06-17,2026-08-02,Digital Plus,monthly,1299,cancelled
+40000917,200040,2026-06-18,,Print + Digital,annual,2499,trial
+40000918,200876,2026-06-19,,Digital,monthly,899,active
+40000919,200165,2026-06-20,2026-08-08,Digital Plus,annual,1299,cancelled
+40000920,200172,2026-06-21,,Print + Digital,monthly,2499,trial
+40000921,200081,2026-06-22,,Digital,annual,899,active
+40000922,200529,2026-06-23,2026-08-14,Digital Plus,monthly,1299,cancelled
+40000923,200633,2026-06-24,,Print + Digital,annual,2499,trial
+40000924,200503,2026-06-25,,Digital,monthly,899,active
+40000925,200260,2026-06-26,2026-08-20,Digital Plus,annual,1299,cancelled
+40000926,200960,2026-06-27,,Print + Digital,monthly,2499,trial
+40000927,2003,2026-06-28,,Digital,annual,899,active
+40000928,200752,2026-06-29,2026-08-26,Digital Plus,monthly,1299,cancelled
+40000929,200331,2026-06-30,,Print + Digital,annual,2499,trial
+40000930,200477,2026-07-01,,Digital,monthly,899,active
+40000931,200045,2026-07-02,2026-09-01,Digital Plus,annual,1299,cancelled
+40000932,200999,2026-07-03,,Print + Digital,monthly,2499,trial
+40000933,200013,2026-07-04,,Digital,annual,899,active
+40000934,200004,2026-07-05,2026-09-07,Digital Plus,monthly,1299,cancelled
+40000935,200648,2026-07-06,,Print + Digital,annual,2499,trial
+40000936,200932,2026-07-07,,Digital,monthly,899,active
+40000937,200999,2026-07-08,2026-09-13,Digital Plus,annual,1299,cancelled
+40000938,200002,2026-07-09,,Print + Digital,monthly,2499,trial
+40000939,200971,2026-07-10,,Digital,annual,899,active
+40000940,200653,2026-07-11,2026-09-19,Digital Plus,monthly,1299,cancelled
+40000941,200114,2026-07-12,,Print + Digital,annual,2499,trial
+40000942,200558,2026-07-13,,Digital,monthly,899,active
+40000943,200242,2026-07-14,2026-09-25,Digital Plus,annual,1299,cancelled
+40000944,200770,2026-07-15,,Print + Digital,monthly,2499,trial
+40000945,200906,2026-07-16,,Digital,annual,899,active
+40000946,200428,2026-07-17,2026-08-17,Digital Plus,monthly,1299,cancelled
+40000947,200597,2026-07-18,,Print + Digital,annual,2499,trial
+40000948,200147,2026-07-19,,Digital,monthly,899,active
+40000949,200457,2026-07-20,2026-08-23,Digital Plus,annual,1299,cancelled
+40000950,200128,2026-07-21,,Print + Digital,monthly,2499,trial
+40000951,200530,2026-07-22,,Digital,annual,899,active
+40000952,200166,2026-07-23,2026-08-29,Digital Plus,monthly,1299,cancelled
+40000953,200013,2026-07-24,,Print + Digital,annual,2499,trial
+40000954,200898,2026-07-25,,Digital,monthly,899,active
+40000955,200553,2026-07-26,2026-09-04,Digital Plus,annual,1299,cancelled
+40000956,200478,2026-07-27,,Print + Digital,monthly,2499,trial
+40000957,200731,2026-07-28,,Digital,annual,899,active
+40000958,200662,2026-07-29,2026-09-10,Digital Plus,monthly,1299,cancelled
+40000959,200182,2026-07-30,,Print + Digital,annual,2499,trial
+40000960,200499,2026-06-01,,Digital,monthly,899,active
+40000961,200675,2026-06-02,2026-07-18,Digital Plus,annual,1299,cancelled
+40000962,200187,2026-06-03,,Print + Digital,monthly,2499,trial
+40000963,200918,2026-06-04,,Digital,annual,899,active
+40000964,200628,2026-06-05,2026-07-24,Digital Plus,monthly,1299,cancelled
+40000965,200379,2026-06-06,,Print + Digital,annual,2499,trial
+40000966,200395,2026-06-07,,Digital,monthly,899,active
+40000967,200884,2026-06-08,2026-07-30,Digital Plus,annual,1299,cancelled
+40000968,200948,2026-06-09,,Print + Digital,monthly,2499,trial
+40000969,200010,2026-06-10,,Digital,annual,899,active
+40000970,200113,2026-06-11,2026-08-05,Digital Plus,monthly,1299,cancelled
+40000971,200294,2026-06-12,,Print + Digital,annual,2499,trial
+40000972,200701,2026-06-13,,Digital,monthly,899,active
+40000973,200355,2026-06-14,2026-08-11,Digital Plus,annual,1299,cancelled
+40000974,200166,2026-06-15,,Print + Digital,monthly,2499,trial
+40000975,200903,2026-06-16,,Digital,annual,899,active
+40000976,200788,2026-06-17,2026-08-17,Digital Plus,monthly,1299,cancelled
+40000977,200821,2026-06-18,,Print + Digital,annual,2499,trial
+40000978,200447,2026-06-19,,Digital,monthly,899,active
+40000979,200622,2026-06-20,2026-08-23,Digital Plus,annual,1299,cancelled
+40000980,200237,2026-06-21,,Print + Digital,monthly,2499,trial
+40000981,200956,2026-06-22,,Digital,annual,899,active
+40000982,200877,2026-06-23,2026-08-29,Digital Plus,monthly,1299,cancelled
+40000983,200287,2026-06-24,,Print + Digital,annual,2499,trial
+40000984,200527,2026-06-25,,Digital,monthly,899,active
+40000985,200814,2026-06-26,2026-09-04,Digital Plus,annual,1299,cancelled
+40000986,200162,2026-06-27,,Print + Digital,monthly,2499,trial
+40000987,200312,2026-06-28,,Digital,annual,899,active
+40000988,200072,2026-06-29,2026-09-10,Digital Plus,monthly,1299,cancelled
+40000989,200467,2026-06-30,,Print + Digital,annual,2499,trial
+40000990,200376,2026-07-01,,Digital,monthly,899,active
+40000991,200635,2026-07-02,2026-08-02,Digital Plus,annual,1299,cancelled
+40000992,200494,2026-07-03,,Print + Digital,monthly,2499,trial
+40000993,200691,2026-07-04,,Digital,annual,899,active
+40000994,200859,2026-07-05,2026-08-08,Digital Plus,monthly,1299,cancelled
+40000995,200068,2026-07-06,,Print + Digital,annual,2499,trial
+40000996,200137,2026-07-07,,Digital,monthly,899,active
+40000997,200128,2026-07-08,2026-08-14,Digital Plus,annual,1299,cancelled
+40000998,200795,2026-07-09,,Print + Digital,monthly,2499,trial
+40000999,200338,2026-07-10,,Digital,annual,899,active
+40001000,200249,2026-07-11,2026-08-20,Digital Plus,monthly,1299,cancelled
