@@ -1,0 +1,6 @@
+subscription_id,reader_id,started_at,ended_at,plan_name,billing_period,monthly_price_pence,status
+4001,2001,2026-06-01,,Digital Plus,monthly,1299,active
+4002,2003,2026-06-02,,Digital,monthly,899,active
+4003,2005,2026-06-03,2026-06-20,Digital,monthly,899,cancelled
+4004,2008,2026-06-05,,Premium,annual,1999,active
+4005,2002,2026-06-06,,Digital Plus,monthly,1299,trial

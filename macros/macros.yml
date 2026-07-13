@@ -1,0 +1,32 @@
+version: 2
+
+macros:
+  - name: pence_to_pounds
+    description: Converts a numeric pence column to pounds.
+    arguments:
+      - name: column_name
+        type: column
+        description: Pence-denominated column or expression.
+      - name: scale
+        type: integer
+        description: Decimal scale for the rounded pound amount.
+
+  - name: safe_divide
+    description: Divides two expressions and returns null when the denominator is zero.
+    arguments:
+      - name: numerator
+        type: string
+        description: Numerator SQL expression.
+      - name: denominator
+        type: string
+        description: Denominator SQL expression.
+
+  - name: generate_schema_name
+    description: Appends custom schemas to the active target schema.
+    arguments:
+      - name: custom_schema_name
+        type: string
+        description: Optional custom schema configured on a resource.
+      - name: node
+        type: any
+        description: dbt node passed by dbt when resolving schemas.

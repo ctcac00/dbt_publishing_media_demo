@@ -1,0 +1,103 @@
+version: 2
+
+models:
+  - name: stg_articles
+    description: Clean article metadata from seed-backed raw article data.
+    columns:
+      - name: article_id
+        data_tests:
+          - not_null
+          - unique
+      - name: article_key
+        data_tests:
+          - not_null
+          - unique
+      - name: section
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['News', 'Culture', 'Business', 'Sports', 'Media', 'Entertainment']
+      - name: primary_channel
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['search', 'social', 'newsletter']
+
+  - name: stg_readers
+    description: Clean reader signup and acquisition attributes.
+    columns:
+      - name: reader_id
+        data_tests:
+          - not_null
+          - unique
+      - name: reader_key
+        data_tests:
+          - not_null
+          - unique
+      - name: acquisition_channel
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['newsletter', 'search', 'social', 'referral']
+
+  - name: stg_pageviews
+    description: Clean article pageview events.
+    columns:
+      - name: pageview_id
+        data_tests:
+          - not_null
+          - unique
+      - name: article_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_articles')
+                field: article_id
+      - name: reader_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_readers')
+                field: reader_id
+
+  - name: stg_subscriptions
+    description: Clean reader subscription lifecycle records.
+    columns:
+      - name: subscription_id
+        data_tests:
+          - not_null
+          - unique
+      - name: reader_id
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('stg_readers')
+                field: reader_id
+      - name: status
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['active', 'cancelled', 'trial']
+      - name: monthly_price_gbp
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+                max_value: 100
+
+  - name: stg_ad_campaigns
+    description: Clean article-level advertising campaign bookings.
+    columns:
+      - name: campaign_id
+        data_tests:
+          - not_null
+          - unique
+      - name: article_id
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('stg_articles')
+                field: article_id

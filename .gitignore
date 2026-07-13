@@ -3,3 +3,8 @@ dbt_internal_packages/
 logs/
 target/
 .env
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json

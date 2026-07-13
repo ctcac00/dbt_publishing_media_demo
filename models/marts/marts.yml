@@ -1,0 +1,39 @@
+version: 2
+
+models:
+  - name: fct_article_performance
+    description: Incremental article performance fact table for engagement and advertising yield analysis.
+    columns:
+      - name: article_key
+        data_tests:
+          - not_null
+          - unique
+      - name: article_id
+        data_tests:
+          - not_null
+          - unique
+      - name: section
+        data_tests:
+          - not_null
+      - name: booked_ad_revenue_gbp
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+
+  - name: dim_readers
+    description: Enriched reader dimension with acquisition, engagement, and subscription status.
+    columns:
+      - name: reader_key
+        data_tests:
+          - not_null
+          - unique
+      - name: reader_id
+        data_tests:
+          - not_null
+          - unique
+      - name: reader_status
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['subscriber', 'lapsed', 'registered']

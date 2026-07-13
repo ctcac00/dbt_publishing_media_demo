@@ -1,0 +1,9 @@
+reader_id,email_domain,signup_date,acquisition_channel,country,age_band,marketing_opt_in
+2001,example.com,2026-05-10,newsletter,United Kingdom,25-34,true
+2002,mail.com,2026-05-12,search,United States,35-44,false
+2003,inbox.com,2026-05-14,social,United Kingdom,18-24,true
+2004,example.org,2026-05-15,referral,Canada,45-54,true
+2005,reader.net,2026-05-18,newsletter,Australia,35-44,false
+2006,mail.com,2026-05-21,search,United States,25-34,true
+2007,inbox.com,2026-05-25,social,Ireland,55-64,false
+2008,example.com,2026-05-29,newsletter,United Kingdom,45-54,true

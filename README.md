@@ -1,12 +1,19 @@
-# 🥪 The Jaffle Shop 🦘
+# Publishing Media Demo
 
-_powered by the dbt Fusion engine_
+This dbt project models a generic digital publishing business on Snowflake. It answers questions about content engagement, reader revenue, and advertising yield by article section and acquisition channel.
 
-Welcome! This is a sandbox project for exploring the basic functionality of Fusion. It's based on a fictional restaurant called the Jaffle Shop that serves [jaffles](https://en.wikipedia.org/wiki/Pie_iron).
+## Data Model
 
-To get started:
-1. Set up your database connection in `~/.dbt/profiles.yml`. If you got here by running `dbt init`, you should already be good to go.
-2. Run `dbt build`. That's it!
+- `seeds/` contains raw article, reader, pageview, subscription, and ad campaign data.
+- `models/staging/` casts and renames seed fields into Snowflake-friendly staging refs.
+- `models/intermediate/` builds article engagement and reader revenue rollups.
+- `models/marts/` exposes `fct_article_performance` and `dim_readers` for analytics.
 
-> [!NOTE]
-> If you're brand-new to dbt, we recommend starting with the [dbt Learn](https://learn.getdbt.com/) platform. It's a free, interactive way to learn dbt, and it's a great way to get started if you're new to the tool.
+## Local Workflow
+
+1. Confirm the `publishing_media_demo` profile exists in `~/.dbt/profiles.yml`.
+2. Install packages with `dbt deps` when dependencies change.
+3. Load seeds with `dbt seed`.
+4. Build and test the graph with `dbt build`.
+
+Terraform under `terraform/` creates dbt platform resources only: project, Snowflake connection, environments, credentials, and a daily Production `dbt build` job.

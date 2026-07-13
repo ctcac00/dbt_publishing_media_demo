@@ -1,0 +1,18 @@
+version: 2
+
+models:
+  - name: int_article_engagement
+    description: Article-level engagement and advertising booking rollup.
+    columns:
+      - name: article_id
+        data_tests:
+          - not_null
+          - unique
+
+  - name: int_reader_revenue
+    description: Reader-level subscription and engagement rollup.
+    columns:
+      - name: reader_id
+        data_tests:
+          - not_null
+          - unique

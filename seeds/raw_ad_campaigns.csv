@@ -1,0 +1,7 @@
+campaign_id,article_id,campaign_name,advertiser_category,flight_start_date,flight_end_date,spend_pence,booked_impressions
+5001,1001,Urban Mobility Launch,Transport,2026-06-01,2026-06-07,180000,90000
+5002,1002,Summer Events Guide,Entertainment,2026-06-02,2026-06-08,125000,64000
+5003,1003,Financial Services Awareness,Finance,2026-06-03,2026-06-10,220000,100000
+5004,1004,Sportswear Weekend,Sports,2026-06-04,2026-06-11,160000,72000
+5005,1005,Media Tech Briefing,Technology,2026-06-05,2026-06-12,190000,80000
+5006,1006,Streaming Premieres,Entertainment,2026-06-06,2026-06-13,140000,70000

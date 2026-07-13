@@ -1,24 +1,26 @@
-name: jaffle_shop
+name: publishing_media_demo
 
-profile: jaffle_shop
+profile: publishing_media_demo
 
 seed-paths: ["seeds"]
 model-paths: ["models"]
 macro-paths: ["macros"]
+test-paths: ["tests"]
 clean-targets:
   - "target"
   - "dbt_packages"
 
 seeds:
-  # Builds seeds into '<your_schema_name>_raw'
-  jaffle_shop:
+  publishing_media_demo:
     +schema: raw
+    +quote_columns: false
 
 models:
-  jaffle_shop:
+  publishing_media_demo:
     +static_analysis: strict
-    # Materialize staging models as views, and marts as tables
     staging:
       +materialized: view
     marts:
       +materialized: table
+    intermediate:
+      +materialized: ephemeral
