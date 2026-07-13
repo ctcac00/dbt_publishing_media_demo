@@ -101,3 +101,70 @@ models:
               arguments:
                 to: ref('stg_articles')
                 field: article_id
+
+  - name: stg_newsletter_sends
+    description: Clean newsletter send events linked to articles and readers.
+    columns:
+      - name: send_id
+        data_tests:
+          - not_null
+          - unique
+      - name: article_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_articles')
+                field: article_id
+      - name: reader_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_readers')
+                field: reader_id
+      - name: send_status
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['sent', 'bounced']
+
+  - name: stg_paywall_events
+    description: Clean paywall impression and conversion events by article and reader.
+    columns:
+      - name: paywall_event_id
+        data_tests:
+          - not_null
+          - unique
+      - name: article_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_articles')
+                field: article_id
+      - name: reader_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_readers')
+                field: reader_id
+      - name: event_type
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['paywall_view', 'meter_limit']
+      - name: conversion_status
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['viewed', 'converted', 'dismissed', 'trial_started']
+      - name: revenue_gbp
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0

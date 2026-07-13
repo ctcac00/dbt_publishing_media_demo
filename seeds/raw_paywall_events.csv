@@ -1,0 +1,9 @@
+paywall_event_id,article_id,reader_id,event_at,event_type,offer_name,conversion_status,revenue_pence
+7001,1003,2001,2026-06-03 08:05:00,paywall_view,Digital Plus,viewed,0
+7002,1003,2005,2026-06-03 08:25:00,paywall_view,Digital,trial_started,0
+7003,1005,2006,2026-06-05 09:10:00,paywall_view,Premium,converted,1999
+7004,1005,2008,2026-06-05 09:35:00,paywall_view,Premium,converted,1999
+7005,1003,2002,2026-06-03 10:15:00,paywall_view,Digital,dismissed,0
+7006,1005,2003,2026-06-05 11:45:00,paywall_view,Digital Plus,viewed,0
+7007,1001,2004,2026-06-01 12:10:00,meter_limit,Digital,dismissed,0
+7008,1006,2007,2026-06-06 13:25:00,meter_limit,Digital,trial_started,0

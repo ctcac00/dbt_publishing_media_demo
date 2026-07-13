@@ -37,3 +37,183 @@ models:
           - accepted_values:
               arguments:
                 values: ['subscriber', 'lapsed', 'registered']
+
+  - name: rpt_daily_content_performance
+    description: Daily content engagement by section, channel, and premium status with newsletter and paywall signals.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns:
+              - report_date
+              - section
+              - primary_channel
+              - is_premium
+    columns:
+      - name: report_date
+        data_tests:
+          - not_null
+      - name: section
+        data_tests:
+          - not_null
+      - name: primary_channel
+        data_tests:
+          - not_null
+      - name: is_premium
+        data_tests:
+          - not_null
+      - name: pageviews
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+      - name: delivered_ad_impressions
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+      - name: newsletter_sends
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+      - name: paywall_events
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+      - name: paywall_conversion_revenue_gbp
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+
+  - name: rpt_reader_acquisition_funnel
+    description: Signup cohort funnel by acquisition channel, country, and age band with subscription and paywall conversion signals.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns:
+              - signup_cohort_date
+              - acquisition_channel
+              - country
+              - age_band
+    columns:
+      - name: signup_cohort_date
+        data_tests:
+          - not_null
+      - name: acquisition_channel
+        data_tests:
+          - not_null
+      - name: country
+        data_tests:
+          - not_null
+      - name: age_band
+        data_tests:
+          - not_null
+      - name: registered_readers
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+      - name: subscriber_readers
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+      - name: subscriptions_started
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+      - name: monthly_recurring_revenue_gbp
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+      - name: paywall_conversion_revenue_gbp
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+
+  - name: rpt_ad_campaign_performance
+    description: Campaign-level booked spend, booked impressions, delivered impressions, delivery rate, and CPM.
+    columns:
+      - name: campaign_key
+        data_tests:
+          - not_null
+          - unique
+      - name: campaign_id
+        data_tests:
+          - not_null
+          - unique
+      - name: campaign_name
+        data_tests:
+          - not_null
+      - name: booked_spend_gbp
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+      - name: booked_impressions
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+      - name: delivered_impressions
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+
+  - name: rpt_subscription_revenue_daily
+    description: Daily subscription starts, cancellations, active/trial counts, and MRR by plan, billing period, and status.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns:
+              - report_date
+              - plan_name
+              - billing_period
+              - status
+    columns:
+      - name: report_date
+        data_tests:
+          - not_null
+      - name: plan_name
+        data_tests:
+          - not_null
+      - name: billing_period
+        data_tests:
+          - not_null
+      - name: status
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['active', 'cancelled', 'trial']
+      - name: subscription_starts
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+      - name: subscription_cancellations
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+      - name: active_subscriptions
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+      - name: trial_subscriptions
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0
+      - name: monthly_recurring_revenue_gbp
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: 0

@@ -1,0 +1,67 @@
+version: 2
+
+exposures:
+  - name: article_performance_dashboard
+    label: Article Performance Dashboard
+    type: dashboard
+    maturity: medium
+    url: https://example.com/dashboards/article-performance
+    description: Monitors daily article engagement, newsletter response, and paywall conversion by section and channel.
+    depends_on:
+      - ref('rpt_daily_content_performance')
+      - ref('fct_article_performance')
+    owner:
+      name: Analytics Engineering
+      email: analytics@example.com
+
+  - name: reader_acquisition_dashboard
+    label: Reader Acquisition Dashboard
+    type: dashboard
+    maturity: medium
+    url: https://example.com/dashboards/reader-acquisition
+    description: Tracks signup cohorts, subscriber conversion, and paywall conversion by acquisition segment.
+    depends_on:
+      - ref('rpt_reader_acquisition_funnel')
+      - ref('dim_readers')
+    owner:
+      name: Analytics Engineering
+      email: analytics@example.com
+
+  - name: ad_revenue_dashboard
+    label: Ad Revenue Dashboard
+    type: dashboard
+    maturity: medium
+    url: https://example.com/dashboards/ad-revenue
+    description: Reviews campaign delivery, booked spend, impressions, and CPM performance.
+    depends_on:
+      - ref('rpt_ad_campaign_performance')
+    owner:
+      name: Analytics Engineering
+      email: analytics@example.com
+
+  - name: subscription_revenue_dashboard
+    label: Subscription Revenue Dashboard
+    type: dashboard
+    maturity: medium
+    url: https://example.com/dashboards/subscription-revenue
+    description: Tracks subscription starts, cancellations, active/trial counts, and daily MRR.
+    depends_on:
+      - ref('rpt_subscription_revenue_daily')
+    owner:
+      name: Analytics Engineering
+      email: analytics@example.com
+
+  - name: publishing_growth_scorecard
+    label: Publishing Growth Scorecard
+    type: analysis
+    maturity: high
+    url: https://example.com/scorecards/publishing-growth
+    description: Executive scorecard combining content engagement, reader acquisition, ad delivery, and subscription revenue.
+    depends_on:
+      - ref('rpt_daily_content_performance')
+      - ref('rpt_reader_acquisition_funnel')
+      - ref('rpt_ad_campaign_performance')
+      - ref('rpt_subscription_revenue_daily')
+    owner:
+      name: Analytics Engineering
+      email: analytics@example.com

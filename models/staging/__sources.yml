@@ -15,3 +15,41 @@ sources:
         description: Reader subscription lifecycle records.
       - name: raw_ad_campaigns
         description: Article-level advertising campaign bookings.
+      - name: raw_newsletter_sends
+        description: Newsletter send events linked to articles and readers.
+        columns:
+          - name: send_id
+            description: Unique newsletter send event identifier.
+          - name: article_id
+            description: Article promoted in the newsletter send.
+          - name: reader_id
+            description: Reader targeted by the newsletter send.
+          - name: sent_at
+            description: Timestamp when the newsletter send was attempted.
+          - name: newsletter_name
+            description: Editorial newsletter or campaign name.
+          - name: send_status
+            description: Delivery status for the newsletter send.
+          - name: opened_at
+            description: Timestamp when the reader opened the newsletter, if available.
+          - name: clicked_at
+            description: Timestamp when the reader clicked through, if available.
+      - name: raw_paywall_events
+        description: Paywall impression and conversion events by article and reader.
+        columns:
+          - name: paywall_event_id
+            description: Unique paywall event identifier.
+          - name: article_id
+            description: Article where the paywall event occurred.
+          - name: reader_id
+            description: Reader associated with the paywall event.
+          - name: event_at
+            description: Timestamp when the paywall event occurred.
+          - name: event_type
+            description: Type of paywall trigger shown to the reader.
+          - name: offer_name
+            description: Subscription offer presented to the reader.
+          - name: conversion_status
+            description: Outcome status for the paywall event.
+          - name: revenue_pence
+            description: Conversion revenue in pence when the event converted.
