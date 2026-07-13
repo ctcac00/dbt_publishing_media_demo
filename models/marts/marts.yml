@@ -3,43 +3,239 @@ version: 2
 models:
   - name: fct_article_performance
     description: Incremental article performance fact table for engagement and advertising yield analysis.
+    semantic_model:
+      enabled: true
+      name: article_performance
+    agg_time_dimension: published_at
     columns:
       - name: article_key
+        entity:
+          type: unique
         data_tests:
           - not_null
           - unique
       - name: article_id
+        entity:
+          type: primary
+          name: article
         data_tests:
           - not_null
           - unique
+      - name: published_at
+        granularity: day
+        dimension:
+          type: time
+      - name: first_viewed_date
+        granularity: day
+        dimension:
+          type: time
+      - name: last_viewed_date
+        granularity: day
+        dimension:
+          type: time
+      - name: headline
+        dimension:
+          type: categorical
       - name: section
+        dimension:
+          type: categorical
         data_tests:
           - not_null
+      - name: author
+        dimension:
+          type: categorical
+      - name: primary_channel
+        dimension:
+          type: categorical
+      - name: is_premium
+        dimension:
+          type: categorical
       - name: booked_ad_revenue_gbp
         data_tests:
           - dbt_expectations.expect_column_values_to_be_between:
               arguments:
                 min_value: 0
+    metrics:
+      - name: article_count
+        description: Count of articles.
+        type: simple
+        label: Article Count
+        agg: count_distinct
+        expr: article_id
+      - name: article_pageviews
+        description: Total pageviews across articles.
+        type: simple
+        label: Article Pageviews
+        agg: sum
+        expr: pageviews
+      - name: article_unique_readers
+        description: Total unique-reader counts across articles.
+        type: simple
+        label: Article Unique Readers
+        agg: sum
+        expr: unique_readers
+      - name: article_sessions
+        description: Total sessions across articles.
+        type: simple
+        label: Article Sessions
+        agg: sum
+        expr: sessions
+      - name: article_engaged_seconds
+        description: Total engaged seconds across articles.
+        type: simple
+        label: Article Engaged Seconds
+        agg: sum
+        expr: engaged_seconds
+      - name: article_delivered_ad_impressions
+        description: Total delivered advertising impressions across articles.
+        type: simple
+        label: Article Delivered Ad Impressions
+        agg: sum
+        expr: delivered_ad_impressions
+      - name: article_booked_impressions
+        description: Total booked advertising impressions across articles.
+        type: simple
+        label: Article Booked Impressions
+        agg: sum
+        expr: booked_impressions
+      - name: article_booked_ad_revenue_gbp
+        description: Total booked advertising revenue in GBP across articles.
+        type: simple
+        label: Article Booked Ad Revenue GBP
+        agg: sum
+        expr: booked_ad_revenue_gbp
+      - name: article_campaign_count
+        description: Total campaign counts across articles.
+        type: simple
+        label: Article Campaign Count
+        agg: sum
+        expr: campaign_count
+      - name: average_article_engaged_seconds
+        description: Average engaged seconds per article pageview.
+        type: ratio
+        label: Average Article Engaged Seconds
+        numerator: article_engaged_seconds
+        denominator: article_pageviews
+      - name: article_booked_cpm_gbp
+        description: Booked advertising revenue per thousand booked impressions across articles.
+        type: derived
+        label: Article Booked CPM GBP
+        expr: revenue * 1000 / nullif(impressions, 0)
+        input_metrics:
+          - name: article_booked_ad_revenue_gbp
+            alias: revenue
+          - name: article_booked_impressions
+            alias: impressions
 
   - name: dim_readers
     description: Enriched reader dimension with acquisition, engagement, and subscription status.
+    semantic_model:
+      enabled: true
+      name: readers
+    agg_time_dimension: signup_date
     columns:
       - name: reader_key
+        entity:
+          type: unique
         data_tests:
           - not_null
           - unique
       - name: reader_id
+        entity:
+          type: primary
+          name: reader
         data_tests:
           - not_null
           - unique
+      - name: signup_date
+        granularity: day
+        dimension:
+          type: time
+      - name: first_subscription_date
+        granularity: day
+        dimension:
+          type: time
+      - name: last_subscription_activity_date
+        granularity: day
+        dimension:
+          type: time
+      - name: last_seen_date
+        granularity: day
+        dimension:
+          type: time
+      - name: email_domain
+        dimension:
+          type: categorical
+      - name: acquisition_channel
+        dimension:
+          type: categorical
+      - name: country
+        dimension:
+          type: categorical
+      - name: age_band
+        dimension:
+          type: categorical
+      - name: marketing_opt_in
+        dimension:
+          type: categorical
       - name: reader_status
+        dimension:
+          type: categorical
         data_tests:
           - accepted_values:
               arguments:
                 values: ['subscriber', 'lapsed', 'registered']
+    metrics:
+      - name: reader_count
+        description: Count of readers.
+        type: simple
+        label: Reader Count
+        agg: count_distinct
+        expr: reader_id
+      - name: reader_subscription_count
+        description: Total subscriptions started by readers.
+        type: simple
+        label: Reader Subscription Count
+        agg: sum
+        expr: subscription_count
+      - name: reader_active_subscription_count
+        description: Total active subscription counts across readers.
+        type: simple
+        label: Reader Active Subscription Count
+        agg: sum
+        expr: active_subscription_count
+      - name: reader_monthly_recurring_revenue_gbp
+        description: Total reader monthly recurring revenue in GBP.
+        type: simple
+        label: Reader Monthly Recurring Revenue GBP
+        agg: sum
+        expr: monthly_recurring_revenue_gbp
+      - name: reader_lifetime_pageviews
+        description: Total lifetime pageviews across readers.
+        type: simple
+        label: Reader Lifetime Pageviews
+        agg: sum
+        expr: lifetime_pageviews
+      - name: reader_lifetime_engaged_seconds
+        description: Total lifetime engaged seconds across readers.
+        type: simple
+        label: Reader Lifetime Engaged Seconds
+        agg: sum
+        expr: lifetime_engaged_seconds
+      - name: average_reader_lifetime_engaged_seconds
+        description: Average lifetime engaged seconds per reader pageview.
+        type: ratio
+        label: Average Reader Lifetime Engaged Seconds
+        numerator: reader_lifetime_engaged_seconds
+        denominator: reader_lifetime_pageviews
 
   - name: rpt_daily_content_performance
     description: Daily content engagement by section, channel, and premium status with newsletter and paywall signals.
+    semantic_model:
+      enabled: true
+      name: daily_content_performance
+    primary_entity: daily_content_performance
+    agg_time_dimension: report_date
     data_tests:
       - dbt_utils.unique_combination_of_columns:
           arguments:
@@ -50,15 +246,24 @@ models:
               - is_premium
     columns:
       - name: report_date
+        granularity: day
+        dimension:
+          type: time
         data_tests:
           - not_null
       - name: section
+        dimension:
+          type: categorical
         data_tests:
           - not_null
       - name: primary_channel
+        dimension:
+          type: categorical
         data_tests:
           - not_null
       - name: is_premium
+        dimension:
+          type: categorical
         data_tests:
           - not_null
       - name: pageviews
@@ -86,9 +291,113 @@ models:
           - dbt_expectations.expect_column_values_to_be_between:
               arguments:
                 min_value: 0
+    metrics:
+      - name: content_pageviews
+        description: Total pageviews in the daily content report.
+        type: simple
+        label: Content Pageviews
+        agg: sum
+        expr: pageviews
+      - name: content_unique_readers
+        description: Total unique-reader counts in the daily content report.
+        type: simple
+        label: Content Unique Readers
+        agg: sum
+        expr: unique_readers
+      - name: content_sessions
+        description: Total sessions in the daily content report.
+        type: simple
+        label: Content Sessions
+        agg: sum
+        expr: sessions
+      - name: content_engaged_seconds
+        description: Total engaged seconds in the daily content report.
+        type: simple
+        label: Content Engaged Seconds
+        agg: sum
+        expr: engaged_seconds
+      - name: content_delivered_ad_impressions
+        description: Total delivered ad impressions in the daily content report.
+        type: simple
+        label: Content Delivered Ad Impressions
+        agg: sum
+        expr: delivered_ad_impressions
+      - name: newsletter_sends
+        description: Total newsletter sends.
+        type: simple
+        label: Newsletter Sends
+        agg: sum
+      - name: delivered_newsletter_sends
+        description: Total delivered newsletter sends.
+        type: simple
+        label: Delivered Newsletter Sends
+        agg: sum
+      - name: newsletter_opens
+        description: Total newsletter opens.
+        type: simple
+        label: Newsletter Opens
+        agg: sum
+      - name: newsletter_clicks
+        description: Total newsletter clicks.
+        type: simple
+        label: Newsletter Clicks
+        agg: sum
+      - name: content_paywall_events
+        description: Total paywall events in the daily content report.
+        type: simple
+        label: Content Paywall Events
+        agg: sum
+        expr: paywall_events
+      - name: content_paywall_views
+        description: Total paywall views in the daily content report.
+        type: simple
+        label: Content Paywall Views
+        agg: sum
+        expr: paywall_views
+      - name: content_paywall_conversions
+        description: Total paywall conversions in the daily content report.
+        type: simple
+        label: Content Paywall Conversions
+        agg: sum
+        expr: paywall_conversions
+      - name: content_paywall_revenue_gbp
+        description: Total paywall conversion revenue in GBP in the daily content report.
+        type: simple
+        label: Content Paywall Revenue GBP
+        agg: sum
+        expr: paywall_conversion_revenue_gbp
+      - name: content_average_engaged_seconds
+        description: Average engaged seconds per content pageview.
+        type: ratio
+        label: Content Average Engaged Seconds
+        numerator: content_engaged_seconds
+        denominator: content_pageviews
+      - name: newsletter_open_rate
+        description: Delivered newsletter open rate.
+        type: ratio
+        label: Newsletter Open Rate
+        numerator: newsletter_opens
+        denominator: delivered_newsletter_sends
+      - name: newsletter_click_rate
+        description: Delivered newsletter click rate.
+        type: ratio
+        label: Newsletter Click Rate
+        numerator: newsletter_clicks
+        denominator: delivered_newsletter_sends
+      - name: content_paywall_conversion_rate
+        description: Paywall conversions divided by paywall views for daily content.
+        type: ratio
+        label: Content Paywall Conversion Rate
+        numerator: content_paywall_conversions
+        denominator: content_paywall_views
 
   - name: rpt_reader_acquisition_funnel
     description: Signup cohort funnel by acquisition channel, country, and age band with subscription and paywall conversion signals.
+    semantic_model:
+      enabled: true
+      name: reader_acquisition_funnel
+    primary_entity: reader_acquisition_funnel
+    agg_time_dimension: signup_cohort_date
     data_tests:
       - dbt_utils.unique_combination_of_columns:
           arguments:
@@ -99,15 +408,24 @@ models:
               - age_band
     columns:
       - name: signup_cohort_date
+        granularity: day
+        dimension:
+          type: time
         data_tests:
           - not_null
       - name: acquisition_channel
+        dimension:
+          type: categorical
         data_tests:
           - not_null
       - name: country
+        dimension:
+          type: categorical
         data_tests:
           - not_null
       - name: age_band
+        dimension:
+          type: categorical
         data_tests:
           - not_null
       - name: registered_readers
@@ -135,21 +453,132 @@ models:
           - dbt_expectations.expect_column_values_to_be_between:
               arguments:
                 min_value: 0
+    metrics:
+      - name: acquisition_registered_readers
+        description: Total registered readers by signup cohort.
+        type: simple
+        label: Acquisition Registered Readers
+        agg: sum
+        expr: registered_readers
+      - name: acquisition_marketing_opt_in_readers
+        description: Total marketing opt-in readers by signup cohort.
+        type: simple
+        label: Acquisition Marketing Opt-In Readers
+        agg: sum
+        expr: marketing_opt_in_readers
+      - name: acquisition_subscriber_readers
+        description: Total subscriber readers by signup cohort.
+        type: simple
+        label: Acquisition Subscriber Readers
+        agg: sum
+        expr: subscriber_readers
+      - name: acquisition_lapsed_readers
+        description: Total lapsed readers by signup cohort.
+        type: simple
+        label: Acquisition Lapsed Readers
+        agg: sum
+        expr: lapsed_readers
+      - name: acquisition_subscriptions_started
+        description: Total subscriptions started by signup cohort.
+        type: simple
+        label: Acquisition Subscriptions Started
+        agg: sum
+        expr: subscriptions_started
+      - name: acquisition_active_subscriptions
+        description: Total active subscriptions by signup cohort.
+        type: simple
+        label: Acquisition Active Subscriptions
+        agg: sum
+        expr: active_subscriptions
+      - name: acquisition_monthly_recurring_revenue_gbp
+        description: Total monthly recurring revenue in GBP by signup cohort.
+        type: simple
+        label: Acquisition Monthly Recurring Revenue GBP
+        agg: sum
+        expr: monthly_recurring_revenue_gbp
+      - name: acquisition_paywall_events
+        description: Total paywall events by signup cohort.
+        type: simple
+        label: Acquisition Paywall Events
+        agg: sum
+        expr: paywall_events
+      - name: acquisition_paywall_views
+        description: Total paywall views by signup cohort.
+        type: simple
+        label: Acquisition Paywall Views
+        agg: sum
+        expr: paywall_views
+      - name: acquisition_paywall_conversions
+        description: Total paywall conversions by signup cohort.
+        type: simple
+        label: Acquisition Paywall Conversions
+        agg: sum
+        expr: paywall_conversions
+      - name: acquisition_paywall_revenue_gbp
+        description: Total paywall conversion revenue in GBP by signup cohort.
+        type: simple
+        label: Acquisition Paywall Revenue GBP
+        agg: sum
+        expr: paywall_conversion_revenue_gbp
+      - name: acquisition_subscriber_conversion_rate
+        description: Subscriber readers divided by registered readers by acquisition cohort.
+        type: ratio
+        label: Acquisition Subscriber Conversion Rate
+        numerator: acquisition_subscriber_readers
+        denominator: acquisition_registered_readers
+      - name: acquisition_paywall_conversion_rate
+        description: Paywall conversions divided by paywall views by acquisition cohort.
+        type: ratio
+        label: Acquisition Paywall Conversion Rate
+        numerator: acquisition_paywall_conversions
+        denominator: acquisition_paywall_views
 
   - name: rpt_ad_campaign_performance
     description: Campaign-level booked spend, booked impressions, delivered impressions, delivery rate, and CPM.
+    semantic_model:
+      enabled: true
+      name: ad_campaign_performance
+    agg_time_dimension: flight_start_date
     columns:
       - name: campaign_key
+        entity:
+          type: unique
         data_tests:
           - not_null
           - unique
       - name: campaign_id
+        entity:
+          type: primary
+          name: campaign
         data_tests:
           - not_null
           - unique
+      - name: article_id
+        entity:
+          type: foreign
+          name: article
+      - name: flight_start_date
+        granularity: day
+        dimension:
+          type: time
+      - name: flight_end_date
+        granularity: day
+        dimension:
+          type: time
       - name: campaign_name
+        dimension:
+          type: categorical
         data_tests:
           - not_null
+      - name: advertiser_category
+        dimension:
+          type: categorical
+      - name: section
+        dimension:
+          type: categorical
+      - name: primary_channel
+        dimension:
+          type: categorical
       - name: booked_spend_gbp
         data_tests:
           - dbt_expectations.expect_column_values_to_be_between:
@@ -165,9 +594,70 @@ models:
           - dbt_expectations.expect_column_values_to_be_between:
               arguments:
                 min_value: 0
+    metrics:
+      - name: campaign_count
+        description: Count of advertising campaigns.
+        type: simple
+        label: Campaign Count
+        agg: count_distinct
+        expr: campaign_id
+      - name: campaign_booked_spend_gbp
+        description: Total booked campaign spend in GBP.
+        type: simple
+        label: Campaign Booked Spend GBP
+        agg: sum
+        expr: booked_spend_gbp
+      - name: campaign_booked_impressions
+        description: Total booked campaign impressions.
+        type: simple
+        label: Campaign Booked Impressions
+        agg: sum
+        expr: booked_impressions
+      - name: campaign_pageviews
+        description: Total pageviews during campaign flights.
+        type: simple
+        label: Campaign Pageviews
+        agg: sum
+      - name: campaign_delivered_impressions
+        description: Total delivered campaign impressions.
+        type: simple
+        label: Campaign Delivered Impressions
+        agg: sum
+        expr: delivered_impressions
+      - name: campaign_delivery_rate
+        description: Delivered campaign impressions divided by booked campaign impressions.
+        type: ratio
+        label: Campaign Delivery Rate
+        numerator: campaign_delivered_impressions
+        denominator: campaign_booked_impressions
+      - name: campaign_booked_cpm_gbp
+        description: Campaign booked spend per thousand booked impressions.
+        type: derived
+        label: Campaign Booked CPM GBP
+        expr: spend * 1000 / nullif(impressions, 0)
+        input_metrics:
+          - name: campaign_booked_spend_gbp
+            alias: spend
+          - name: campaign_booked_impressions
+            alias: impressions
+      - name: campaign_delivered_cpm_gbp
+        description: Campaign booked spend per thousand delivered impressions.
+        type: derived
+        label: Campaign Delivered CPM GBP
+        expr: spend * 1000 / nullif(impressions, 0)
+        input_metrics:
+          - name: campaign_booked_spend_gbp
+            alias: spend
+          - name: campaign_delivered_impressions
+            alias: impressions
 
   - name: rpt_subscription_revenue_daily
     description: Daily subscription starts, cancellations, active/trial counts, and MRR by plan, billing period, and status.
+    semantic_model:
+      enabled: true
+      name: subscription_revenue_daily
+    primary_entity: subscription_revenue_daily
+    agg_time_dimension: report_date
     data_tests:
       - dbt_utils.unique_combination_of_columns:
           arguments:
@@ -178,15 +668,24 @@ models:
               - status
     columns:
       - name: report_date
+        granularity: day
+        dimension:
+          type: time
         data_tests:
           - not_null
       - name: plan_name
+        dimension:
+          type: categorical
         data_tests:
           - not_null
       - name: billing_period
+        dimension:
+          type: categorical
         data_tests:
           - not_null
       - name: status
+        dimension:
+          type: categorical
         data_tests:
           - not_null
           - accepted_values:
@@ -217,3 +716,38 @@ models:
           - dbt_expectations.expect_column_values_to_be_between:
               arguments:
                 min_value: 0
+    metrics:
+      - name: subscription_starts
+        description: Total subscription starts.
+        type: simple
+        label: Subscription Starts
+        agg: sum
+      - name: subscription_cancellations
+        description: Total subscription cancellations.
+        type: simple
+        label: Subscription Cancellations
+        agg: sum
+      - name: subscription_active_count
+        description: Total active subscriptions.
+        type: simple
+        label: Subscription Active Count
+        agg: sum
+        expr: active_subscriptions
+      - name: subscription_trial_count
+        description: Total trial subscriptions.
+        type: simple
+        label: Subscription Trial Count
+        agg: sum
+        expr: trial_subscriptions
+      - name: subscription_monthly_recurring_revenue_gbp
+        description: Total subscription monthly recurring revenue in GBP.
+        type: simple
+        label: Subscription Monthly Recurring Revenue GBP
+        agg: sum
+        expr: monthly_recurring_revenue_gbp
+      - name: subscription_total_monthly_recurring_revenue_gbp
+        description: Total daily monthly recurring revenue in GBP.
+        type: simple
+        label: Subscription Total Monthly Recurring Revenue GBP
+        agg: max
+        expr: total_monthly_recurring_revenue_gbp
