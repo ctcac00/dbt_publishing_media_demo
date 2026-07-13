@@ -39,7 +39,7 @@ resource "dbtcloud_snowflake_credential" "production" {
   database               = var.snowflake_database
   warehouse              = var.snowflake_warehouse
   role                   = var.snowflake_role
-  private_key_wo         = var.snowflake_private_key
+  private_key_wo         = sensitive(file(pathexpand(var.snowflake_private_key_path)))
   private_key_wo_version = var.snowflake_private_key_version
 }
 

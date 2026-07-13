@@ -63,11 +63,10 @@ variable "snowflake_prod_schema" {
   default     = "publishing_media_demo_prod"
 }
 
-variable "snowflake_private_key" {
-  description = "Snowflake private key for the dbt Cloud production credential."
+variable "snowflake_private_key_path" {
+  description = "Path to the Snowflake private key for the dbt Cloud production credential."
   type        = string
   sensitive   = true
-  ephemeral   = true
 }
 
 variable "snowflake_private_key_version" {
